@@ -2,7 +2,6 @@ package com.mokshesh.cp.array;
 
 import static org.assertj.core.api.Assertions.*;
 
-import org.assertj.core.util.Lists;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
@@ -18,7 +17,7 @@ class MergeIntervalsTest {
 
   @Test
   void insert() {
-    List<MergeIntervals.Interval> intervals = Lists.list(
+    List<MergeIntervals.Interval> intervals = List.of(
       new MergeIntervals.Interval(1, 3),
       new MergeIntervals.Interval(6, 9)
     );
@@ -34,7 +33,7 @@ class MergeIntervalsTest {
 
   @Test
   void insert1() {
-    List<MergeIntervals.Interval> intervals = Lists.list(
+    List<MergeIntervals.Interval> intervals = List.of(
       new MergeIntervals.Interval(1, 3),
       new MergeIntervals.Interval(6, 9)
     );
@@ -50,7 +49,7 @@ class MergeIntervalsTest {
 
   @Test
   void insert2() {
-    List<MergeIntervals.Interval> intervals = Lists.list(
+    List<MergeIntervals.Interval> intervals = List.of(
       new MergeIntervals.Interval(1, 2),
       new MergeIntervals.Interval(3, 6)
     );
