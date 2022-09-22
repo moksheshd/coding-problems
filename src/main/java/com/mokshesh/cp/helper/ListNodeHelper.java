@@ -1,4 +1,4 @@
-package com.mokshesh.cp.ll.base;
+package com.mokshesh.cp.helper;
 
 public class ListNodeHelper {
   private ListNodeHelper() {

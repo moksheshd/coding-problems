@@ -1,7 +1,7 @@
 package com.mokshesh.cp.ll;
 
-import com.mokshesh.cp.ll.base.ListNode;
-import com.mokshesh.cp.ll.base.ListNodeHelper;
+import com.mokshesh.cp.helper.ListNode;
+import com.mokshesh.cp.helper.ListNodeHelper;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.params.ParameterizedTest;
