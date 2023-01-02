@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "2845",
+          "title": "Find the Value of the Partition",
+          "titleSlug": "find-the-value-of-the-partition",
+          "difficulty": "Medium",
+          "acRate": 64.35645350410391,
+          "status": "PENDING",
+          "frontendQuestionId": "2740"
+        },
+        {
+          "questionId": "2848",
+          "title": "Special Permutations",
+          "titleSlug": "special-permutations",
+          "difficulty": "Medium",
+          "acRate": 28.906600808262233,
+          "status": "PENDING",
+          "frontendQuestionId": "2741"
+        },
+        {
+          "questionId": "2890",
+          "title": "Count Substrings Without Repeating Character",
+          "titleSlug": "count-substrings-without-repeating-character",
+          "difficulty": "Medium",
+          "acRate": 76.15066975526237,
+          "status": "PENDING",
+          "frontendQuestionId": "2743"
+        },
+        {
+          "questionId": "2850",
+          "title": "Construct the Longest New String",
+          "titleSlug": "construct-the-longest-new-string",
+          "difficulty": "Medium",
+          "acRate": 53.98468175868922,
+          "status": "PENDING",
+          "frontendQuestionId": "2745"
+        },
+        {
+          "questionId": "2854",
+          "title": "Decremental String Concatenation",
+          "titleSlug": "decremental-string-concatenation",
+          "difficulty": "Medium",
+          "acRate": 26.7839972027157,
+          "status": "PENDING",
+          "frontendQuestionId": "2746"
+        },
+        {
+          "questionId": "2833",
+          "title": "Count Zero Request Servers",
+          "titleSlug": "count-zero-request-servers",
+          "difficulty": "Medium",
+          "acRate": 32.95805187223751,
+          "status": "PENDING",
+          "frontendQuestionId": "2747"
+        },
+        {
+          "questionId": "2837",
+          "title": "Minimum Operations to Make the Integer Zero",
+          "titleSlug": "minimum-operations-to-make-the-integer-zero",
+          "difficulty": "Medium",
+          "acRate": 30.003158831806566,
+          "status": "PENDING",
+          "frontendQuestionId": "2749"
+        },
+        {
+          "questionId": "2867",
+          "title": "Ways to Split Array Into Good Subarrays",
+          "titleSlug": "ways-to-split-array-into-good-subarrays",
+          "difficulty": "Medium",
+          "acRate": 34.18678655884156,
+          "status": "PENDING",
+          "frontendQuestionId": "2750"
+        },
+        {
+          "questionId": "2770",
+          "title": "Bind Function to Context",
+          "titleSlug": "bind-function-to-context",
+          "difficulty": "Medium",
+          "acRate": 86.34886240520044,
+          "status": "PENDING",
+          "frontendQuestionId": "2754"
+        },
+        {
+          "questionId": "2795",
+          "title": "Deep Merge of Two Objects",
+          "titleSlug": "deep-merge-of-two-objects",
+          "difficulty": "Medium",
+          "acRate": 65.91133004926108,
+          "status": "PENDING",
+          "frontendQuestionId": "2755"
+        },
+        {
+          "questionId": "2814",
+          "title": "Generate Circular Array Values",
+          "titleSlug": "generate-circular-array-values",
+          "difficulty": "Medium",
+          "acRate": 73.85524372230428,
+          "status": "PENDING",
+          "frontendQuestionId": "2757"
+        },
+        {
+          "questionId": "2873",
+          "title": "Prime Pairs With Target Sum",
+          "titleSlug": "prime-pairs-with-target-sum",
+          "difficulty": "Medium",
+          "acRate": 34.95086258690241,
+          "status": "PENDING",
+          "frontendQuestionId": "2761"
+        },
+        {
+          "questionId": "2868",
+          "title": "Continuous Subarrays",
+          "titleSlug": "continuous-subarrays",
+          "difficulty": "Medium",
+          "acRate": 58.79278648827276,
+          "status": "PENDING",
+          "frontendQuestionId": "2762"
+        },
+        {
+          "questionId": "2918",
+          "title": "Is Array a Preorder of Some \u200cBinary Tree",
+          "titleSlug": "is-array-a-preorder-of-some-binary-tree",
+          "difficulty": "Medium",
+          "acRate": 66.41148325358853,
+          "status": "PENDING",
+          "frontendQuestionId": "2764"
+        },
+        {
+          "questionId": "2834",
+          "title": "Relocate Marbles",
+          "titleSlug": "relocate-marbles",
+          "difficulty": "Medium",
+          "acRate": 51.576360444704505,
+          "status": "PENDING",
+          "frontendQuestionId": "2766"
+        },
+        {
+          "questionId": "2883",
+          "title": "Partition String Into Minimum Beautiful Substrings",
+          "titleSlug": "partition-string-into-minimum-beautiful-substrings",
+          "difficulty": "Medium",
+          "acRate": 53.122811113705346,
+          "status": "PENDING",
+          "frontendQuestionId": "2767"
+        },
+        {
+          "questionId": "2889",
+          "title": "Number of Black Blocks",
+          "titleSlug": "number-of-black-blocks",
+          "difficulty": "Medium",
+          "acRate": 37.18939484009036,
+          "status": "PENDING",
+          "frontendQuestionId": "2768"
+        },
+        {
+          "questionId": "2855",
+          "title": "Maximum Number of Jumps to Reach the Last Index",
+          "titleSlug": "maximum-number-of-jumps-to-reach-the-last-index",
+          "difficulty": "Medium",
+          "acRate": 31.685311388281683,
+          "status": "PENDING",
+          "frontendQuestionId": "2770"
+        },
+        {
+          "questionId": "2869",
+          "title": "Longest Non-decreasing Subarray From Two Arrays",
+          "titleSlug": "longest-non-decreasing-subarray-from-two-arrays",
+          "difficulty": "Medium",
+          "acRate": 29.83574716041042,
+          "status": "PENDING",
+          "frontendQuestionId": "2771"
+        },
+        {
+          "questionId": "2878",
+          "title": "Apply Operations to Make All Array Elements Equal to Zero",
+          "titleSlug": "apply-operations-to-make-all-array-elements-equal-to-zero",
+          "difficulty": "Medium",
+          "acRate": 32.852512895421555,
+          "status": "PENDING",
+          "frontendQuestionId": "2772"
+        },
+        {
+          "questionId": "2944",
+          "title": "Height of Special Binary Tree",
+          "titleSlug": "height-of-special-binary-tree",
+          "difficulty": "Medium",
+          "acRate": 73.04163726182075,
+          "status": "PENDING",
+          "frontendQuestionId": "2773"
+        },
+        {
+          "questionId": "2781",
+          "title": "Undefined to Null",
+          "titleSlug": "undefined-to-null",
+          "difficulty": "Medium",
+          "acRate": 70.14492753623188,
+          "status": "PENDING",
+          "frontendQuestionId": "2775"
+        },
+        {
+          "questionId": "2782",
+          "title": "Convert Callback Based Function to Promise Based Function",
+          "titleSlug": "convert-callback-based-function-to-promise-based-function",
+          "difficulty": "Medium",
+          "acRate": 92.44357212953877,
+          "status": "PENDING",
+          "frontendQuestionId": "2776"
+        },
+        {
+          "questionId": "2799",
+          "title": "Date Range Generator",
+          "titleSlug": "date-range-generator",
+          "difficulty": "Medium",
+          "acRate": 81.40293637846656,
+          "status": "PENDING",
+          "frontendQuestionId": "2777"
+        },
+        {
+          "questionId": "2891",
+          "title": "Maximum Beauty of an Array After Applying Operation",
+          "titleSlug": "maximum-beauty-of-an-array-after-applying-operation",
+          "difficulty": "Medium",
+          "acRate": 58.224009430374934,
+          "status": "PENDING",
+          "frontendQuestionId": "2779"
+        },
+        {
+          "questionId": "2888",
+          "title": "Minimum Index of a Valid Split",
+          "titleSlug": "minimum-index-of-a-valid-split",
+          "difficulty": "Medium",
+          "acRate": 61.27780338127926,
+          "status": "PENDING",
+          "frontendQuestionId": "2780"
+        },
+        {
+          "questionId": "2995",
+          "title": "Number of Unique Categories",
+          "titleSlug": "number-of-unique-categories",
+          "difficulty": "Medium",
+          "acRate": 82.75538894095595,
+          "status": "PENDING",
+          "frontendQuestionId": "2782"
+        },
+        {
+          "questionId": "3002",
+          "title": "Flight Occupancy and Waitlist Analysis",
+          "titleSlug": "flight-occupancy-and-waitlist-analysis",
+          "difficulty": "Medium",
+          "acRate": 38.09891808346214,
+          "status": "PENDING",
+          "frontendQuestionId": "2783"
+        },
+        {
+          "questionId": "2887",
+          "title": "Sort Vowels in a String",
+          "titleSlug": "sort-vowels-in-a-string",
+          "difficulty": "Medium",
+          "acRate": 80.66246091881126,
+          "status": "PENDING",
+          "frontendQuestionId": "2785"
+        },
+        {
+          "questionId": "2893",
+          "title": "Visit Array Positions to Maximize Score",
+          "titleSlug": "visit-array-positions-to-maximize-score",
+          "difficulty": "Medium",
+          "acRate": 36.38983225275291,
+          "status": "PENDING",
+          "frontendQuestionId": "2786"
+        },
+        {
+          "questionId": "2882",
+          "title": "Ways to Express an Integer as Sum of Powers",
+          "titleSlug": "ways-to-express-an-integer-as-sum-of-powers",
+          "difficulty": "Medium",
+          "acRate": 34.20132820692066,
+          "status": "PENDING",
+          "frontendQuestionId": "2787"
+        },
+        {
+          "questionId": "2872",
+          "title": "Largest Element in an Array after Merge Operations",
+          "titleSlug": "largest-element-in-an-array-after-merge-operations",
+          "difficulty": "Medium",
+          "acRate": 47.05822755496374,
+          "status": "PENDING",
+          "frontendQuestionId": "2789"
+        },
+        {
+          "questionId": "2898",
+          "title": "Parallel Execution of Promises for Individual Results Retrieval",
+          "titleSlug": "parallel-execution-of-promises-for-individual-results-retrieval",
+          "difficulty": "Medium",
+          "acRate": 89.11242603550295,
+          "status": "PENDING",
+          "frontendQuestionId": "2795"
+        },
+        {
+          "questionId": "2856",
+          "title": "Count Complete Subarrays in an Array",
+          "titleSlug": "count-complete-subarrays-in-an-array",
+          "difficulty": "Medium",
+          "acRate": 65.28295953228411,
+          "status": "PENDING",
+          "frontendQuestionId": "2799"
+        },
+        {
+          "questionId": "2877",
+          "title": "Shortest String That Contains Three Strings",
+          "titleSlug": "shortest-string-that-contains-three-strings",
+          "difficulty": "Medium",
+          "acRate": 31.050734682561686,
+          "status": "PENDING",
+          "frontendQuestionId": "2800"
+        },
+        {
+          "questionId": "3030",
+          "title": "Find The K-th Lucky Number",
+          "titleSlug": "find-the-k-th-lucky-number",
+          "difficulty": "Medium",
+          "acRate": 76.42149191444966,
+          "status": "PENDING",
+          "frontendQuestionId": "2802"
+        },
+        {
+          "questionId": "2908",
+          "title": "Custom Interval",
+          "titleSlug": "custom-interval",
+          "difficulty": "Medium",
+          "acRate": 81.6358024691358,
+          "status": "PENDING",
+          "frontendQuestionId": "2805"
+        },
+        {
+          "questionId": "2903",
+          "title": "Insert Greatest Common Divisors in Linked List",
+          "titleSlug": "insert-greatest-common-divisors-in-linked-list",
+          "difficulty": "Medium",
+          "acRate": 92.25327091491911,
+          "status": "PENDING",
+          "frontendQuestionId": "2807"
+        },
+        {
+          "questionId": "2920",
+          "title": "Minimum Seconds to Equalize a Circular Array",
+          "titleSlug": "minimum-seconds-to-equalize-a-circular-array",
+          "difficulty": "Medium",
+          "acRate": 27.222516205847334,
+          "status": "PENDING",
+          "frontendQuestionId": "2808"
+        },
+        {
+          "questionId": "2916",
+          "title": "Check if it is Possible to Split Array",
+          "titleSlug": "check-if-it-is-possible-to-split-array",
+          "difficulty": "Medium",
+          "acRate": 33.959046258458194,
+          "status": "PENDING",
+          "frontendQuestionId": "2811"
+        },
+        {
+          "questionId": "2914",
+          "title": "Find the Safest Path in a Grid",
+          "titleSlug": "find-the-safest-path-in-a-grid",
+          "difficulty": "Medium",
+          "acRate": 48.58527366559252,
+          "status": "PENDING",
+          "frontendQuestionId": "2812"
+        },
+        {
+          "questionId": "2871",
+          "title": "Double a Number Represented as a Linked List",
+          "titleSlug": "double-a-number-represented-as-a-linked-list",
+          "difficulty": "Medium",
+          "acRate": 61.41492846061024,
+          "status": "PENDING",
+          "frontendQuestionId": "2816"
+        },
+        {
+          "questionId": "3000",
+          "title": "Minimum Absolute Difference Between Elements With Constraint",
+          "titleSlug": "minimum-absolute-difference-between-elements-with-constraint",
+          "difficulty": "Medium",
+          "acRate": 34.6249806014158,
+          "status": "PENDING",
+          "frontendQuestionId": "2817"
+        },
+        {
+          "questionId": "3078",
+          "title": "Election Results",
+          "titleSlug": "election-results",
+          "difficulty": "Medium",
+          "acRate": 67.4007799954118,
+          "status": "PENDING",
+          "frontendQuestionId": "2820"
+        },
+        {
+          "questionId": "2909",
+          "title": "Delay the Resolution of Each Promise",
+          "titleSlug": "delay-the-resolution-of-each-promise",
+          "difficulty": "Medium",
+          "acRate": 69.6969696969697,
+          "status": "PENDING",
+          "frontendQuestionId": "2821"
+        },
+        {
+          "questionId": "2912",
+          "title": "Deep Object Filter",
+          "titleSlug": "deep-object-filter",
+          "difficulty": "Medium",
+          "acRate": 55.01653803748622,
+          "status": "PENDING",
+          "frontendQuestionId": "2823"
+        },
+        {
+          "questionId": "3018",
+          "title": "Make String a Subsequence Using Cyclic Increments",
+          "titleSlug": "make-string-a-subsequence-using-cyclic-increments",
+          "difficulty": "Medium",
+          "acRate": 65.65817185292948,
+          "status": "PENDING",
+          "frontendQuestionId": "2825"
+        },
+        {
+          "questionId": "2904",
+          "title": "Sorting Three Groups",
+          "titleSlug": "sorting-three-groups",
+          "difficulty": "Medium",
+          "acRate": 41.87170474516696,
+          "status": "PENDING",
+          "frontendQuestionId": "2826"
+        },
+        {
+          "questionId": "2811",
+          "title": "Determine the Minimum Sum of a k-avoiding Array",
+          "titleSlug": "determine-the-minimum-sum-of-a-k-avoiding-array",
+          "difficulty": "Medium",
+          "acRate": 60.62022160207401,
+          "status": "PENDING",
+          "frontendQuestionId": "2829"
+        },
+        {
+          "questionId": "2979",
+          "title": "Maximize the Profit as the Salesman",
+          "titleSlug": "maximize-the-profit-as-the-salesman",
+          "difficulty": "Medium",
+          "acRate": 36.817825200062764,
+          "status": "PENDING",
+          "frontendQuestionId": "2830"
+        }
+      ]
+    }
+  }
+}

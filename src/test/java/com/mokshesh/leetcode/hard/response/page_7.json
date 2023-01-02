@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 796,
+      "questions": [
+        {
+          "questionId": "1559",
+          "title": "Cherry Pickup II",
+          "titleSlug": "cherry-pickup-ii",
+          "difficulty": "Hard",
+          "acRate": 71.84059013341846,
+          "status": "PENDING",
+          "frontendQuestionId": "1463"
+        },
+        {
+          "questionId": "1577",
+          "title": "Probability of a Two Boxes Having The Same Number of Distinct Balls",
+          "titleSlug": "probability-of-a-two-boxes-having-the-same-number-of-distinct-balls",
+          "difficulty": "Hard",
+          "acRate": 60.23785552479235,
+          "status": "PENDING",
+          "frontendQuestionId": "1467"
+        },
+        {
+          "questionId": "1583",
+          "title": "Paint House III",
+          "titleSlug": "paint-house-iii",
+          "difficulty": "Hard",
+          "acRate": 60.9841437338591,
+          "status": "PENDING",
+          "frontendQuestionId": "1473"
+        },
+        {
+          "questionId": "1571",
+          "title": "Allocate Mailboxes",
+          "titleSlug": "allocate-mailboxes",
+          "difficulty": "Hard",
+          "acRate": 55.55066607992959,
+          "status": "PENDING",
+          "frontendQuestionId": "1478"
+        },
+        {
+          "questionId": "1623",
+          "title": "Sales by Day of the Week",
+          "titleSlug": "sales-by-day-of-the-week",
+          "difficulty": "Hard",
+          "acRate": 77.44433688286544,
+          "status": "PENDING",
+          "frontendQuestionId": "1479"
+        },
+        {
+          "questionId": "1296",
+          "title": "Kth Ancestor of a Tree Node",
+          "titleSlug": "kth-ancestor-of-a-tree-node",
+          "difficulty": "Hard",
+          "acRate": 35.311495577291275,
+          "status": "PENDING",
+          "frontendQuestionId": "1483"
+        },
+        {
+          "questionId": "1613",
+          "title": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+          "titleSlug": "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
+          "difficulty": "Hard",
+          "acRate": 66.84863022911716,
+          "status": "PENDING",
+          "frontendQuestionId": "1489"
+        },
+        {
+          "questionId": "1587",
+          "title": "Parallel Courses II",
+          "titleSlug": "parallel-courses-ii",
+          "difficulty": "Hard",
+          "acRate": 29.542304299735378,
+          "status": "PENDING",
+          "frontendQuestionId": "1494"
+        },
+        {
+          "questionId": "1622",
+          "title": "Max Value of Equation",
+          "titleSlug": "max-value-of-equation",
+          "difficulty": "Hard",
+          "acRate": 44.290207435966025,
+          "status": "PENDING",
+          "frontendQuestionId": "1499"
+        },
+        {
+          "questionId": "1629",
+          "title": "Minimum Possible Integer After at Most K Adjacent Swaps On Digits",
+          "titleSlug": "minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits",
+          "difficulty": "Hard",
+          "acRate": 40.2667240266724,
+          "status": "PENDING",
+          "frontendQuestionId": "1505"
+        },
+        {
+          "questionId": "1617",
+          "title": "Stone Game IV",
+          "titleSlug": "stone-game-iv",
+          "difficulty": "Hard",
+          "acRate": 59.49911187321702,
+          "status": "PENDING",
+          "frontendQuestionId": "1510"
+        },
+        {
+          "questionId": "1638",
+          "title": "Best Position for a Service Centre",
+          "titleSlug": "best-position-for-a-service-centre",
+          "difficulty": "Hard",
+          "acRate": 34.61142075928068,
+          "status": "PENDING",
+          "frontendQuestionId": "1515"
+        },
+        {
+          "questionId": "1655",
+          "title": "Move Sub-Tree of N-Ary Tree",
+          "titleSlug": "move-sub-tree-of-n-ary-tree",
+          "difficulty": "Hard",
+          "acRate": 60.56126284139314,
+          "status": "PENDING",
+          "frontendQuestionId": "1516"
+        },
+        {
+          "questionId": "1644",
+          "title": "Maximum Number of Non-Overlapping Substrings",
+          "titleSlug": "maximum-number-of-non-overlapping-substrings",
+          "difficulty": "Hard",
+          "acRate": 39.86500519210799,
+          "status": "PENDING",
+          "frontendQuestionId": "1520"
+        },
+        {
+          "questionId": "1645",
+          "title": "Find a Value of a Mysterious Function Closest to Target",
+          "titleSlug": "find-a-value-of-a-mysterious-function-closest-to-target",
+          "difficulty": "Hard",
+          "acRate": 45.58094872287305,
+          "status": "PENDING",
+          "frontendQuestionId": "1521"
+        },
+        {
+          "questionId": "1633",
+          "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+          "titleSlug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+          "difficulty": "Hard",
+          "acRate": 71.9975791504331,
+          "status": "PENDING",
+          "frontendQuestionId": "1526"
+        },
+        {
+          "questionId": "1637",
+          "title": "String Compression II",
+          "titleSlug": "string-compression-ii",
+          "difficulty": "Hard",
+          "acRate": 52.19749738026259,
+          "status": "PENDING",
+          "frontendQuestionId": "1531"
+        },
+        {
+          "questionId": "1659",
+          "title": "Get the Maximum Score",
+          "titleSlug": "get-the-maximum-score",
+          "difficulty": "Hard",
+          "acRate": 39.77788061082832,
+          "status": "PENDING",
+          "frontendQuestionId": "1537"
+        },
+        {
+          "questionId": "1668",
+          "title": "Find Longest Awesome Substring",
+          "titleSlug": "find-longest-awesome-substring",
+          "difficulty": "Hard",
+          "acRate": 44.84512744027486,
+          "status": "PENDING",
+          "frontendQuestionId": "1542"
+        },
+        {
+          "questionId": "1669",
+          "title": "Minimum Cost to Cut a Stick",
+          "titleSlug": "minimum-cost-to-cut-a-stick",
+          "difficulty": "Hard",
+          "acRate": 61.80121258414093,
+          "status": "PENDING",
+          "frontendQuestionId": "1547"
+        },
+        {
+          "questionId": "1687",
+          "title": "The Most Similar Path in a Graph",
+          "titleSlug": "the-most-similar-path-in-a-graph",
+          "difficulty": "Hard",
+          "acRate": 59.258263907551736,
+          "status": "PENDING",
+          "frontendQuestionId": "1548"
+        },
+        {
+          "questionId": "1676",
+          "title": "Minimum Number of Days to Eat N Oranges",
+          "titleSlug": "minimum-number-of-days-to-eat-n-oranges",
+          "difficulty": "Hard",
+          "acRate": 35.5318554312451,
+          "status": "PENDING",
+          "frontendQuestionId": "1553"
+        },
+        {
+          "questionId": "1685",
+          "title": "Stone Game V",
+          "titleSlug": "stone-game-v",
+          "difficulty": "Hard",
+          "acRate": 40.99876021003501,
+          "status": "PENDING",
+          "frontendQuestionId": "1563"
+        },
+        {
+          "questionId": "1691",
+          "title": "Minimum Number of Days to Disconnect Island",
+          "titleSlug": "minimum-number-of-days-to-disconnect-island",
+          "difficulty": "Hard",
+          "acRate": 59.46637542939507,
+          "status": "PENDING",
+          "frontendQuestionId": "1568"
+        },
+        {
+          "questionId": "1692",
+          "title": "Number of Ways to Reorder Array to Get Same BST",
+          "titleSlug": "number-of-ways-to-reorder-array-to-get-same-bst",
+          "difficulty": "Hard",
+          "acRate": 53.50764658649364,
+          "status": "PENDING",
+          "frontendQuestionId": "1569"
+        },
+        {
+          "questionId": "1680",
+          "title": "Count All Possible Routes",
+          "titleSlug": "count-all-possible-routes",
+          "difficulty": "Hard",
+          "acRate": 65.07300989166274,
+          "status": "PENDING",
+          "frontendQuestionId": "1575"
+        },
+        {
+          "questionId": "1701",
+          "title": "Remove Max Number of Edges to Keep Graph Fully Traversable",
+          "titleSlug": "remove-max-number-of-edges-to-keep-graph-fully-traversable",
+          "difficulty": "Hard",
+          "acRate": 70.57885906040269,
+          "status": "PENDING",
+          "frontendQuestionId": "1579"
+        },
+        {
+          "questionId": "1707",
+          "title": "Check If String Is Transformable With Substring Sort Operations",
+          "titleSlug": "check-if-string-is-transformable-with-substring-sort-operations",
+          "difficulty": "Hard",
+          "acRate": 48.760330578512395,
+          "status": "PENDING",
+          "frontendQuestionId": "1585"
+        },
+        {
+          "questionId": "1696",
+          "title": "Strange Printer II",
+          "titleSlug": "strange-printer-ii",
+          "difficulty": "Hard",
+          "acRate": 59.68797181680926,
+          "status": "PENDING",
+          "frontendQuestionId": "1591"
+        },
+        {
+          "questionId": "1717",
+          "title": "Minimum Cost to Connect Two Groups of Points",
+          "titleSlug": "minimum-cost-to-connect-two-groups-of-points",
+          "difficulty": "Hard",
+          "acRate": 49.00301248027542,
+          "status": "PENDING",
+          "frontendQuestionId": "1595"
+        },
+        {
+          "questionId": "1736",
+          "title": "Build Binary Expression Tree From Infix Expression",
+          "titleSlug": "build-binary-expression-tree-from-infix-expression",
+          "difficulty": "Hard",
+          "acRate": 62.48008376200664,
+          "status": "PENDING",
+          "frontendQuestionId": "1597"
+        },
+        {
+          "questionId": "1723",
+          "title": "Maximum Number of Achievable Transfer Requests",
+          "titleSlug": "maximum-number-of-achievable-transfer-requests",
+          "difficulty": "Hard",
+          "acRate": 64.48743509409987,
+          "status": "PENDING",
+          "frontendQuestionId": "1601"
+        },
+        {
+          "questionId": "1710",
+          "title": "Find Servers That Handled Most Number of Requests",
+          "titleSlug": "find-servers-that-handled-most-number-of-requests",
+          "difficulty": "Hard",
+          "acRate": 43.688877744090085,
+          "status": "PENDING",
+          "frontendQuestionId": "1606"
+        },
+        {
+          "questionId": "1733",
+          "title": "Maximum Number of Visible Points",
+          "titleSlug": "maximum-number-of-visible-points",
+          "difficulty": "Hard",
+          "acRate": 37.43868798577981,
+          "status": "PENDING",
+          "frontendQuestionId": "1610"
+        },
+        {
+          "questionId": "1732",
+          "title": "Minimum One Bit Operations to Make Integers Zero",
+          "titleSlug": "minimum-one-bit-operations-to-make-integers-zero",
+          "difficulty": "Hard",
+          "acRate": 73.55747549310485,
+          "status": "PENDING",
+          "frontendQuestionId": "1611"
+        },
+        {
+          "questionId": "1740",
+          "title": "Count Subtrees With Max Distance Between Cities",
+          "titleSlug": "count-subtrees-with-max-distance-between-cities",
+          "difficulty": "Hard",
+          "acRate": 67.08943443470687,
+          "status": "PENDING",
+          "frontendQuestionId": "1617"
+        },
+        {
+          "questionId": "1728",
+          "title": "Fancy Sequence",
+          "titleSlug": "fancy-sequence",
+          "difficulty": "Hard",
+          "acRate": 17.940040664274115,
+          "status": "PENDING",
+          "frontendQuestionId": "1622"
+        },
+        {
+          "questionId": "1223",
+          "title": "Graph Connectivity With Threshold",
+          "titleSlug": "graph-connectivity-with-threshold",
+          "difficulty": "Hard",
+          "acRate": 47.80348513691609,
+          "status": "PENDING",
+          "frontendQuestionId": "1627"
+        },
+        {
+          "questionId": "1257",
+          "title": "Rank Transform of a Matrix",
+          "titleSlug": "rank-transform-of-a-matrix",
+          "difficulty": "Hard",
+          "acRate": 41.184991033245964,
+          "status": "PENDING",
+          "frontendQuestionId": "1632"
+        },
+        {
+          "questionId": "1779",
+          "title": "Hopper Company Queries I",
+          "titleSlug": "hopper-company-queries-i",
+          "difficulty": "Hard",
+          "acRate": 48.022055847834885,
+          "status": "PENDING",
+          "frontendQuestionId": "1635"
+        },
+        {
+          "questionId": "1744",
+          "title": "Number of Ways to Form a Target String Given a Dictionary",
+          "titleSlug": "number-of-ways-to-form-a-target-string-given-a-dictionary",
+          "difficulty": "Hard",
+          "acRate": 57.37798893851982,
+          "status": "PENDING",
+          "frontendQuestionId": "1639"
+        },
+        {
+          "questionId": "489",
+          "title": "Kth Smallest Instructions",
+          "titleSlug": "kth-smallest-instructions",
+          "difficulty": "Hard",
+          "acRate": 47.76796055461796,
+          "status": "PENDING",
+          "frontendQuestionId": "1643"
+        },
+        {
+          "questionId": "1785",
+          "title": "Hopper Company Queries II",
+          "titleSlug": "hopper-company-queries-ii",
+          "difficulty": "Hard",
+          "acRate": 39.38157612196693,
+          "status": "PENDING",
+          "frontendQuestionId": "1645"
+        },
+        {
+          "questionId": "1772",
+          "title": "Create Sorted Array through Instructions",
+          "titleSlug": "create-sorted-array-through-instructions",
+          "difficulty": "Hard",
+          "acRate": 39.613141800597354,
+          "status": "PENDING",
+          "frontendQuestionId": "1649"
+        },
+        {
+          "questionId": "1795",
+          "title": "Hopper Company Queries III",
+          "titleSlug": "hopper-company-queries-iii",
+          "difficulty": "Hard",
+          "acRate": 65.7553330430997,
+          "status": "PENDING",
+          "frontendQuestionId": "1651"
+        },
+        {
+          "questionId": "1758",
+          "title": "Distribute Repeating Integers",
+          "titleSlug": "distribute-repeating-integers",
+          "difficulty": "Hard",
+          "acRate": 39.825535289452816,
+          "status": "PENDING",
+          "frontendQuestionId": "1655"
+        },
+        {
+          "questionId": "1778",
+          "title": "Maximize Grid Happiness",
+          "titleSlug": "maximize-grid-happiness",
+          "difficulty": "Hard",
+          "acRate": 40.143711051761414,
+          "status": "PENDING",
+          "frontendQuestionId": "1659"
+        },
+        {
+          "questionId": "1784",
+          "title": "Minimum Initial Energy to Finish Tasks",
+          "titleSlug": "minimum-initial-energy-to-finish-tasks",
+          "difficulty": "Hard",
+          "acRate": 58.73145132102787,
+          "status": "PENDING",
+          "frontendQuestionId": "1665"
+        },
+        {
+          "questionId": "1766",
+          "title": "Minimum Number of Removals to Make Mountain Array",
+          "titleSlug": "minimum-number-of-removals-to-make-mountain-array",
+          "difficulty": "Hard",
+          "acRate": 54.98977263787271,
+          "status": "PENDING",
+          "frontendQuestionId": "1671"
+        },
+        {
+          "questionId": "1794",
+          "title": "Minimize Deviation in Array",
+          "titleSlug": "minimize-deviation-in-array",
+          "difficulty": "Hard",
+          "acRate": 53.958526806319405,
+          "status": "PENDING",
+          "frontendQuestionId": "1675"
+        }
+      ]
+    }
+  }
+}

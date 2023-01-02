@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 796,
+      "questions": [
+        {
+          "questionId": "2241",
+          "title": "Recover the Original Array",
+          "titleSlug": "recover-the-original-array",
+          "difficulty": "Hard",
+          "acRate": 40.117238823569046,
+          "status": "PENDING",
+          "frontendQuestionId": "2122"
+        },
+        {
+          "questionId": "2259",
+          "title": "Minimum Operations to Remove Adjacent Ones in Matrix",
+          "titleSlug": "minimum-operations-to-remove-adjacent-ones-in-matrix",
+          "difficulty": "Hard",
+          "acRate": 40.739329268292686,
+          "status": "PENDING",
+          "frontendQuestionId": "2123"
+        },
+        {
+          "questionId": "2246",
+          "title": "Maximum Employees to Be Invited to a Meeting",
+          "titleSlug": "maximum-employees-to-be-invited-to-a-meeting",
+          "difficulty": "Hard",
+          "acRate": 62.47960848287113,
+          "status": "PENDING",
+          "frontendQuestionId": "2127"
+        },
+        {
+          "questionId": "2200",
+          "title": "Stamping the Grid",
+          "titleSlug": "stamping-the-grid",
+          "difficulty": "Hard",
+          "acRate": 32.638692186298705,
+          "status": "PENDING",
+          "frontendQuestionId": "2132"
+        },
+        {
+          "questionId": "2257",
+          "title": "Earliest Possible Day of Full Bloom",
+          "titleSlug": "earliest-possible-day-of-full-bloom",
+          "difficulty": "Hard",
+          "acRate": 71.21759310969632,
+          "status": "PENDING",
+          "frontendQuestionId": "2136"
+        },
+        {
+          "questionId": "2263",
+          "title": "Maximum Running Time of N Computers",
+          "titleSlug": "maximum-running-time-of-n-computers",
+          "difficulty": "Hard",
+          "acRate": 49.889730785589386,
+          "status": "PENDING",
+          "frontendQuestionId": "2141"
+        },
+        {
+          "questionId": "2282",
+          "title": "Choose Numbers From Two Arrays in Range",
+          "titleSlug": "choose-numbers-from-two-arrays-in-range",
+          "difficulty": "Hard",
+          "acRate": 51.937309534175014,
+          "status": "PENDING",
+          "frontendQuestionId": "2143"
+        },
+        {
+          "questionId": "2251",
+          "title": "Number of Ways to Divide a Long Corridor",
+          "titleSlug": "number-of-ways-to-divide-a-long-corridor",
+          "difficulty": "Hard",
+          "acRate": 48.99276805366314,
+          "status": "PENDING",
+          "frontendQuestionId": "2147"
+        },
+        {
+          "questionId": "2272",
+          "title": "Maximum Good People Based on Statements",
+          "titleSlug": "maximum-good-people-based-on-statements",
+          "difficulty": "Hard",
+          "acRate": 51.2227748242154,
+          "status": "PENDING",
+          "frontendQuestionId": "2151"
+        },
+        {
+          "questionId": "2296",
+          "title": "The Number of Passengers in Each Bus II",
+          "titleSlug": "the-number-of-passengers-in-each-bus-ii",
+          "difficulty": "Hard",
+          "acRate": 39.55072290596248,
+          "status": "PENDING",
+          "frontendQuestionId": "2153"
+        },
+        {
+          "questionId": "2275",
+          "title": "Find Substring With Given Hash Value",
+          "titleSlug": "find-substring-with-given-hash-value",
+          "difficulty": "Hard",
+          "acRate": 24.30010819583446,
+          "status": "PENDING",
+          "frontendQuestionId": "2156"
+        },
+        {
+          "questionId": "2276",
+          "title": "Groups of Strings",
+          "titleSlug": "groups-of-strings",
+          "difficulty": "Hard",
+          "acRate": 26.338665706496577,
+          "status": "PENDING",
+          "frontendQuestionId": "2157"
+        },
+        {
+          "questionId": "2297",
+          "title": "Amount of New Area Painted Each Day",
+          "titleSlug": "amount-of-new-area-painted-each-day",
+          "difficulty": "Hard",
+          "acRate": 55.3963110667996,
+          "status": "PENDING",
+          "frontendQuestionId": "2158"
+        },
+        {
+          "questionId": "2267",
+          "title": "Minimum Difference in Sums After Removal of Elements",
+          "titleSlug": "minimum-difference-in-sums-after-removal-of-elements",
+          "difficulty": "Hard",
+          "acRate": 48.7857847976308,
+          "status": "PENDING",
+          "frontendQuestionId": "2163"
+        },
+        {
+          "questionId": "2286",
+          "title": "Minimum Time to Remove All Cars Containing Illegal Goods",
+          "titleSlug": "minimum-time-to-remove-all-cars-containing-illegal-goods",
+          "difficulty": "Hard",
+          "acRate": 41.59600844837614,
+          "status": "PENDING",
+          "frontendQuestionId": "2167"
+        },
+        {
+          "questionId": "2291",
+          "title": "Maximum AND Sum of Array",
+          "titleSlug": "maximum-and-sum-of-array",
+          "difficulty": "Hard",
+          "acRate": 49.589656744610174,
+          "status": "PENDING",
+          "frontendQuestionId": "2172"
+        },
+        {
+          "questionId": "2313",
+          "title": "Longest Winning Streak",
+          "titleSlug": "longest-winning-streak",
+          "difficulty": "Hard",
+          "acRate": 53.24403134681975,
+          "status": "PENDING",
+          "frontendQuestionId": "2173"
+        },
+        {
+          "questionId": "2280",
+          "title": "Count Good Triplets in an Array",
+          "titleSlug": "count-good-triplets-in-an-array",
+          "difficulty": "Hard",
+          "acRate": 41.82569260473261,
+          "status": "PENDING",
+          "frontendQuestionId": "2179"
+        },
+        {
+          "questionId": "2301",
+          "title": "Count Array Pairs Divisible by K",
+          "titleSlug": "count-array-pairs-divisible-by-k",
+          "difficulty": "Hard",
+          "acRate": 29.70853058572357,
+          "status": "PENDING",
+          "frontendQuestionId": "2183"
+        },
+        {
+          "questionId": "2295",
+          "title": "Minimum Time to Finish the Race",
+          "titleSlug": "minimum-time-to-finish-the-race",
+          "difficulty": "Hard",
+          "acRate": 41.7452907185531,
+          "status": "PENDING",
+          "frontendQuestionId": "2188"
+        },
+        {
+          "questionId": "1356",
+          "title": "Minimum Number of Moves to Make Palindrome",
+          "titleSlug": "minimum-number-of-moves-to-make-palindrome",
+          "difficulty": "Hard",
+          "acRate": 51.59108378170638,
+          "status": "PENDING",
+          "frontendQuestionId": "2193"
+        },
+        {
+          "questionId": "2307",
+          "title": "Replace Non-Coprime Numbers in Array",
+          "titleSlug": "replace-non-coprime-numbers-in-array",
+          "difficulty": "Hard",
+          "acRate": 40.064519355806745,
+          "status": "PENDING",
+          "frontendQuestionId": "2197"
+        },
+        {
+          "questionId": "2335",
+          "title": "Finding the Topic of Each Post",
+          "titleSlug": "finding-the-topic-of-each-post",
+          "difficulty": "Hard",
+          "acRate": 49.368795195489646,
+          "status": "PENDING",
+          "frontendQuestionId": "2199"
+        },
+        {
+          "questionId": "2321",
+          "title": "Minimum Weighted Subgraph With the Required Paths",
+          "titleSlug": "minimum-weighted-subgraph-with-the-required-paths",
+          "difficulty": "Hard",
+          "acRate": 37.460947050992964,
+          "status": "PENDING",
+          "frontendQuestionId": "2203"
+        },
+        {
+          "questionId": "1347",
+          "title": "Distance to a Cycle in Undirected Graph",
+          "titleSlug": "distance-to-a-cycle-in-undirected-graph",
+          "difficulty": "Hard",
+          "acRate": 72.66070985356168,
+          "status": "PENDING",
+          "frontendQuestionId": "2204"
+        },
+        {
+          "questionId": "2311",
+          "title": "Minimum White Tiles After Covering With Carpets",
+          "titleSlug": "minimum-white-tiles-after-covering-with-carpets",
+          "difficulty": "Hard",
+          "acRate": 37.37662904193249,
+          "status": "PENDING",
+          "frontendQuestionId": "2209"
+        },
+        {
+          "questionId": "2319",
+          "title": "Longest Substring of One Repeating Character",
+          "titleSlug": "longest-substring-of-one-repeating-character",
+          "difficulty": "Hard",
+          "acRate": 32.52893979298096,
+          "status": "PENDING",
+          "frontendQuestionId": "2213"
+        },
+        {
+          "questionId": "1393",
+          "title": "Maximum Value of K Coins From Piles",
+          "titleSlug": "maximum-value-of-k-coins-from-piles",
+          "difficulty": "Hard",
+          "acRate": 60.47989710524997,
+          "status": "PENDING",
+          "frontendQuestionId": "2218"
+        },
+        {
+          "questionId": "2326",
+          "title": "Sum of Scores of Built Strings",
+          "titleSlug": "sum-of-scores-of-built-strings",
+          "difficulty": "Hard",
+          "acRate": 41.51944963478852,
+          "status": "PENDING",
+          "frontendQuestionId": "2223"
+        },
+        {
+          "questionId": "1433",
+          "title": "Encrypt and Decrypt Strings",
+          "titleSlug": "encrypt-and-decrypt-strings",
+          "difficulty": "Hard",
+          "acRate": 41.061666147352916,
+          "status": "PENDING",
+          "frontendQuestionId": "2227"
+        },
+        {
+          "questionId": "2330",
+          "title": "Maximum Total Beauty of the Gardens",
+          "titleSlug": "maximum-total-beauty-of-the-gardens",
+          "difficulty": "Hard",
+          "acRate": 29.88879447297447,
+          "status": "PENDING",
+          "frontendQuestionId": "2234"
+        },
+        {
+          "questionId": "2353",
+          "title": "Maximum Score of a Node Sequence",
+          "titleSlug": "maximum-score-of-a-node-sequence",
+          "difficulty": "Hard",
+          "acRate": 38.73329832545656,
+          "status": "PENDING",
+          "frontendQuestionId": "2242"
+        },
+        {
+          "questionId": "2364",
+          "title": "Longest Path With Different Adjacent Characters",
+          "titleSlug": "longest-path-with-different-adjacent-characters",
+          "difficulty": "Hard",
+          "acRate": 54.05852821340973,
+          "status": "PENDING",
+          "frontendQuestionId": "2246"
+        },
+        {
+          "questionId": "2007",
+          "title": "Maximum Cost of Trip With K Highways",
+          "titleSlug": "maximum-cost-of-trip-with-k-highways",
+          "difficulty": "Hard",
+          "acRate": 49.9501246882793,
+          "status": "PENDING",
+          "frontendQuestionId": "2247"
+        },
+        {
+          "questionId": "2334",
+          "title": "Number of Flowers in Full Bloom",
+          "titleSlug": "number-of-flowers-in-full-bloom",
+          "difficulty": "Hard",
+          "acRate": 57.03383683895178,
+          "status": "PENDING",
+          "frontendQuestionId": "2251"
+        },
+        {
+          "questionId": "2381",
+          "title": "Dynamic Pivoting of a Table",
+          "titleSlug": "dynamic-pivoting-of-a-table",
+          "difficulty": "Hard",
+          "acRate": 56.38531534358331,
+          "status": "PENDING",
+          "frontendQuestionId": "2252"
+        },
+        {
+          "questionId": "2382",
+          "title": "Dynamic Unpivoting of a Table",
+          "titleSlug": "dynamic-unpivoting-of-a-table",
+          "difficulty": "Hard",
+          "acRate": 67.41839762611276,
+          "status": "PENDING",
+          "frontendQuestionId": "2253"
+        },
+        {
+          "questionId": "2396",
+          "title": "Design Video Sharing Platform",
+          "titleSlug": "design-video-sharing-platform",
+          "difficulty": "Hard",
+          "acRate": 63.926398575456304,
+          "status": "PENDING",
+          "frontendQuestionId": "2254"
+        },
+        {
+          "questionId": "2344",
+          "title": "Escape the Spreading Fire",
+          "titleSlug": "escape-the-spreading-fire",
+          "difficulty": "Hard",
+          "acRate": 35.756735868667214,
+          "status": "PENDING",
+          "frontendQuestionId": "2258"
+        },
+        {
+          "questionId": "2340",
+          "title": "Total Appeal of A String",
+          "titleSlug": "total-appeal-of-a-string",
+          "difficulty": "Hard",
+          "acRate": 55.84006072904045,
+          "status": "PENDING",
+          "frontendQuestionId": "2262"
+        },
+        {
+          "questionId": "1419",
+          "title": "Make Array Non-decreasing or Non-increasing",
+          "titleSlug": "make-array-non-decreasing-or-non-increasing",
+          "difficulty": "Hard",
+          "acRate": 65.50517346317712,
+          "status": "PENDING",
+          "frontendQuestionId": "2263"
+        },
+        {
+          "questionId": "2349",
+          "title": " Check if There Is a Valid Parentheses String Path",
+          "titleSlug": "check-if-there-is-a-valid-parentheses-string-path",
+          "difficulty": "Hard",
+          "acRate": 39.46436226619435,
+          "status": "PENDING",
+          "frontendQuestionId": "2267"
+        },
+        {
+          "questionId": "2360",
+          "title": "Substring With Largest Variance",
+          "titleSlug": "substring-with-largest-variance",
+          "difficulty": "Hard",
+          "acRate": 46.00773467108279,
+          "status": "PENDING",
+          "frontendQuestionId": "2272"
+        },
+        {
+          "questionId": "2357",
+          "title": "Count Integers in Intervals",
+          "titleSlug": "count-integers-in-intervals",
+          "difficulty": "Hard",
+          "acRate": 35.63399168915451,
+          "status": "PENDING",
+          "frontendQuestionId": "2276"
+        },
+        {
+          "questionId": "2420",
+          "title": "Closest Node to Path in Tree",
+          "titleSlug": "closest-node-to-path-in-tree",
+          "difficulty": "Hard",
+          "acRate": 62.594739188586715,
+          "status": "PENDING",
+          "frontendQuestionId": "2277"
+        },
+        {
+          "questionId": "2368",
+          "title": "Sum of Total Strength of Wizards",
+          "titleSlug": "sum-of-total-strength-of-wizards",
+          "difficulty": "Hard",
+          "acRate": 28.192124488040367,
+          "status": "PENDING",
+          "frontendQuestionId": "2281"
+        },
+        {
+          "questionId": "2380",
+          "title": "Booking Concert Tickets in Groups",
+          "titleSlug": "booking-concert-tickets-in-groups",
+          "difficulty": "Hard",
+          "acRate": 18.40386593622162,
+          "status": "PENDING",
+          "frontendQuestionId": "2286"
+        },
+        {
+          "questionId": "2375",
+          "title": "Minimum Obstacle Removal to Reach Corner",
+          "titleSlug": "minimum-obstacle-removal-to-reach-corner",
+          "difficulty": "Hard",
+          "acRate": 70.12809958178285,
+          "status": "PENDING",
+          "frontendQuestionId": "2290"
+        },
+        {
+          "questionId": "2389",
+          "title": "Design a Text Editor",
+          "titleSlug": "design-a-text-editor",
+          "difficulty": "Hard",
+          "acRate": 47.00473357640888,
+          "status": "PENDING",
+          "frontendQuestionId": "2296"
+        },
+        {
+          "questionId": "2393",
+          "title": "Match Substring After Replacement",
+          "titleSlug": "match-substring-after-replacement",
+          "difficulty": "Hard",
+          "acRate": 41.70093110857628,
+          "status": "PENDING",
+          "frontendQuestionId": "2301"
+        }
+      ]
+    }
+  }
+}

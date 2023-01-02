@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 796,
+      "questions": [
+        {
+          "questionId": "2023",
+          "title": "Design Movie Rental System",
+          "titleSlug": "design-movie-rental-system",
+          "difficulty": "Hard",
+          "acRate": 36.797672422016596,
+          "status": "PENDING",
+          "frontendQuestionId": "1912"
+        },
+        {
+          "questionId": "1313",
+          "title": "Count Ways to Build Rooms in an Ant Colony",
+          "titleSlug": "count-ways-to-build-rooms-in-an-ant-colony",
+          "difficulty": "Hard",
+          "acRate": 49.48382656572608,
+          "status": "PENDING",
+          "frontendQuestionId": "1916"
+        },
+        {
+          "questionId": "2063",
+          "title": "Leetcodify Friends Recommendations",
+          "titleSlug": "leetcodify-friends-recommendations",
+          "difficulty": "Hard",
+          "acRate": 27.679271342715296,
+          "status": "PENDING",
+          "frontendQuestionId": "1917"
+        },
+        {
+          "questionId": "2064",
+          "title": "Leetcodify Similar Friends",
+          "titleSlug": "leetcodify-similar-friends",
+          "difficulty": "Hard",
+          "acRate": 42.584239851419476,
+          "status": "PENDING",
+          "frontendQuestionId": "1919"
+        },
+        {
+          "questionId": "2051",
+          "title": "Longest Common Subpath",
+          "titleSlug": "longest-common-subpath",
+          "difficulty": "Hard",
+          "acRate": 28.737570106320753,
+          "status": "PENDING",
+          "frontendQuestionId": "1923"
+        },
+        {
+          "questionId": "2074",
+          "title": "Erect the Fence II",
+          "titleSlug": "erect-the-fence-ii",
+          "difficulty": "Hard",
+          "acRate": 50.672645739910315,
+          "status": "PENDING",
+          "frontendQuestionId": "1924"
+        },
+        {
+          "questionId": "2040",
+          "title": "Minimum Cost to Reach Destination in Time",
+          "titleSlug": "minimum-cost-to-reach-destination-in-time",
+          "difficulty": "Hard",
+          "acRate": 39.21329392356338,
+          "status": "PENDING",
+          "frontendQuestionId": "1928"
+        },
+        {
+          "questionId": "2061",
+          "title": "Painting a Grid With Three Different Colors",
+          "titleSlug": "painting-a-grid-with-three-different-colors",
+          "difficulty": "Hard",
+          "acRate": 58.217470780479694,
+          "status": "PENDING",
+          "frontendQuestionId": "1931"
+        },
+        {
+          "questionId": "2060",
+          "title": "Merge BSTs to Create Single BST",
+          "titleSlug": "merge-bsts-to-create-single-bst",
+          "difficulty": "Hard",
+          "acRate": 36.81300929748358,
+          "status": "PENDING",
+          "frontendQuestionId": "1932"
+        },
+        {
+          "questionId": "2068",
+          "title": "Maximum Genetic Difference Query",
+          "titleSlug": "maximum-genetic-difference-query",
+          "difficulty": "Hard",
+          "acRate": 43.42488555971702,
+          "status": "PENDING",
+          "frontendQuestionId": "1938"
+        },
+        {
+          "questionId": "1305",
+          "title": "Number of Visible People in a Queue",
+          "titleSlug": "number-of-visible-people-in-a-queue",
+          "difficulty": "Hard",
+          "acRate": 70.30067702110713,
+          "status": "PENDING",
+          "frontendQuestionId": "1944"
+        },
+        {
+          "questionId": "2079",
+          "title": "Delete Duplicate Folders in System",
+          "titleSlug": "delete-duplicate-folders-in-system",
+          "difficulty": "Hard",
+          "acRate": 54.80161666761541,
+          "status": "PENDING",
+          "frontendQuestionId": "1948"
+        },
+        {
+          "questionId": "2086",
+          "title": "Count Number of Special Subsequences",
+          "titleSlug": "count-number-of-special-subsequences",
+          "difficulty": "Hard",
+          "acRate": 51.62447756486082,
+          "status": "PENDING",
+          "frontendQuestionId": "1955"
+        },
+        {
+          "questionId": "2073",
+          "title": "Minimum Time For K Virus Variants to Spread",
+          "titleSlug": "minimum-time-for-k-virus-variants-to-spread",
+          "difficulty": "Hard",
+          "acRate": 48.69109947643979,
+          "status": "PENDING",
+          "frontendQuestionId": "1956"
+        },
+        {
+          "questionId": "1336",
+          "title": "Maximum Product of the Length of Two Palindromic Substrings",
+          "titleSlug": "maximum-product-of-the-length-of-two-palindromic-substrings",
+          "difficulty": "Hard",
+          "acRate": 31.732714060978353,
+          "status": "PENDING",
+          "frontendQuestionId": "1960"
+        },
+        {
+          "questionId": "2096",
+          "title": "Find the Longest Valid Obstacle Course at Each Position",
+          "titleSlug": "find-the-longest-valid-obstacle-course-at-each-position",
+          "difficulty": "Hard",
+          "acRate": 62.821019359936784,
+          "status": "PENDING",
+          "frontendQuestionId": "1964"
+        },
+        {
+          "questionId": "2101",
+          "title": "Last Day Where You Can Still Cross",
+          "titleSlug": "last-day-where-you-can-still-cross",
+          "difficulty": "Hard",
+          "acRate": 62.02171906278199,
+          "status": "PENDING",
+          "frontendQuestionId": "1970"
+        },
+        {
+          "questionId": "2120",
+          "title": "First and Last Call On the Same Day",
+          "titleSlug": "first-and-last-call-on-the-same-day",
+          "difficulty": "Hard",
+          "acRate": 50.919171286839806,
+          "status": "PENDING",
+          "frontendQuestionId": "1972"
+        },
+        {
+          "questionId": "2091",
+          "title": "Number of Ways to Separate Numbers",
+          "titleSlug": "number-of-ways-to-separate-numbers",
+          "difficulty": "Hard",
+          "acRate": 21.0847116607983,
+          "status": "PENDING",
+          "frontendQuestionId": "1977"
+        },
+        {
+          "questionId": "2109",
+          "title": "Find Array Given Subset Sums",
+          "titleSlug": "find-array-given-subset-sums",
+          "difficulty": "Hard",
+          "acRate": 48.68919650452401,
+          "status": "PENDING",
+          "frontendQuestionId": "1982"
+        },
+        {
+          "questionId": "2115",
+          "title": "Number of Unique Good Subsequences",
+          "titleSlug": "number-of-unique-good-subsequences",
+          "difficulty": "Hard",
+          "acRate": 52.06563140931731,
+          "status": "PENDING",
+          "frontendQuestionId": "1987"
+        },
+        {
+          "questionId": "2105",
+          "title": "The Number of Good Subsets",
+          "titleSlug": "the-number-of-good-subsets",
+          "difficulty": "Hard",
+          "acRate": 35.51565664433712,
+          "status": "PENDING",
+          "frontendQuestionId": "1994"
+        },
+        {
+          "questionId": "2125",
+          "title": "GCD Sort of an Array",
+          "titleSlug": "gcd-sort-of-an-array",
+          "difficulty": "Hard",
+          "acRate": 46.25746545185056,
+          "status": "PENDING",
+          "frontendQuestionId": "1998"
+        },
+        {
+          "questionId": "2131",
+          "title": "Smallest Missing Genetic Value in Each Subtree",
+          "titleSlug": "smallest-missing-genetic-value-in-each-subtree",
+          "difficulty": "Hard",
+          "acRate": 46.289894283280724,
+          "status": "PENDING",
+          "frontendQuestionId": "2003"
+        },
+        {
+          "questionId": "2152",
+          "title": "The Number of Seniors and Juniors to Join the Company",
+          "titleSlug": "the-number-of-seniors-and-juniors-to-join-the-company",
+          "difficulty": "Hard",
+          "acRate": 44.515461979509354,
+          "status": "PENDING",
+          "frontendQuestionId": "2004"
+        },
+        {
+          "questionId": "2153",
+          "title": "Subtree Removal Game with Fibonacci Tree",
+          "titleSlug": "subtree-removal-game-with-fibonacci-tree",
+          "difficulty": "Hard",
+          "acRate": 57.85714285714286,
+          "status": "PENDING",
+          "frontendQuestionId": "2005"
+        },
+        {
+          "questionId": "2119",
+          "title": "Minimum Number of Operations to Make Array Continuous",
+          "titleSlug": "minimum-number-of-operations-to-make-array-continuous",
+          "difficulty": "Hard",
+          "acRate": 52.47138500534675,
+          "status": "PENDING",
+          "frontendQuestionId": "2009"
+        },
+        {
+          "questionId": "2158",
+          "title": "The Number of Seniors and Juniors to Join the Company II",
+          "titleSlug": "the-number-of-seniors-and-juniors-to-join-the-company-ii",
+          "difficulty": "Hard",
+          "acRate": 63.794322658854426,
+          "status": "PENDING",
+          "frontendQuestionId": "2010"
+        },
+        {
+          "questionId": "2140",
+          "title": "Longest Subsequence Repeated k Times",
+          "titleSlug": "longest-subsequence-repeated-k-times",
+          "difficulty": "Hard",
+          "acRate": 54.92146596858639,
+          "status": "PENDING",
+          "frontendQuestionId": "2014"
+        },
+        {
+          "questionId": "2147",
+          "title": "The Score of Students Solving Math Expression",
+          "titleSlug": "the-score-of-students-solving-math-expression",
+          "difficulty": "Hard",
+          "acRate": 33.33752778826391,
+          "status": "PENDING",
+          "frontendQuestionId": "2019"
+        },
+        {
+          "questionId": "2135",
+          "title": "Maximum Number of Ways to Partition an Array",
+          "titleSlug": "maximum-number-of-ways-to-partition-an-array",
+          "difficulty": "Hard",
+          "acRate": 34.56118809565573,
+          "status": "PENDING",
+          "frontendQuestionId": "2025"
+        },
+        {
+          "questionId": "2157",
+          "title": "Smallest K-Length Subsequence With Occurrences of a Letter",
+          "titleSlug": "smallest-k-length-subsequence-with-occurrences-of-a-letter",
+          "difficulty": "Hard",
+          "acRate": 39.50856906875904,
+          "status": "PENDING",
+          "frontendQuestionId": "2030"
+        },
+        {
+          "questionId": "2162",
+          "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+          "titleSlug": "partition-array-into-two-arrays-to-minimize-sum-difference",
+          "difficulty": "Hard",
+          "acRate": 21.179447163699134,
+          "status": "PENDING",
+          "frontendQuestionId": "2035"
+        },
+        {
+          "questionId": "2150",
+          "title": "Kth Smallest Product of Two Sorted Arrays",
+          "titleSlug": "kth-smallest-product-of-two-sorted-arrays",
+          "difficulty": "Hard",
+          "acRate": 29.57398504273504,
+          "status": "PENDING",
+          "frontendQuestionId": "2040"
+        },
+        {
+          "questionId": "2171",
+          "title": "Second Minimum Time to Reach Destination",
+          "titleSlug": "second-minimum-time-to-reach-destination",
+          "difficulty": "Hard",
+          "acRate": 62.779457526869855,
+          "status": "PENDING",
+          "frontendQuestionId": "2045"
+        },
+        {
+          "questionId": "2176",
+          "title": "Parallel Courses III",
+          "titleSlug": "parallel-courses-iii",
+          "difficulty": "Hard",
+          "acRate": 66.89529622383539,
+          "status": "PENDING",
+          "frontendQuestionId": "2050"
+        },
+        {
+          "questionId": "2166",
+          "title": "Number of Valid Move Combinations On Chessboard",
+          "titleSlug": "number-of-valid-move-combinations-on-chessboard",
+          "difficulty": "Hard",
+          "acRate": 51.050759780148724,
+          "status": "PENDING",
+          "frontendQuestionId": "2056"
+        },
+        {
+          "questionId": "2184",
+          "title": "Check if an Original String Exists Given Two Encoded Strings",
+          "titleSlug": "check-if-an-original-string-exists-given-two-encoded-strings",
+          "difficulty": "Hard",
+          "acRate": 43.69074024422941,
+          "status": "PENDING",
+          "frontendQuestionId": "2060"
+        },
+        {
+          "questionId": "2189",
+          "title": "Maximum Path Quality of a Graph",
+          "titleSlug": "maximum-path-quality-of-a-graph",
+          "difficulty": "Hard",
+          "acRate": 59.399918584325086,
+          "status": "PENDING",
+          "frontendQuestionId": "2065"
+        },
+        {
+          "questionId": "2180",
+          "title": "Maximum Number of Tasks You Can Assign",
+          "titleSlug": "maximum-number-of-tasks-you-can-assign",
+          "difficulty": "Hard",
+          "acRate": 33.652061774604476,
+          "status": "PENDING",
+          "frontendQuestionId": "2071"
+        },
+        {
+          "questionId": "2198",
+          "title": "Process Restricted Friend Requests",
+          "titleSlug": "process-restricted-friend-requests",
+          "difficulty": "Hard",
+          "acRate": 56.49075669518998,
+          "status": "PENDING",
+          "frontendQuestionId": "2076"
+        },
+        {
+          "questionId": "2202",
+          "title": "Sum of k-Mirror Numbers",
+          "titleSlug": "sum-of-k-mirror-numbers",
+          "difficulty": "Hard",
+          "acRate": 42.35684376529447,
+          "status": "PENDING",
+          "frontendQuestionId": "2081"
+        },
+        {
+          "questionId": "2193",
+          "title": "Count Fertile Pyramids in a Land",
+          "titleSlug": "count-fertile-pyramids-in-a-land",
+          "difficulty": "Hard",
+          "acRate": 65.1440329218107,
+          "status": "PENDING",
+          "frontendQuestionId": "2088"
+        },
+        {
+          "questionId": "2213",
+          "title": "Find All People With Secret",
+          "titleSlug": "find-all-people-with-secret",
+          "difficulty": "Hard",
+          "acRate": 45.371920379620825,
+          "status": "PENDING",
+          "frontendQuestionId": "2092"
+        },
+        {
+          "questionId": "2201",
+          "title": "Valid Arrangement of Pairs",
+          "titleSlug": "valid-arrangement-of-pairs",
+          "difficulty": "Hard",
+          "acRate": 66.71205151793929,
+          "status": "PENDING",
+          "frontendQuestionId": "2097"
+        },
+        {
+          "questionId": "2207",
+          "title": "Sequentially Ordinal Rank Tracker",
+          "titleSlug": "sequentially-ordinal-rank-tracker",
+          "difficulty": "Hard",
+          "acRate": 64.6682500766166,
+          "status": "PENDING",
+          "frontendQuestionId": "2102"
+        },
+        {
+          "questionId": "2229",
+          "title": "Maximum Fruits Harvested After at Most K Steps",
+          "titleSlug": "maximum-fruits-harvested-after-at-most-k-steps",
+          "difficulty": "Hard",
+          "acRate": 36.24770152440833,
+          "status": "PENDING",
+          "frontendQuestionId": "2106"
+        },
+        {
+          "questionId": "2234",
+          "title": "Minimum Operations to Make the Array K-Increasing",
+          "titleSlug": "minimum-operations-to-make-the-array-k-increasing",
+          "difficulty": "Hard",
+          "acRate": 38.654060066740826,
+          "status": "PENDING",
+          "frontendQuestionId": "2111"
+        },
+        {
+          "questionId": "2222",
+          "title": "Abbreviating the Product of a Range",
+          "titleSlug": "abbreviating-the-product-of-a-range",
+          "difficulty": "Hard",
+          "acRate": 25.72281167108753,
+          "status": "PENDING",
+          "frontendQuestionId": "2117"
+        },
+        {
+          "questionId": "2253",
+          "title": "Build the Equation",
+          "titleSlug": "build-the-equation",
+          "difficulty": "Hard",
+          "acRate": 56.05674790833031,
+          "status": "PENDING",
+          "frontendQuestionId": "2118"
+        }
+      ]
+    }
+  }
+}

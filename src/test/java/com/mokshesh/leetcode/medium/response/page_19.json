@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "1810",
+          "title": "Change the Root of a Binary Tree",
+          "titleSlug": "change-the-root-of-a-binary-tree",
+          "difficulty": "Medium",
+          "acRate": 74.20745272525028,
+          "status": "PENDING",
+          "frontendQuestionId": "1666"
+        },
+        {
+          "questionId": "1765",
+          "title": "Merge In Between Linked Lists",
+          "titleSlug": "merge-in-between-linked-lists",
+          "difficulty": "Medium",
+          "acRate": 82.09568974822335,
+          "status": "PENDING",
+          "frontendQuestionId": "1669"
+        },
+        {
+          "questionId": "1767",
+          "title": "Design Front Middle Back Queue",
+          "titleSlug": "design-front-middle-back-queue",
+          "difficulty": "Medium",
+          "acRate": 56.961500595885795,
+          "status": "PENDING",
+          "frontendQuestionId": "1670"
+        },
+        {
+          "questionId": "1792",
+          "title": "Find the Most Competitive Subsequence",
+          "titleSlug": "find-the-most-competitive-subsequence",
+          "difficulty": "Medium",
+          "acRate": 51.30509014092659,
+          "status": "PENDING",
+          "frontendQuestionId": "1673"
+        },
+        {
+          "questionId": "1793",
+          "title": "Minimum Moves to Make Array Complementary",
+          "titleSlug": "minimum-moves-to-make-array-complementary",
+          "difficulty": "Medium",
+          "acRate": 40.9743934776586,
+          "status": "PENDING",
+          "frontendQuestionId": "1674"
+        },
+        {
+          "questionId": "1816",
+          "title": "Lowest Common Ancestor of a Binary Tree IV",
+          "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iv",
+          "difficulty": "Medium",
+          "acRate": 78.84113397681054,
+          "status": "PENDING",
+          "frontendQuestionId": "1676"
+        },
+        {
+          "questionId": "1798",
+          "title": "Max Number of K-Sum Pairs",
+          "titleSlug": "max-number-of-k-sum-pairs",
+          "difficulty": "Medium",
+          "acRate": 55.73405063939223,
+          "status": "PENDING",
+          "frontendQuestionId": "1679"
+        },
+        {
+          "questionId": "1800",
+          "title": "Concatenation of Consecutive Binary Numbers",
+          "titleSlug": "concatenation-of-consecutive-binary-numbers",
+          "difficulty": "Medium",
+          "acRate": 57.171824249782745,
+          "status": "PENDING",
+          "frontendQuestionId": "1680"
+        },
+        {
+          "questionId": "1822",
+          "title": "Longest Palindromic Subsequence II",
+          "titleSlug": "longest-palindromic-subsequence-ii",
+          "difficulty": "Medium",
+          "acRate": 50.0775728322703,
+          "status": "PENDING",
+          "frontendQuestionId": "1682"
+        },
+        {
+          "questionId": "1787",
+          "title": "Sum of Absolute Differences in a Sorted Array",
+          "titleSlug": "sum-of-absolute-differences-in-a-sorted-array",
+          "difficulty": "Medium",
+          "acRate": 68.24142843796712,
+          "status": "PENDING",
+          "frontendQuestionId": "1685"
+        },
+        {
+          "questionId": "1788",
+          "title": "Stone Game VI",
+          "titleSlug": "stone-game-vi",
+          "difficulty": "Medium",
+          "acRate": 58.29918805459893,
+          "status": "PENDING",
+          "frontendQuestionId": "1686"
+        },
+        {
+          "questionId": "1807",
+          "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+          "titleSlug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+          "difficulty": "Medium",
+          "acRate": 88.78198968190263,
+          "status": "PENDING",
+          "frontendQuestionId": "1689"
+        },
+        {
+          "questionId": "1808",
+          "title": "Stone Game VII",
+          "titleSlug": "stone-game-vii",
+          "difficulty": "Medium",
+          "acRate": 58.25213430269389,
+          "status": "PENDING",
+          "frontendQuestionId": "1690"
+        },
+        {
+          "questionId": "1813",
+          "title": "Maximum Erasure Value",
+          "titleSlug": "maximum-erasure-value",
+          "difficulty": "Medium",
+          "acRate": 58.923551852223675,
+          "status": "PENDING",
+          "frontendQuestionId": "1695"
+        },
+        {
+          "questionId": "1814",
+          "title": "Jump Game VI",
+          "titleSlug": "jump-game-vi",
+          "difficulty": "Medium",
+          "acRate": 45.78416734897012,
+          "status": "PENDING",
+          "frontendQuestionId": "1696"
+        },
+        {
+          "questionId": "1838",
+          "title": "Number of Distinct Substrings in a String",
+          "titleSlug": "number-of-distinct-substrings-in-a-string",
+          "difficulty": "Medium",
+          "acRate": 64.43991427526005,
+          "status": "PENDING",
+          "frontendQuestionId": "1698"
+        },
+        {
+          "questionId": "1842",
+          "title": "Number of Calls Between Two Persons",
+          "titleSlug": "number-of-calls-between-two-persons",
+          "difficulty": "Medium",
+          "acRate": 81.03183239200649,
+          "status": "PENDING",
+          "frontendQuestionId": "1699"
+        },
+        {
+          "questionId": "1803",
+          "title": "Average Waiting Time",
+          "titleSlug": "average-waiting-time",
+          "difficulty": "Medium",
+          "acRate": 73.06926374423935,
+          "status": "PENDING",
+          "frontendQuestionId": "1701"
+        },
+        {
+          "questionId": "1804",
+          "title": "Maximum Binary String After Change",
+          "titleSlug": "maximum-binary-string-after-change",
+          "difficulty": "Medium",
+          "acRate": 46.94661374983997,
+          "status": "PENDING",
+          "frontendQuestionId": "1702"
+        },
+        {
+          "questionId": "1824",
+          "title": "Maximum Number of Eaten Apples",
+          "titleSlug": "maximum-number-of-eaten-apples",
+          "difficulty": "Medium",
+          "acRate": 40.079787234042556,
+          "status": "PENDING",
+          "frontendQuestionId": "1705"
+        },
+        {
+          "questionId": "1324",
+          "title": "Where Will the Ball Fall",
+          "titleSlug": "where-will-the-ball-fall",
+          "difficulty": "Medium",
+          "acRate": 71.95758197233825,
+          "status": "PENDING",
+          "frontendQuestionId": "1706"
+        },
+        {
+          "questionId": "1852",
+          "title": "Biggest Window Between Visits",
+          "titleSlug": "biggest-window-between-visits",
+          "difficulty": "Medium",
+          "acRate": 70.41805630962537,
+          "status": "PENDING",
+          "frontendQuestionId": "1709"
+        },
+        {
+          "questionId": "1830",
+          "title": "Count Good Meals",
+          "titleSlug": "count-good-meals",
+          "difficulty": "Medium",
+          "acRate": 30.990743429392975,
+          "status": "PENDING",
+          "frontendQuestionId": "1711"
+        },
+        {
+          "questionId": "1831",
+          "title": "Ways to Split Array Into Three Subarrays",
+          "titleSlug": "ways-to-split-array-into-three-subarrays",
+          "difficulty": "Medium",
+          "acRate": 33.23814380418154,
+          "status": "PENDING",
+          "frontendQuestionId": "1712"
+        },
+        {
+          "questionId": "1862",
+          "title": "Count Apples and Oranges",
+          "titleSlug": "count-apples-and-oranges",
+          "difficulty": "Medium",
+          "acRate": 75.78261063725272,
+          "status": "PENDING",
+          "frontendQuestionId": "1715"
+        },
+        {
+          "questionId": "1818",
+          "title": "Maximum Score From Removing Substrings",
+          "titleSlug": "maximum-score-from-removing-substrings",
+          "difficulty": "Medium",
+          "acRate": 62.8068650879861,
+          "status": "PENDING",
+          "frontendQuestionId": "1717"
+        },
+        {
+          "questionId": "1819",
+          "title": "Construct the Lexicographically Largest Valid Sequence",
+          "titleSlug": "construct-the-lexicographically-largest-valid-sequence",
+          "difficulty": "Medium",
+          "acRate": 54.759503356171535,
+          "status": "PENDING",
+          "frontendQuestionId": "1718"
+        },
+        {
+          "questionId": "528",
+          "title": "Swapping Nodes in a Linked List",
+          "titleSlug": "swapping-nodes-in-a-linked-list",
+          "difficulty": "Medium",
+          "acRate": 68.21977492192785,
+          "status": "PENDING",
+          "frontendQuestionId": "1721"
+        },
+        {
+          "questionId": "1840",
+          "title": "Minimize Hamming Distance After Swap Operations",
+          "titleSlug": "minimize-hamming-distance-after-swap-operations",
+          "difficulty": "Medium",
+          "acRate": 49.1414920619121,
+          "status": "PENDING",
+          "frontendQuestionId": "1722"
+        },
+        {
+          "questionId": "1364",
+          "title": "Tuple with Same Product",
+          "titleSlug": "tuple-with-same-product",
+          "difficulty": "Medium",
+          "acRate": 61.558660225701054,
+          "status": "PENDING",
+          "frontendQuestionId": "1726"
+        },
+        {
+          "questionId": "1845",
+          "title": "Largest Submatrix With Rearrangements",
+          "titleSlug": "largest-submatrix-with-rearrangements",
+          "difficulty": "Medium",
+          "acRate": 75.21898614925135,
+          "status": "PENDING",
+          "frontendQuestionId": "1727"
+        },
+        {
+          "questionId": "550",
+          "title": "Shortest Path to Get Food",
+          "titleSlug": "shortest-path-to-get-food",
+          "difficulty": "Medium",
+          "acRate": 56.363326491445164,
+          "status": "PENDING",
+          "frontendQuestionId": "1730"
+        },
+        {
+          "questionId": "1834",
+          "title": "Minimum Number of People to Teach",
+          "titleSlug": "minimum-number-of-people-to-teach",
+          "difficulty": "Medium",
+          "acRate": 43.270745003028466,
+          "status": "PENDING",
+          "frontendQuestionId": "1733"
+        },
+        {
+          "questionId": "1835",
+          "title": "Decode XORed Permutation",
+          "titleSlug": "decode-xored-permutation",
+          "difficulty": "Medium",
+          "acRate": 65.556648755014,
+          "status": "PENDING",
+          "frontendQuestionId": "1734"
+        },
+        {
+          "questionId": "1859",
+          "title": "Change Minimum Characters to Satisfy One of Three Conditions",
+          "titleSlug": "change-minimum-characters-to-satisfy-one-of-three-conditions",
+          "difficulty": "Medium",
+          "acRate": 37.29547399687862,
+          "status": "PENDING",
+          "frontendQuestionId": "1737"
+        },
+        {
+          "questionId": "1860",
+          "title": "Find Kth Largest XOR Coordinate Value",
+          "titleSlug": "find-kth-largest-xor-coordinate-value",
+          "difficulty": "Medium",
+          "acRate": 62.42674513488786,
+          "status": "PENDING",
+          "frontendQuestionId": "1738"
+        },
+        {
+          "questionId": "1883",
+          "title": "Find Distance in a Binary Tree",
+          "titleSlug": "find-distance-in-a-binary-tree",
+          "difficulty": "Medium",
+          "acRate": 73.77332256907069,
+          "status": "PENDING",
+          "frontendQuestionId": "1740"
+        },
+        {
+          "questionId": "1866",
+          "title": "Restore the Array From Adjacent Pairs",
+          "titleSlug": "restore-the-array-from-adjacent-pairs",
+          "difficulty": "Medium",
+          "acRate": 74.71549198461365,
+          "status": "PENDING",
+          "frontendQuestionId": "1743"
+        },
+        {
+          "questionId": "1872",
+          "title": "Can You Eat Your Favorite Candy on Your Favorite Day?",
+          "titleSlug": "can-you-eat-your-favorite-candy-on-your-favorite-day",
+          "difficulty": "Medium",
+          "acRate": 34.81243874186938,
+          "status": "PENDING",
+          "frontendQuestionId": "1744"
+        },
+        {
+          "questionId": "1893",
+          "title": "Maximum Subarray Sum After One Operation",
+          "titleSlug": "maximum-subarray-sum-after-one-operation",
+          "difficulty": "Medium",
+          "acRate": 65.21542406113318,
+          "status": "PENDING",
+          "frontendQuestionId": "1746"
+        },
+        {
+          "questionId": "1898",
+          "title": "Leetflex Banned Accounts",
+          "titleSlug": "leetflex-banned-accounts",
+          "difficulty": "Medium",
+          "acRate": 62.53249619855791,
+          "status": "PENDING",
+          "frontendQuestionId": "1747"
+        },
+        {
+          "questionId": "1849",
+          "title": "Maximum Absolute Sum of Any Subarray",
+          "titleSlug": "maximum-absolute-sum-of-any-subarray",
+          "difficulty": "Medium",
+          "acRate": 60.67224371900376,
+          "status": "PENDING",
+          "frontendQuestionId": "1749"
+        },
+        {
+          "questionId": "1850",
+          "title": "Minimum Length of String After Deleting Similar Ends",
+          "titleSlug": "minimum-length-of-string-after-deleting-similar-ends",
+          "difficulty": "Medium",
+          "acRate": 55.94517621929512,
+          "status": "PENDING",
+          "frontendQuestionId": "1750"
+        },
+        {
+          "questionId": "1879",
+          "title": "Maximum Score From Removing Stones",
+          "titleSlug": "maximum-score-from-removing-stones",
+          "difficulty": "Medium",
+          "acRate": 67.63398769756012,
+          "status": "PENDING",
+          "frontendQuestionId": "1753"
+        },
+        {
+          "questionId": "1880",
+          "title": "Largest Merge Of Two Strings",
+          "titleSlug": "largest-merge-of-two-strings",
+          "difficulty": "Medium",
+          "acRate": 50.16367683645411,
+          "status": "PENDING",
+          "frontendQuestionId": "1754"
+        },
+        {
+          "questionId": "1903",
+          "title": "Design Most Recently Used Queue",
+          "titleSlug": "design-most-recently-used-queue",
+          "difficulty": "Medium",
+          "acRate": 75.96215266687959,
+          "status": "PENDING",
+          "frontendQuestionId": "1756"
+        },
+        {
+          "questionId": "1885",
+          "title": "Count Number of Homogenous Substrings",
+          "titleSlug": "count-number-of-homogenous-substrings",
+          "difficulty": "Medium",
+          "acRate": 57.505786155486646,
+          "status": "PENDING",
+          "frontendQuestionId": "1759"
+        },
+        {
+          "questionId": "1886",
+          "title": "Minimum Limit of Balls in a Bag",
+          "titleSlug": "minimum-limit-of-balls-in-a-bag",
+          "difficulty": "Medium",
+          "acRate": 67.92290406049959,
+          "status": "PENDING",
+          "frontendQuestionId": "1760"
+        },
+        {
+          "questionId": "1909",
+          "title": "Buildings With an Ocean View",
+          "titleSlug": "buildings-with-an-ocean-view",
+          "difficulty": "Medium",
+          "acRate": 80.40463829133012,
+          "status": "PENDING",
+          "frontendQuestionId": "1762"
+        },
+        {
+          "questionId": "1874",
+          "title": "Form Array by Concatenating Subarrays of Another Array",
+          "titleSlug": "form-array-by-concatenating-subarrays-of-another-array",
+          "difficulty": "Medium",
+          "acRate": 54.36013239706746,
+          "status": "PENDING",
+          "frontendQuestionId": "1764"
+        }
+      ]
+    }
+  }
+}

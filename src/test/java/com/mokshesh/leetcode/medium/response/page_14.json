@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "1272",
+          "title": "Invalid Transactions",
+          "titleSlug": "invalid-transactions",
+          "difficulty": "Medium",
+          "acRate": 31.198262847984886,
+          "status": "PENDING",
+          "frontendQuestionId": "1169"
+        },
+        {
+          "questionId": "1273",
+          "title": "Compare Strings by Frequency of the Smallest Character",
+          "titleSlug": "compare-strings-by-frequency-of-the-smallest-character",
+          "difficulty": "Medium",
+          "acRate": 62.690672668167046,
+          "status": "PENDING",
+          "frontendQuestionId": "1170"
+        },
+        {
+          "questionId": "1267",
+          "title": "Remove Zero Sum Consecutive Nodes from Linked List",
+          "titleSlug": "remove-zero-sum-consecutive-nodes-from-linked-list",
+          "difficulty": "Medium",
+          "acRate": 52.744116036382216,
+          "status": "PENDING",
+          "frontendQuestionId": "1171"
+        },
+        {
+          "questionId": "1292",
+          "title": "Immediate Food Delivery II",
+          "titleSlug": "immediate-food-delivery-ii",
+          "difficulty": "Medium",
+          "acRate": 53.504810684515,
+          "status": "PENDING",
+          "frontendQuestionId": "1174"
+        },
+        {
+          "questionId": "1281",
+          "title": "Can Make Palindrome from Substring",
+          "titleSlug": "can-make-palindrome-from-substring",
+          "difficulty": "Medium",
+          "acRate": 39.82493114906712,
+          "status": "PENDING",
+          "frontendQuestionId": "1177"
+        },
+        {
+          "questionId": "1132",
+          "title": "Before and After Puzzle",
+          "titleSlug": "before-and-after-puzzle",
+          "difficulty": "Medium",
+          "acRate": 46.310480104614236,
+          "status": "PENDING",
+          "frontendQuestionId": "1181"
+        },
+        {
+          "questionId": "1134",
+          "title": "Shortest Distance to Target Color",
+          "titleSlug": "shortest-distance-to-target-color",
+          "difficulty": "Medium",
+          "acRate": 55.44881913438265,
+          "status": "PENDING",
+          "frontendQuestionId": "1182"
+        },
+        {
+          "questionId": "1288",
+          "title": "Maximum Subarray Sum with One Deletion",
+          "titleSlug": "maximum-subarray-sum-with-one-deletion",
+          "difficulty": "Medium",
+          "acRate": 44.67515582578104,
+          "status": "PENDING",
+          "frontendQuestionId": "1186"
+        },
+        {
+          "questionId": "1209",
+          "title": "Design Bounded Blocking Queue",
+          "titleSlug": "design-bounded-blocking-queue",
+          "difficulty": "Medium",
+          "acRate": 72.72727272727273,
+          "status": "PENDING",
+          "frontendQuestionId": "1188"
+        },
+        {
+          "questionId": "1298",
+          "title": "Reverse Substrings Between Each Pair of Parentheses",
+          "titleSlug": "reverse-substrings-between-each-pair-of-parentheses",
+          "difficulty": "Medium",
+          "acRate": 71.75530171218196,
+          "status": "PENDING",
+          "frontendQuestionId": "1190"
+        },
+        {
+          "questionId": "1299",
+          "title": "K-Concatenation Maximum Sum",
+          "titleSlug": "k-concatenation-maximum-sum",
+          "difficulty": "Medium",
+          "acRate": 24.052062774862133,
+          "status": "PENDING",
+          "frontendQuestionId": "1191"
+        },
+        {
+          "questionId": "1317",
+          "title": "Monthly Transactions I",
+          "titleSlug": "monthly-transactions-i",
+          "difficulty": "Medium",
+          "acRate": 58.34733652587006,
+          "status": "PENDING",
+          "frontendQuestionId": "1193"
+        },
+        {
+          "questionId": "1316",
+          "title": "Fizz Buzz Multithreaded",
+          "titleSlug": "fizz-buzz-multithreaded",
+          "difficulty": "Medium",
+          "acRate": 73.42993292414471,
+          "status": "PENDING",
+          "frontendQuestionId": "1195"
+        },
+        {
+          "questionId": "1142",
+          "title": "Minimum Knight Moves",
+          "titleSlug": "minimum-knight-moves",
+          "difficulty": "Medium",
+          "acRate": 41.0921351679697,
+          "status": "PENDING",
+          "frontendQuestionId": "1197"
+        },
+        {
+          "questionId": "1143",
+          "title": "Find Smallest Common Element in All Rows",
+          "titleSlug": "find-smallest-common-element-in-all-rows",
+          "difficulty": "Medium",
+          "acRate": 76.40837713165212,
+          "status": "PENDING",
+          "frontendQuestionId": "1198"
+        },
+        {
+          "questionId": "1307",
+          "title": "Ugly Number III",
+          "titleSlug": "ugly-number-iii",
+          "difficulty": "Medium",
+          "acRate": 30.147260131911892,
+          "status": "PENDING",
+          "frontendQuestionId": "1201"
+        },
+        {
+          "questionId": "1308",
+          "title": "Smallest String With Swaps",
+          "titleSlug": "smallest-string-with-swaps",
+          "difficulty": "Medium",
+          "acRate": 59.09829710517221,
+          "status": "PENDING",
+          "frontendQuestionId": "1202"
+        },
+        {
+          "questionId": "1327",
+          "title": "Last Person to Fit in the Bus",
+          "titleSlug": "last-person-to-fit-in-the-bus",
+          "difficulty": "Medium",
+          "acRate": 68.09452163908311,
+          "status": "PENDING",
+          "frontendQuestionId": "1204"
+        },
+        {
+          "questionId": "1328",
+          "title": "Monthly Transactions II",
+          "titleSlug": "monthly-transactions-ii",
+          "difficulty": "Medium",
+          "acRate": 41.892973910722624,
+          "status": "PENDING",
+          "frontendQuestionId": "1205"
+        },
+        {
+          "questionId": "1321",
+          "title": "Get Equal Substrings Within Budget",
+          "titleSlug": "get-equal-substrings-within-budget",
+          "difficulty": "Medium",
+          "acRate": 58.62107448916786,
+          "status": "PENDING",
+          "frontendQuestionId": "1208"
+        },
+        {
+          "questionId": "1320",
+          "title": "Remove All Adjacent Duplicates in String II",
+          "titleSlug": "remove-all-adjacent-duplicates-in-string-ii",
+          "difficulty": "Medium",
+          "acRate": 58.96405220018986,
+          "status": "PENDING",
+          "frontendQuestionId": "1209"
+        },
+        {
+          "questionId": "1339",
+          "title": "Team Scores in Football Tournament",
+          "titleSlug": "team-scores-in-football-tournament",
+          "difficulty": "Medium",
+          "acRate": 55.73579078205627,
+          "status": "PENDING",
+          "frontendQuestionId": "1212"
+        },
+        {
+          "questionId": "1150",
+          "title": "Two Sum BSTs",
+          "titleSlug": "two-sum-bsts",
+          "difficulty": "Medium",
+          "acRate": 67.26374146959783,
+          "status": "PENDING",
+          "frontendQuestionId": "1214"
+        },
+        {
+          "questionId": "1151",
+          "title": "Stepping Numbers",
+          "titleSlug": "stepping-numbers",
+          "difficulty": "Medium",
+          "acRate": 47.5068544077327,
+          "status": "PENDING",
+          "frontendQuestionId": "1215"
+        },
+        {
+          "questionId": "1330",
+          "title": "Longest Arithmetic Subsequence of Given Difference",
+          "titleSlug": "longest-arithmetic-subsequence-of-given-difference",
+          "difficulty": "Medium",
+          "acRate": 54.48004220151223,
+          "status": "PENDING",
+          "frontendQuestionId": "1218"
+        },
+        {
+          "questionId": "1331",
+          "title": "Path with Maximum Gold",
+          "titleSlug": "path-with-maximum-gold",
+          "difficulty": "Medium",
+          "acRate": 68.06342853929058,
+          "status": "PENDING",
+          "frontendQuestionId": "1219"
+        },
+        {
+          "questionId": "1342",
+          "title": "Queens That Can Attack the King",
+          "titleSlug": "queens-that-can-attack-the-king",
+          "difficulty": "Medium",
+          "acRate": 72.09868782902491,
+          "status": "PENDING",
+          "frontendQuestionId": "1222"
+        },
+        {
+          "questionId": "1340",
+          "title": "The Dining Philosophers",
+          "titleSlug": "the-dining-philosophers",
+          "difficulty": "Medium",
+          "acRate": 54.607667995052914,
+          "status": "PENDING",
+          "frontendQuestionId": "1226"
+        },
+        {
+          "questionId": "1362",
+          "title": "Airplane Seat Assignment Probability",
+          "titleSlug": "airplane-seat-assignment-probability",
+          "difficulty": "Medium",
+          "acRate": 66.66429708826206,
+          "status": "PENDING",
+          "frontendQuestionId": "1227"
+        },
+        {
+          "questionId": "1165",
+          "title": "Meeting Scheduler",
+          "titleSlug": "meeting-scheduler",
+          "difficulty": "Medium",
+          "acRate": 55.253602182364105,
+          "status": "PENDING",
+          "frontendQuestionId": "1229"
+        },
+        {
+          "questionId": "1166",
+          "title": "Toss Strange Coins",
+          "titleSlug": "toss-strange-coins",
+          "difficulty": "Medium",
+          "acRate": 58.104552581922555,
+          "status": "PENDING",
+          "frontendQuestionId": "1230"
+        },
+        {
+          "questionId": "1350",
+          "title": "Remove Sub-Folders from the Filesystem",
+          "titleSlug": "remove-sub-folders-from-the-filesystem",
+          "difficulty": "Medium",
+          "acRate": 75.65212476331334,
+          "status": "PENDING",
+          "frontendQuestionId": "1233"
+        },
+        {
+          "questionId": "1351",
+          "title": "Replace the Substring for Balanced String",
+          "titleSlug": "replace-the-substring-for-balanced-string",
+          "difficulty": "Medium",
+          "acRate": 39.02638928238961,
+          "status": "PENDING",
+          "frontendQuestionId": "1234"
+        },
+        {
+          "questionId": "1271",
+          "title": "Web Crawler",
+          "titleSlug": "web-crawler",
+          "difficulty": "Medium",
+          "acRate": 68.41984682856582,
+          "status": "PENDING",
+          "frontendQuestionId": "1236"
+        },
+        {
+          "questionId": "1358",
+          "title": "Find Positive Integer Solution for a Given Equation",
+          "titleSlug": "find-positive-integer-solution-for-a-given-equation",
+          "difficulty": "Medium",
+          "acRate": 69.73973782413167,
+          "status": "PENDING",
+          "frontendQuestionId": "1237"
+        },
+        {
+          "questionId": "1359",
+          "title": "Circular Permutation in Binary Representation",
+          "titleSlug": "circular-permutation-in-binary-representation",
+          "difficulty": "Medium",
+          "acRate": 71.39475791012566,
+          "status": "PENDING",
+          "frontendQuestionId": "1238"
+        },
+        {
+          "questionId": "1360",
+          "title": "Maximum Length of a Concatenated String with Unique Characters",
+          "titleSlug": "maximum-length-of-a-concatenated-string-with-unique-characters",
+          "difficulty": "Medium",
+          "acRate": 54.174552645802486,
+          "status": "PENDING",
+          "frontendQuestionId": "1239"
+        },
+        {
+          "questionId": "1368",
+          "title": "Web Crawler Multithreaded",
+          "titleSlug": "web-crawler-multithreaded",
+          "difficulty": "Medium",
+          "acRate": 49.61153686435879,
+          "status": "PENDING",
+          "frontendQuestionId": "1242"
+        },
+        {
+          "questionId": "1176",
+          "title": "Design A Leaderboard",
+          "titleSlug": "design-a-leaderboard",
+          "difficulty": "Medium",
+          "acRate": 67.87152724218898,
+          "status": "PENDING",
+          "frontendQuestionId": "1244"
+        },
+        {
+          "questionId": "1177",
+          "title": "Tree Diameter",
+          "titleSlug": "tree-diameter",
+          "difficulty": "Medium",
+          "acRate": 61.11340807938323,
+          "status": "PENDING",
+          "frontendQuestionId": "1245"
+        },
+        {
+          "questionId": "1369",
+          "title": "Minimum Swaps to Make Strings Equal",
+          "titleSlug": "minimum-swaps-to-make-strings-equal",
+          "difficulty": "Medium",
+          "acRate": 64.480448218102,
+          "status": "PENDING",
+          "frontendQuestionId": "1247"
+        },
+        {
+          "questionId": "1370",
+          "title": "Count Number of Nice Subarrays",
+          "titleSlug": "count-number-of-nice-subarrays",
+          "difficulty": "Medium",
+          "acRate": 72.17691148231505,
+          "status": "PENDING",
+          "frontendQuestionId": "1248"
+        },
+        {
+          "questionId": "1371",
+          "title": "Minimum Remove to Make Valid Parentheses",
+          "titleSlug": "minimum-remove-to-make-valid-parentheses",
+          "difficulty": "Medium",
+          "acRate": 70.07255265581033,
+          "status": "PENDING",
+          "frontendQuestionId": "1249"
+        },
+        {
+          "questionId": "1379",
+          "title": "Reconstruct a 2-Row Binary Matrix",
+          "titleSlug": "reconstruct-a-2-row-binary-matrix",
+          "difficulty": "Medium",
+          "acRate": 47.2481909476439,
+          "status": "PENDING",
+          "frontendQuestionId": "1253"
+        },
+        {
+          "questionId": "1380",
+          "title": "Number of Closed Islands",
+          "titleSlug": "number-of-closed-islands",
+          "difficulty": "Medium",
+          "acRate": 66.59132056539569,
+          "status": "PENDING",
+          "frontendQuestionId": "1254"
+        },
+        {
+          "questionId": "1189",
+          "title": "Encode Number",
+          "titleSlug": "encode-number",
+          "difficulty": "Medium",
+          "acRate": 70.04922704896795,
+          "status": "PENDING",
+          "frontendQuestionId": "1256"
+        },
+        {
+          "questionId": "1190",
+          "title": "Smallest Common Region",
+          "titleSlug": "smallest-common-region",
+          "difficulty": "Medium",
+          "acRate": 67.82944930669605,
+          "status": "PENDING",
+          "frontendQuestionId": "1257"
+        },
+        {
+          "questionId": "1191",
+          "title": "Synonymous Sentences",
+          "titleSlug": "synonymous-sentences",
+          "difficulty": "Medium",
+          "acRate": 56.294479069973036,
+          "status": "PENDING",
+          "frontendQuestionId": "1258"
+        },
+        {
+          "questionId": "1387",
+          "title": "Find Elements in a Contaminated Binary Tree",
+          "titleSlug": "find-elements-in-a-contaminated-binary-tree",
+          "difficulty": "Medium",
+          "acRate": 77.77529695454139,
+          "status": "PENDING",
+          "frontendQuestionId": "1261"
+        },
+        {
+          "questionId": "1388",
+          "title": "Greatest Sum Divisible by Three",
+          "titleSlug": "greatest-sum-divisible-by-three",
+          "difficulty": "Medium",
+          "acRate": 50.6573159598307,
+          "status": "PENDING",
+          "frontendQuestionId": "1262"
+        }
+      ]
+    }
+  }
+}

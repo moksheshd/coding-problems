@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "1399",
+          "title": "Page Recommendations",
+          "titleSlug": "page-recommendations",
+          "difficulty": "Medium",
+          "acRate": 65.38418985451125,
+          "status": "PENDING",
+          "frontendQuestionId": "1264"
+        },
+        {
+          "questionId": "1404",
+          "title": "Print Immutable Linked List in Reverse",
+          "titleSlug": "print-immutable-linked-list-in-reverse",
+          "difficulty": "Medium",
+          "acRate": 94.07858665854401,
+          "status": "PENDING",
+          "frontendQuestionId": "1265"
+        },
+        {
+          "questionId": "1396",
+          "title": "Count Servers that Communicate",
+          "titleSlug": "count-servers-that-communicate",
+          "difficulty": "Medium",
+          "acRate": 73.42163673806262,
+          "status": "PENDING",
+          "frontendQuestionId": "1267"
+        },
+        {
+          "questionId": "1397",
+          "title": "Search Suggestions System",
+          "titleSlug": "search-suggestions-system",
+          "difficulty": "Medium",
+          "acRate": 65.05528770332988,
+          "status": "PENDING",
+          "frontendQuestionId": "1268"
+        },
+        {
+          "questionId": "1405",
+          "title": "All People Report to the Given Manager",
+          "titleSlug": "all-people-report-to-the-given-manager",
+          "difficulty": "Medium",
+          "acRate": 84.50233895057205,
+          "status": "PENDING",
+          "frontendQuestionId": "1270"
+        },
+        {
+          "questionId": "1200",
+          "title": "Remove Interval",
+          "titleSlug": "remove-interval",
+          "difficulty": "Medium",
+          "acRate": 66.53671103477888,
+          "status": "PENDING",
+          "frontendQuestionId": "1272"
+        },
+        {
+          "questionId": "1201",
+          "title": "Delete Tree Nodes",
+          "titleSlug": "delete-tree-nodes",
+          "difficulty": "Medium",
+          "acRate": 61.168404351767904,
+          "status": "PENDING",
+          "frontendQuestionId": "1273"
+        },
+        {
+          "questionId": "1401",
+          "title": "Number of Burgers with No Waste of Ingredients",
+          "titleSlug": "number-of-burgers-with-no-waste-of-ingredients",
+          "difficulty": "Medium",
+          "acRate": 51.07820074137439,
+          "status": "PENDING",
+          "frontendQuestionId": "1276"
+        },
+        {
+          "questionId": "1402",
+          "title": "Count Square Submatrices with All Ones",
+          "titleSlug": "count-square-submatrices-with-all-ones",
+          "difficulty": "Medium",
+          "acRate": 78.47082780158465,
+          "status": "PENDING",
+          "frontendQuestionId": "1277"
+        },
+        {
+          "questionId": "1407",
+          "title": "Group the People Given the Group Size They Belong To",
+          "titleSlug": "group-the-people-given-the-group-size-they-belong-to",
+          "difficulty": "Medium",
+          "acRate": 87.43396937277772,
+          "status": "PENDING",
+          "frontendQuestionId": "1282"
+        },
+        {
+          "questionId": "1408",
+          "title": "Find the Smallest Divisor Given a Threshold",
+          "titleSlug": "find-the-smallest-divisor-given-a-threshold",
+          "difficulty": "Medium",
+          "acRate": 62.39864816892209,
+          "status": "PENDING",
+          "frontendQuestionId": "1283"
+        },
+        {
+          "questionId": "1420",
+          "title": "Find the Start and End Number of Continuous Ranges",
+          "titleSlug": "find-the-start-and-end-number-of-continuous-ranges",
+          "difficulty": "Medium",
+          "acRate": 82.08619777895294,
+          "status": "PENDING",
+          "frontendQuestionId": "1285"
+        },
+        {
+          "questionId": "1211",
+          "title": "Iterator for Combination",
+          "titleSlug": "iterator-for-combination",
+          "difficulty": "Medium",
+          "acRate": 73.4363622427471,
+          "status": "PENDING",
+          "frontendQuestionId": "1286"
+        },
+        {
+          "questionId": "1222",
+          "title": "Remove Covered Intervals",
+          "titleSlug": "remove-covered-intervals",
+          "difficulty": "Medium",
+          "acRate": 56.18034934497816,
+          "status": "PENDING",
+          "frontendQuestionId": "1288"
+        },
+        {
+          "questionId": "1212",
+          "title": "Sequential Digits",
+          "titleSlug": "sequential-digits",
+          "difficulty": "Medium",
+          "acRate": 65.27065411223477,
+          "status": "PENDING",
+          "frontendQuestionId": "1291"
+        },
+        {
+          "questionId": "1413",
+          "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+          "titleSlug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+          "difficulty": "Medium",
+          "acRate": 53.80433172350448,
+          "status": "PENDING",
+          "frontendQuestionId": "1292"
+        },
+        {
+          "questionId": "1422",
+          "title": "Divide Array in Sets of K Consecutive Numbers",
+          "titleSlug": "divide-array-in-sets-of-k-consecutive-numbers",
+          "difficulty": "Medium",
+          "acRate": 58.609923414355514,
+          "status": "PENDING",
+          "frontendQuestionId": "1296"
+        },
+        {
+          "questionId": "1423",
+          "title": "Maximum Number of Occurrences of a Substring",
+          "titleSlug": "maximum-number-of-occurrences-of-a-substring",
+          "difficulty": "Medium",
+          "acRate": 52.81863745449202,
+          "status": "PENDING",
+          "frontendQuestionId": "1297"
+        },
+        {
+          "questionId": "1232",
+          "title": "Sum of Mutated Array Closest to Target",
+          "titleSlug": "sum-of-mutated-array-closest-to-target",
+          "difficulty": "Medium",
+          "acRate": 45.07631418060129,
+          "status": "PENDING",
+          "frontendQuestionId": "1300"
+        },
+        {
+          "questionId": "1254",
+          "title": "Deepest Leaves Sum",
+          "titleSlug": "deepest-leaves-sum",
+          "difficulty": "Medium",
+          "acRate": 86.35001469475854,
+          "status": "PENDING",
+          "frontendQuestionId": "1302"
+        },
+        {
+          "questionId": "1427",
+          "title": "All Elements in Two Binary Search Trees",
+          "titleSlug": "all-elements-in-two-binary-search-trees",
+          "difficulty": "Medium",
+          "acRate": 79.9632447658142,
+          "status": "PENDING",
+          "frontendQuestionId": "1305"
+        },
+        {
+          "questionId": "1428",
+          "title": "Jump Game III",
+          "titleSlug": "jump-game-iii",
+          "difficulty": "Medium",
+          "acRate": 65.6608468609327,
+          "status": "PENDING",
+          "frontendQuestionId": "1306"
+        },
+        {
+          "questionId": "1439",
+          "title": "Running Total for Different Genders",
+          "titleSlug": "running-total-for-different-genders",
+          "difficulty": "Medium",
+          "acRate": 86.31274900398407,
+          "status": "PENDING",
+          "frontendQuestionId": "1308"
+        },
+        {
+          "questionId": "1435",
+          "title": "XOR Queries of a Subarray",
+          "titleSlug": "xor-queries-of-a-subarray",
+          "difficulty": "Medium",
+          "acRate": 78.53866792002037,
+          "status": "PENDING",
+          "frontendQuestionId": "1310"
+        },
+        {
+          "questionId": "1436",
+          "title": "Get Watched Videos by Your Friends",
+          "titleSlug": "get-watched-videos-by-your-friends",
+          "difficulty": "Medium",
+          "acRate": 48.56926825170125,
+          "status": "PENDING",
+          "frontendQuestionId": "1311"
+        },
+        {
+          "questionId": "1242",
+          "title": "Matrix Block Sum",
+          "titleSlug": "matrix-block-sum",
+          "difficulty": "Medium",
+          "acRate": 75.75887709252854,
+          "status": "PENDING",
+          "frontendQuestionId": "1314"
+        },
+        {
+          "questionId": "1243",
+          "title": "Sum of Nodes with Even-Valued Grandparent",
+          "titleSlug": "sum-of-nodes-with-even-valued-grandparent",
+          "difficulty": "Medium",
+          "acRate": 85.68048496345247,
+          "status": "PENDING",
+          "frontendQuestionId": "1315"
+        },
+        {
+          "questionId": "1441",
+          "title": "Minimum Flips to Make a OR b Equal to c",
+          "titleSlug": "minimum-flips-to-make-a-or-b-equal-to-c",
+          "difficulty": "Medium",
+          "acRate": 71.41632779591167,
+          "status": "PENDING",
+          "frontendQuestionId": "1318"
+        },
+        {
+          "questionId": "1442",
+          "title": "Number of Operations to Make Network Connected",
+          "titleSlug": "number-of-operations-to-make-network-connected",
+          "difficulty": "Medium",
+          "acRate": 63.968839186193215,
+          "status": "PENDING",
+          "frontendQuestionId": "1319"
+        },
+        {
+          "questionId": "1452",
+          "title": "Restaurant Growth",
+          "titleSlug": "restaurant-growth",
+          "difficulty": "Medium",
+          "acRate": 55.225982435908804,
+          "status": "PENDING",
+          "frontendQuestionId": "1321"
+        },
+        {
+          "questionId": "1449",
+          "title": "Print Words Vertically",
+          "titleSlug": "print-words-vertically",
+          "difficulty": "Medium",
+          "acRate": 65.59105615900161,
+          "status": "PENDING",
+          "frontendQuestionId": "1324"
+        },
+        {
+          "questionId": "1450",
+          "title": "Delete Leaves With a Given Value",
+          "titleSlug": "delete-leaves-with-a-given-value",
+          "difficulty": "Medium",
+          "acRate": 77.33588272785214,
+          "status": "PENDING",
+          "frontendQuestionId": "1325"
+        },
+        {
+          "questionId": "1252",
+          "title": "Break a Palindrome",
+          "titleSlug": "break-a-palindrome",
+          "difficulty": "Medium",
+          "acRate": 51.55260725730524,
+          "status": "PENDING",
+          "frontendQuestionId": "1328"
+        },
+        {
+          "questionId": "1253",
+          "title": "Sort the Matrix Diagonally",
+          "titleSlug": "sort-the-matrix-diagonally",
+          "difficulty": "Medium",
+          "acRate": 82.90657439446368,
+          "status": "PENDING",
+          "frontendQuestionId": "1329"
+        },
+        {
+          "questionId": "1455",
+          "title": "Filter Restaurants by Vegan-Friendly, Price and Distance",
+          "titleSlug": "filter-restaurants-by-vegan-friendly-price-and-distance",
+          "difficulty": "Medium",
+          "acRate": 62.99112087251976,
+          "status": "PENDING",
+          "frontendQuestionId": "1333"
+        },
+        {
+          "questionId": "1456",
+          "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+          "titleSlug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+          "difficulty": "Medium",
+          "acRate": 69.20916885266104,
+          "status": "PENDING",
+          "frontendQuestionId": "1334"
+        },
+        {
+          "questionId": "1464",
+          "title": "Reduce Array Size to The Half",
+          "titleSlug": "reduce-array-size-to-the-half",
+          "difficulty": "Medium",
+          "acRate": 68.99699883140337,
+          "status": "PENDING",
+          "frontendQuestionId": "1338"
+        },
+        {
+          "questionId": "1465",
+          "title": "Maximum Product of Splitted Binary Tree",
+          "titleSlug": "maximum-product-of-splitted-binary-tree",
+          "difficulty": "Medium",
+          "acRate": 47.80601394954218,
+          "status": "PENDING",
+          "frontendQuestionId": "1339"
+        },
+        {
+          "questionId": "1480",
+          "title": "Movie Rating",
+          "titleSlug": "movie-rating",
+          "difficulty": "Medium",
+          "acRate": 41.06759730522057,
+          "status": "PENDING",
+          "frontendQuestionId": "1341"
+        },
+        {
+          "questionId": "1445",
+          "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+          "titleSlug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+          "difficulty": "Medium",
+          "acRate": 69.67931628432567,
+          "status": "PENDING",
+          "frontendQuestionId": "1343"
+        },
+        {
+          "questionId": "1446",
+          "title": "Angle Between Hands of a Clock",
+          "titleSlug": "angle-between-hands-of-a-clock",
+          "difficulty": "Medium",
+          "acRate": 64.1045443658564,
+          "status": "PENDING",
+          "frontendQuestionId": "1344"
+        },
+        {
+          "questionId": "1469",
+          "title": "Minimum Number of Steps to Make Two Strings Anagram",
+          "titleSlug": "minimum-number-of-steps-to-make-two-strings-anagram",
+          "difficulty": "Medium",
+          "acRate": 82.13684993263692,
+          "status": "PENDING",
+          "frontendQuestionId": "1347"
+        },
+        {
+          "questionId": "1470",
+          "title": "Tweet Counts Per Frequency",
+          "titleSlug": "tweet-counts-per-frequency",
+          "difficulty": "Medium",
+          "acRate": 45.03959072445884,
+          "status": "PENDING",
+          "frontendQuestionId": "1348"
+        },
+        {
+          "questionId": "1477",
+          "title": "Product of the Last K Numbers",
+          "titleSlug": "product-of-the-last-k-numbers",
+          "difficulty": "Medium",
+          "acRate": 52.38862569424302,
+          "status": "PENDING",
+          "frontendQuestionId": "1352"
+        },
+        {
+          "questionId": "1478",
+          "title": "Maximum Number of Events That Can Be Attended",
+          "titleSlug": "maximum-number-of-events-that-can-be-attended",
+          "difficulty": "Medium",
+          "acRate": 32.67007190031558,
+          "status": "PENDING",
+          "frontendQuestionId": "1353"
+        },
+        {
+          "questionId": "1494",
+          "title": "Activity Participants",
+          "titleSlug": "activity-participants",
+          "difficulty": "Medium",
+          "acRate": 72.38480414432428,
+          "status": "PENDING",
+          "frontendQuestionId": "1355"
+        },
+        {
+          "questionId": "1459",
+          "title": "Apply Discount Every n Orders",
+          "titleSlug": "apply-discount-every-n-orders",
+          "difficulty": "Medium",
+          "acRate": 71.87154245510511,
+          "status": "PENDING",
+          "frontendQuestionId": "1357"
+        },
+        {
+          "questionId": "1460",
+          "title": "Number of Substrings Containing All Three Characters",
+          "titleSlug": "number-of-substrings-containing-all-three-characters",
+          "difficulty": "Medium",
+          "acRate": 68.52346385342946,
+          "status": "PENDING",
+          "frontendQuestionId": "1358"
+        },
+        {
+          "questionId": "1275",
+          "title": "Validate Binary Tree Nodes",
+          "titleSlug": "validate-binary-tree-nodes",
+          "difficulty": "Medium",
+          "acRate": 43.84181276190681,
+          "status": "PENDING",
+          "frontendQuestionId": "1361"
+        },
+        {
+          "questionId": "1276",
+          "title": "Closest Divisors",
+          "titleSlug": "closest-divisors",
+          "difficulty": "Medium",
+          "acRate": 61.042507133720356,
+          "status": "PENDING",
+          "frontendQuestionId": "1362"
+        }
+      ]
+    }
+  }
+}

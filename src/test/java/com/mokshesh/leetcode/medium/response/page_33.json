@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "3314",
+          "title": "Most Frequent Prime",
+          "titleSlug": "most-frequent-prime",
+          "difficulty": "Medium",
+          "acRate": 46.409998322429125,
+          "status": "PENDING",
+          "frontendQuestionId": "3044"
+        },
+        {
+          "questionId": "3325",
+          "title": "Find the Largest Area of Square Inside Two Rectangles",
+          "titleSlug": "find-the-largest-area-of-square-inside-two-rectangles",
+          "difficulty": "Medium",
+          "acRate": 45.24032086258995,
+          "status": "PENDING",
+          "frontendQuestionId": "3047"
+        },
+        {
+          "questionId": "3292",
+          "title": "Earliest Second to Mark Indices I",
+          "titleSlug": "earliest-second-to-mark-indices-i",
+          "difficulty": "Medium",
+          "acRate": 35.757363526711025,
+          "status": "PENDING",
+          "frontendQuestionId": "3048"
+        },
+        {
+          "questionId": "3255",
+          "title": "Pizza Toppings Cost Analysis",
+          "titleSlug": "pizza-toppings-cost-analysis",
+          "difficulty": "Medium",
+          "acRate": 67.06567453898414,
+          "status": "PENDING",
+          "frontendQuestionId": "3050"
+        },
+        {
+          "questionId": "3259",
+          "title": "Binary Tree Nodes",
+          "titleSlug": "binary-tree-nodes",
+          "difficulty": "Medium",
+          "acRate": 80.10907924286172,
+          "status": "PENDING",
+          "frontendQuestionId": "3054"
+        },
+        {
+          "questionId": "3339",
+          "title": "Top Percentile Fraud",
+          "titleSlug": "top-percentile-fraud",
+          "difficulty": "Medium",
+          "acRate": 58.929645219482865,
+          "status": "PENDING",
+          "frontendQuestionId": "3055"
+        },
+        {
+          "questionId": "3340",
+          "title": "Snaps Analysis",
+          "titleSlug": "snaps-analysis",
+          "difficulty": "Medium",
+          "acRate": 58.71275997751546,
+          "status": "PENDING",
+          "frontendQuestionId": "3056"
+        },
+        {
+          "questionId": "3358",
+          "title": "Friends With No Mutual Friends",
+          "titleSlug": "friends-with-no-mutual-friends",
+          "difficulty": "Medium",
+          "acRate": 48.673277941570625,
+          "status": "PENDING",
+          "frontendQuestionId": "3058"
+        },
+        {
+          "questionId": "3370",
+          "title": "Guess the Number Using Bitwise Questions I",
+          "titleSlug": "guess-the-number-using-bitwise-questions-i",
+          "difficulty": "Medium",
+          "acRate": 90.58171745152355,
+          "status": "PENDING",
+          "frontendQuestionId": "3064"
+        },
+        {
+          "questionId": "3332",
+          "title": "Minimum Operations to Exceed Threshold Value II",
+          "titleSlug": "minimum-operations-to-exceed-threshold-value-ii",
+          "difficulty": "Medium",
+          "acRate": 28.97635482449699,
+          "status": "PENDING",
+          "frontendQuestionId": "3066"
+        },
+        {
+          "questionId": "3326",
+          "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+          "titleSlug": "count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+          "difficulty": "Medium",
+          "acRate": 56.38341883170611,
+          "status": "PENDING",
+          "frontendQuestionId": "3067"
+        },
+        {
+          "questionId": "3338",
+          "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+          "titleSlug": "count-submatrices-with-top-left-element-and-sum-less-than-k",
+          "difficulty": "Medium",
+          "acRate": 58.246364232943115,
+          "status": "PENDING",
+          "frontendQuestionId": "3070"
+        },
+        {
+          "questionId": "3335",
+          "title": "Minimum Operations to Write the Letter Y on a Grid",
+          "titleSlug": "minimum-operations-to-write-the-letter-y-on-a-grid",
+          "difficulty": "Medium",
+          "acRate": 62.29436599213859,
+          "status": "PENDING",
+          "frontendQuestionId": "3071"
+        },
+        {
+          "questionId": "3378",
+          "title": "Maximum Increasing Triplet Value",
+          "titleSlug": "maximum-increasing-triplet-value",
+          "difficulty": "Medium",
+          "acRate": 35.93027392387051,
+          "status": "PENDING",
+          "frontendQuestionId": "3073"
+        },
+        {
+          "questionId": "3351",
+          "title": "Maximize Happiness of Selected Children",
+          "titleSlug": "maximize-happiness-of-selected-children",
+          "difficulty": "Medium",
+          "acRate": 54.880317958940594,
+          "status": "PENDING",
+          "frontendQuestionId": "3075"
+        },
+        {
+          "questionId": "3356",
+          "title": "Shortest Uncommon Substring in an Array",
+          "titleSlug": "shortest-uncommon-substring-in-an-array",
+          "difficulty": "Medium",
+          "acRate": 46.87505759625486,
+          "status": "PENDING",
+          "frontendQuestionId": "3076"
+        },
+        {
+          "questionId": "3385",
+          "title": "Match Alphanumerical Pattern in Matrix I",
+          "titleSlug": "match-alphanumerical-pattern-in-matrix-i",
+          "difficulty": "Medium",
+          "acRate": 63.16886726893676,
+          "status": "PENDING",
+          "frontendQuestionId": "3078"
+        },
+        {
+          "questionId": "3306",
+          "title": "Mark Elements on Array by Performing Queries",
+          "titleSlug": "mark-elements-on-array-by-performing-queries",
+          "difficulty": "Medium",
+          "acRate": 49.02703111986068,
+          "status": "PENDING",
+          "frontendQuestionId": "3080"
+        },
+        {
+          "questionId": "3354",
+          "title": "Replace Question Marks in String to Minimize Its Value",
+          "titleSlug": "replace-question-marks-in-string-to-minimize-its-value",
+          "difficulty": "Medium",
+          "acRate": 27.70633577740177,
+          "status": "PENDING",
+          "frontendQuestionId": "3081"
+        },
+        {
+          "questionId": "3337",
+          "title": "Count Substrings Starting and Ending with Given Character",
+          "titleSlug": "count-substrings-starting-and-ending-with-given-character",
+          "difficulty": "Medium",
+          "acRate": 48.72646319926373,
+          "status": "PENDING",
+          "frontendQuestionId": "3084"
+        },
+        {
+          "questionId": "3360",
+          "title": "Minimum Deletions to Make String K-Special",
+          "titleSlug": "minimum-deletions-to-make-string-k-special",
+          "difficulty": "Medium",
+          "acRate": 44.100592461868146,
+          "status": "PENDING",
+          "frontendQuestionId": "3085"
+        },
+        {
+          "questionId": "3392",
+          "title": "Find Trending Hashtags",
+          "titleSlug": "find-trending-hashtags",
+          "difficulty": "Medium",
+          "acRate": 62.57716049382716,
+          "status": "PENDING",
+          "frontendQuestionId": "3087"
+        },
+        {
+          "questionId": "3400",
+          "title": "Find Bursty Behavior",
+          "titleSlug": "find-bursty-behavior",
+          "difficulty": "Medium",
+          "acRate": 40.028818443804035,
+          "status": "PENDING",
+          "frontendQuestionId": "3089"
+        },
+        {
+          "questionId": "3328",
+          "title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+          "titleSlug": "apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+          "difficulty": "Medium",
+          "acRate": 44.325190839694656,
+          "status": "PENDING",
+          "frontendQuestionId": "3091"
+        },
+        {
+          "questionId": "3363",
+          "title": "Most Frequent IDs",
+          "titleSlug": "most-frequent-ids",
+          "difficulty": "Medium",
+          "acRate": 42.44763614602034,
+          "status": "PENDING",
+          "frontendQuestionId": "3092"
+        },
+        {
+          "questionId": "3401",
+          "title": "Guess the Number Using Bitwise Questions II",
+          "titleSlug": "guess-the-number-using-bitwise-questions-ii",
+          "difficulty": "Medium",
+          "acRate": 82.67270668176671,
+          "status": "PENDING",
+          "frontendQuestionId": "3094"
+        },
+        {
+          "questionId": "3355",
+          "title": "Minimum Levels to Gain More Points",
+          "titleSlug": "minimum-levels-to-gain-more-points",
+          "difficulty": "Medium",
+          "acRate": 39.92645570474327,
+          "status": "PENDING",
+          "frontendQuestionId": "3096"
+        },
+        {
+          "questionId": "3380",
+          "title": "Shortest Subarray With OR at Least K II",
+          "titleSlug": "shortest-subarray-with-or-at-least-k-ii",
+          "difficulty": "Medium",
+          "acRate": 50.516810388664965,
+          "status": "PENDING",
+          "frontendQuestionId": "3097"
+        },
+        {
+          "questionId": "3336",
+          "title": "Water Bottles II",
+          "titleSlug": "water-bottles-ii",
+          "difficulty": "Medium",
+          "acRate": 63.625682493607016,
+          "status": "PENDING",
+          "frontendQuestionId": "3100"
+        },
+        {
+          "questionId": "3374",
+          "title": "Count Alternating Subarrays",
+          "titleSlug": "count-alternating-subarrays",
+          "difficulty": "Medium",
+          "acRate": 57.20260153889658,
+          "status": "PENDING",
+          "frontendQuestionId": "3101"
+        },
+        {
+          "questionId": "3346",
+          "title": "Lexicographically Smallest String After Operations With Constraint",
+          "titleSlug": "lexicographically-smallest-string-after-operations-with-constraint",
+          "difficulty": "Medium",
+          "acRate": 63.27846234359389,
+          "status": "PENDING",
+          "frontendQuestionId": "3106"
+        },
+        {
+          "questionId": "3387",
+          "title": "Minimum Operations to Make Median of Array Equal to K",
+          "titleSlug": "minimum-operations-to-make-median-of-array-equal-to-k",
+          "difficulty": "Medium",
+          "acRate": 47.929218225765716,
+          "status": "PENDING",
+          "frontendQuestionId": "3107"
+        },
+        {
+          "questionId": "3417",
+          "title": "Find the Index of Permutation",
+          "titleSlug": "find-the-index-of-permutation",
+          "difficulty": "Medium",
+          "acRate": 37.566489361702125,
+          "status": "PENDING",
+          "frontendQuestionId": "3109"
+        },
+        {
+          "questionId": "3390",
+          "title": "Minimum Rectangles to Cover Points",
+          "titleSlug": "minimum-rectangles-to-cover-points",
+          "difficulty": "Medium",
+          "acRate": 62.93042400637338,
+          "status": "PENDING",
+          "frontendQuestionId": "3111"
+        },
+        {
+          "questionId": "3389",
+          "title": "Minimum Time to Visit Disappearing Nodes",
+          "titleSlug": "minimum-time-to-visit-disappearing-nodes",
+          "difficulty": "Medium",
+          "acRate": 35.30229212307491,
+          "status": "PENDING",
+          "frontendQuestionId": "3112"
+        },
+        {
+          "questionId": "3373",
+          "title": "Maximum Prime Difference",
+          "titleSlug": "maximum-prime-difference",
+          "difficulty": "Medium",
+          "acRate": 57.76081777383788,
+          "status": "PENDING",
+          "frontendQuestionId": "3115"
+        },
+        {
+          "questionId": "3424",
+          "title": "Friday Purchase III ",
+          "titleSlug": "friday-purchase-iii",
+          "difficulty": "Medium",
+          "acRate": 59.130434782608695,
+          "status": "PENDING",
+          "frontendQuestionId": "3118"
+        },
+        {
+          "questionId": "3425",
+          "title": "Maximum Number of Potholes That Can Be Fixed",
+          "titleSlug": "maximum-number-of-potholes-that-can-be-fixed",
+          "difficulty": "Medium",
+          "acRate": 54.581323980710216,
+          "status": "PENDING",
+          "frontendQuestionId": "3119"
+        },
+        {
+          "questionId": "3405",
+          "title": "Count the Number of Special Characters II",
+          "titleSlug": "count-the-number-of-special-characters-ii",
+          "difficulty": "Medium",
+          "acRate": 41.82968788400098,
+          "status": "PENDING",
+          "frontendQuestionId": "3121"
+        },
+        {
+          "questionId": "3404",
+          "title": "Minimum Number of Operations to Satisfy Conditions",
+          "titleSlug": "minimum-number-of-operations-to-satisfy-conditions",
+          "difficulty": "Medium",
+          "acRate": 40.939840854306524,
+          "status": "PENDING",
+          "frontendQuestionId": "3122"
+        },
+        {
+          "questionId": "3432",
+          "title": "Find Longest Calls",
+          "titleSlug": "find-longest-calls",
+          "difficulty": "Medium",
+          "acRate": 62.40992794235388,
+          "status": "PENDING",
+          "frontendQuestionId": "3124"
+        },
+        {
+          "questionId": "3433",
+          "title": "Maximum Number That Makes Result of Bitwise AND Zero",
+          "titleSlug": "maximum-number-that-makes-result-of-bitwise-and-zero",
+          "difficulty": "Medium",
+          "acRate": 68.62284820031299,
+          "status": "PENDING",
+          "frontendQuestionId": "3125"
+        },
+        {
+          "questionId": "3440",
+          "title": "Server Utilization Time",
+          "titleSlug": "server-utilization-time",
+          "difficulty": "Medium",
+          "acRate": 60.86142322097379,
+          "status": "PENDING",
+          "frontendQuestionId": "3126"
+        },
+        {
+          "questionId": "3388",
+          "title": "Right Triangles",
+          "titleSlug": "right-triangles",
+          "difficulty": "Medium",
+          "acRate": 47.133166062633585,
+          "status": "PENDING",
+          "frontendQuestionId": "3128"
+        },
+        {
+          "questionId": "3406",
+          "title": "Find All Possible Stable Binary Arrays I",
+          "titleSlug": "find-all-possible-stable-binary-arrays-i",
+          "difficulty": "Medium",
+          "acRate": 26.49442598515666,
+          "status": "PENDING",
+          "frontendQuestionId": "3129"
+        },
+        {
+          "questionId": "3399",
+          "title": "Find the Integer Added to Array II",
+          "titleSlug": "find-the-integer-added-to-array-ii",
+          "difficulty": "Medium",
+          "acRate": 31.58864624016723,
+          "status": "PENDING",
+          "frontendQuestionId": "3132"
+        },
+        {
+          "questionId": "3394",
+          "title": "Minimum Array End",
+          "titleSlug": "minimum-array-end",
+          "difficulty": "Medium",
+          "acRate": 55.99322504994354,
+          "status": "PENDING",
+          "frontendQuestionId": "3133"
+        },
+        {
+          "questionId": "3441",
+          "title": "Equalize Strings by Adding or Removing Characters at Ends",
+          "titleSlug": "equalize-strings-by-adding-or-removing-characters-at-ends",
+          "difficulty": "Medium",
+          "acRate": 55.842630651790955,
+          "status": "PENDING",
+          "frontendQuestionId": "3135"
+        },
+        {
+          "questionId": "3384",
+          "title": "Minimum Number of Operations to Make Word K-Periodic",
+          "titleSlug": "minimum-number-of-operations-to-make-word-k-periodic",
+          "difficulty": "Medium",
+          "acRate": 61.4152010201381,
+          "status": "PENDING",
+          "frontendQuestionId": "3137"
+        },
+        {
+          "questionId": "3395",
+          "title": "Minimum Length of Anagram Concatenation",
+          "titleSlug": "minimum-length-of-anagram-concatenation",
+          "difficulty": "Medium",
+          "acRate": 41.37251062877601,
+          "status": "PENDING",
+          "frontendQuestionId": "3138"
+        }
+      ]
+    }
+  }
+}

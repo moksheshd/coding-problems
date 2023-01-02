@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 796,
+      "questions": [
+        {
+          "questionId": "3212",
+          "title": "Count the Number of Good Partitions",
+          "titleSlug": "count-the-number-of-good-partitions",
+          "difficulty": "Hard",
+          "acRate": 47.48937194192669,
+          "status": "PENDING",
+          "frontendQuestionId": "2963"
+        },
+        {
+          "questionId": "3196",
+          "title": "Apply Operations to Maximize Frequency Score",
+          "titleSlug": "apply-operations-to-maximize-frequency-score",
+          "difficulty": "Hard",
+          "acRate": 37.298792756539235,
+          "status": "PENDING",
+          "frontendQuestionId": "2968"
+        },
+        {
+          "questionId": "3268",
+          "title": "Minimum Number of Coins for Fruits II",
+          "titleSlug": "minimum-number-of-coins-for-fruits-ii",
+          "difficulty": "Hard",
+          "acRate": 48.71287128712871,
+          "status": "PENDING",
+          "frontendQuestionId": "2969"
+        },
+        {
+          "questionId": "3248",
+          "title": "Count the Number of Incremovable Subarrays II",
+          "titleSlug": "count-the-number-of-incremovable-subarrays-ii",
+          "difficulty": "Hard",
+          "acRate": 40.09798296332259,
+          "status": "PENDING",
+          "frontendQuestionId": "2972"
+        },
+        {
+          "questionId": "3218",
+          "title": "Find Number of Coins to Place in Tree Nodes",
+          "titleSlug": "find-number-of-coins-to-place-in-tree-nodes",
+          "difficulty": "Hard",
+          "acRate": 36.64368548997729,
+          "status": "PENDING",
+          "frontendQuestionId": "2973"
+        },
+        {
+          "questionId": "3238",
+          "title": "Minimum Cost to Convert String II",
+          "titleSlug": "minimum-cost-to-convert-string-ii",
+          "difficulty": "Hard",
+          "acRate": 25.63947258072031,
+          "status": "PENDING",
+          "frontendQuestionId": "2977"
+        },
+        {
+          "questionId": "3203",
+          "title": "Palindrome Rearrangement Queries",
+          "titleSlug": "palindrome-rearrangement-queries",
+          "difficulty": "Hard",
+          "acRate": 25.8287795992714,
+          "status": "PENDING",
+          "frontendQuestionId": "2983"
+        },
+        {
+          "questionId": "3288",
+          "title": "Top Three Wineries ",
+          "titleSlug": "top-three-wineries",
+          "difficulty": "Hard",
+          "acRate": 56.23601789709173,
+          "status": "PENDING",
+          "frontendQuestionId": "2991"
+        },
+        {
+          "questionId": "3301",
+          "title": "Friday Purchases II ",
+          "titleSlug": "friday-purchases-ii",
+          "difficulty": "Hard",
+          "acRate": 74.77355072463769,
+          "status": "PENDING",
+          "frontendQuestionId": "2994"
+        },
+        {
+          "questionId": "3302",
+          "title": "Viewers Turned Streamers",
+          "titleSlug": "viewers-turned-streamers",
+          "difficulty": "Hard",
+          "acRate": 43.47757172293549,
+          "status": "PENDING",
+          "frontendQuestionId": "2995"
+        },
+        {
+          "questionId": "3243",
+          "title": "Count the Number of Powerful Integers",
+          "titleSlug": "count-the-number-of-powerful-integers",
+          "difficulty": "Hard",
+          "acRate": 26.576684759114272,
+          "status": "PENDING",
+          "frontendQuestionId": "2999"
+        },
+        {
+          "questionId": "3233",
+          "title": "Maximize the Number of Partitions After Operations",
+          "titleSlug": "maximize-the-number-of-partitions-after-operations",
+          "difficulty": "Hard",
+          "acRate": 27.14499679052849,
+          "status": "PENDING",
+          "frontendQuestionId": "3003"
+        },
+        {
+          "questionId": "3303",
+          "title": "Find Beautiful Indices in the Given Array II",
+          "titleSlug": "find-beautiful-indices-in-the-given-array-ii",
+          "difficulty": "Hard",
+          "acRate": 25.66428529715209,
+          "status": "PENDING",
+          "frontendQuestionId": "3008"
+        },
+        {
+          "questionId": "3315",
+          "title": "Maximum Number of Intersections on the Chart",
+          "titleSlug": "maximum-number-of-intersections-on-the-chart",
+          "difficulty": "Hard",
+          "acRate": 45.37585421412301,
+          "status": "PENDING",
+          "frontendQuestionId": "3009"
+        },
+        {
+          "questionId": "3260",
+          "title": "Divide an Array Into Subarrays With Minimum Cost II",
+          "titleSlug": "divide-an-array-into-subarrays-with-minimum-cost-ii",
+          "difficulty": "Hard",
+          "acRate": 30.846492641529704,
+          "status": "PENDING",
+          "frontendQuestionId": "3013"
+        },
+        {
+          "questionId": "3310",
+          "title": "Count the Number of Houses at a Certain Distance II",
+          "titleSlug": "count-the-number-of-houses-at-a-certain-distance-ii",
+          "difficulty": "Hard",
+          "acRate": 21.26335637963545,
+          "status": "PENDING",
+          "frontendQuestionId": "3017"
+        },
+        {
+          "questionId": "3323",
+          "title": "Maximum Number of Removal Queries That Can Be Processed I",
+          "titleSlug": "maximum-number-of-removal-queries-that-can-be-processed-i",
+          "difficulty": "Hard",
+          "acRate": 43.36134453781513,
+          "status": "PENDING",
+          "frontendQuestionId": "3018"
+        },
+        {
+          "questionId": "3261",
+          "title": "Minimize OR of Remaining Elements Using Operations",
+          "titleSlug": "minimize-or-of-remaining-elements-using-operations",
+          "difficulty": "Hard",
+          "acRate": 30.673316708229425,
+          "status": "PENDING",
+          "frontendQuestionId": "3022"
+        },
+        {
+          "questionId": "3277",
+          "title": "Find the Number of Ways to Place People II",
+          "titleSlug": "find-the-number-of-ways-to-place-people-ii",
+          "difficulty": "Hard",
+          "acRate": 46.62162162162162,
+          "status": "PENDING",
+          "frontendQuestionId": "3027"
+        },
+        {
+          "questionId": "3296",
+          "title": "Minimum Time to Revert Word to Initial State II",
+          "titleSlug": "minimum-time-to-revert-word-to-initial-state-ii",
+          "difficulty": "Hard",
+          "acRate": 34.83020422576658,
+          "status": "PENDING",
+          "frontendQuestionId": "3031"
+        },
+        {
+          "questionId": "3290",
+          "title": "Number of Subarrays That Match a Pattern II",
+          "titleSlug": "number-of-subarrays-that-match-a-pattern-ii",
+          "difficulty": "Hard",
+          "acRate": 32.1513698813573,
+          "status": "PENDING",
+          "frontendQuestionId": "3036"
+        },
+        {
+          "questionId": "3352",
+          "title": "Find Pattern in Infinite Stream II",
+          "titleSlug": "find-pattern-in-infinite-stream-ii",
+          "difficulty": "Hard",
+          "acRate": 69.25545571245186,
+          "status": "PENDING",
+          "frontendQuestionId": "3037"
+        },
+        {
+          "questionId": "3298",
+          "title": "Maximize Consecutive Elements in an Array After Modification",
+          "titleSlug": "maximize-consecutive-elements-in-an-array-after-modification",
+          "difficulty": "Hard",
+          "acRate": 30.836122835104064,
+          "status": "PENDING",
+          "frontendQuestionId": "3041"
+        },
+        {
+          "questionId": "3305",
+          "title": "Count Prefix and Suffix Pairs II",
+          "titleSlug": "count-prefix-and-suffix-pairs-ii",
+          "difficulty": "Hard",
+          "acRate": 27.60737555959399,
+          "status": "PENDING",
+          "frontendQuestionId": "3045"
+        },
+        {
+          "questionId": "3289",
+          "title": "Earliest Second to Mark Indices II",
+          "titleSlug": "earliest-second-to-mark-indices-ii",
+          "difficulty": "Hard",
+          "acRate": 20.980057824894356,
+          "status": "PENDING",
+          "frontendQuestionId": "3049"
+        },
+        {
+          "questionId": "3257",
+          "title": "Maximize Items",
+          "titleSlug": "maximize-items",
+          "difficulty": "Hard",
+          "acRate": 73.61702127659574,
+          "status": "PENDING",
+          "frontendQuestionId": "3052"
+        },
+        {
+          "questionId": "3357",
+          "title": "Employees Project Allocation",
+          "titleSlug": "employees-project-allocation",
+          "difficulty": "Hard",
+          "acRate": 68.89400921658986,
+          "status": "PENDING",
+          "frontendQuestionId": "3057"
+        },
+        {
+          "questionId": "3366",
+          "title": "User Activities within Time Bounds",
+          "titleSlug": "user-activities-within-time-bounds",
+          "difficulty": "Hard",
+          "acRate": 40.25604551920342,
+          "status": "PENDING",
+          "frontendQuestionId": "3060"
+        },
+        {
+          "questionId": "3369",
+          "title": "Calculate Trapping Rain Water",
+          "titleSlug": "calculate-trapping-rain-water",
+          "difficulty": "Hard",
+          "acRate": 81.79650238473768,
+          "status": "PENDING",
+          "frontendQuestionId": "3061"
+        },
+        {
+          "questionId": "3307",
+          "title": "Find the Maximum Sum of Node Values",
+          "titleSlug": "find-the-maximum-sum-of-node-values",
+          "difficulty": "Hard",
+          "acRate": 65.70113697888468,
+          "status": "PENDING",
+          "frontendQuestionId": "3068"
+        },
+        {
+          "questionId": "3350",
+          "title": "Distribute Elements Into Two Arrays II",
+          "titleSlug": "distribute-elements-into-two-arrays-ii",
+          "difficulty": "Hard",
+          "acRate": 27.58108754183337,
+          "status": "PENDING",
+          "frontendQuestionId": "3072"
+        },
+        {
+          "questionId": "3313",
+          "title": "Maximum Strength of K Disjoint Subarrays",
+          "titleSlug": "maximum-strength-of-k-disjoint-subarrays",
+          "difficulty": "Hard",
+          "acRate": 26.996767326342347,
+          "status": "PENDING",
+          "frontendQuestionId": "3077"
+        },
+        {
+          "questionId": "3345",
+          "title": "Find the Sum of the Power of All Subsequences",
+          "titleSlug": "find-the-sum-of-the-power-of-all-subsequences",
+          "difficulty": "Hard",
+          "acRate": 36.76066654458891,
+          "status": "PENDING",
+          "frontendQuestionId": "3082"
+        },
+        {
+          "questionId": "3327",
+          "title": "Minimum Moves to Pick K Ones",
+          "titleSlug": "minimum-moves-to-pick-k-ones",
+          "difficulty": "Hard",
+          "acRate": 22.48985637921041,
+          "status": "PENDING",
+          "frontendQuestionId": "3086"
+        },
+        {
+          "questionId": "3393",
+          "title": "Make String Anti-palindrome",
+          "titleSlug": "make-string-anti-palindrome",
+          "difficulty": "Hard",
+          "acRate": 42.310418143160874,
+          "status": "PENDING",
+          "frontendQuestionId": "3088"
+        },
+        {
+          "questionId": "3376",
+          "title": "Longest Common Suffix Queries",
+          "titleSlug": "longest-common-suffix-queries",
+          "difficulty": "Hard",
+          "acRate": 37.68421052631579,
+          "status": "PENDING",
+          "frontendQuestionId": "3093"
+        },
+        {
+          "questionId": "3316",
+          "title": "Find the Sum of Subsequence Powers",
+          "titleSlug": "find-the-sum-of-subsequence-powers",
+          "difficulty": "Hard",
+          "acRate": 24.339496547115168,
+          "status": "PENDING",
+          "frontendQuestionId": "3098"
+        },
+        {
+          "questionId": "3344",
+          "title": "Minimize Manhattan Distances",
+          "titleSlug": "minimize-manhattan-distances",
+          "difficulty": "Hard",
+          "acRate": 31.5305737508145,
+          "status": "PENDING",
+          "frontendQuestionId": "3102"
+        },
+        {
+          "questionId": "3409",
+          "title": "Find Trending Hashtags II ",
+          "titleSlug": "find-trending-hashtags-ii",
+          "difficulty": "Hard",
+          "acRate": 64.22082459818309,
+          "status": "PENDING",
+          "frontendQuestionId": "3103"
+        },
+        {
+          "questionId": "3410",
+          "title": "Find Longest Self-Contained Substring",
+          "titleSlug": "find-longest-self-contained-substring",
+          "difficulty": "Hard",
+          "acRate": 59.477641472101304,
+          "status": "PENDING",
+          "frontendQuestionId": "3104"
+        },
+        {
+          "questionId": "3348",
+          "title": "Minimum Cost Walk in Weighted Graph",
+          "titleSlug": "minimum-cost-walk-in-weighted-graph",
+          "difficulty": "Hard",
+          "acRate": 45.37102952642462,
+          "status": "PENDING",
+          "frontendQuestionId": "3108"
+        },
+        {
+          "questionId": "3382",
+          "title": "Find the Number of Subarrays Where Boundary Elements Are Maximum",
+          "titleSlug": "find-the-number-of-subarrays-where-boundary-elements-are-maximum",
+          "difficulty": "Hard",
+          "acRate": 30.02091197957687,
+          "status": "PENDING",
+          "frontendQuestionId": "3113"
+        },
+        {
+          "questionId": "3375",
+          "title": "Kth Smallest Amount With Single Denomination Combination",
+          "titleSlug": "kth-smallest-amount-with-single-denomination-combination",
+          "difficulty": "Hard",
+          "acRate": 17.451125115918167,
+          "status": "PENDING",
+          "frontendQuestionId": "3116"
+        },
+        {
+          "questionId": "3364",
+          "title": "Minimum Sum of Values by Dividing Array",
+          "titleSlug": "minimum-sum-of-values-by-dividing-array",
+          "difficulty": "Hard",
+          "acRate": 27.256715103478648,
+          "status": "PENDING",
+          "frontendQuestionId": "3117"
+        },
+        {
+          "questionId": "3386",
+          "title": "Find Edges in Shortest Paths",
+          "titleSlug": "find-edges-in-shortest-paths",
+          "difficulty": "Hard",
+          "acRate": 45.91075634650615,
+          "status": "PENDING",
+          "frontendQuestionId": "3123"
+        },
+        {
+          "questionId": "3407",
+          "title": "Find All Possible Stable Binary Arrays II",
+          "titleSlug": "find-all-possible-stable-binary-arrays-ii",
+          "difficulty": "Hard",
+          "acRate": 26.968825312913008,
+          "status": "PENDING",
+          "frontendQuestionId": "3130"
+        },
+        {
+          "questionId": "3362",
+          "title": "Find the Median of the Uniqueness Array",
+          "titleSlug": "find-the-median-of-the-uniqueness-array",
+          "difficulty": "Hard",
+          "acRate": 28.697330871243913,
+          "status": "PENDING",
+          "frontendQuestionId": "3134"
+        },
+        {
+          "questionId": "3402",
+          "title": "Minimum Cost to Equalize Array",
+          "titleSlug": "minimum-cost-to-equalize-array",
+          "difficulty": "Hard",
+          "acRate": 17.606211944995554,
+          "status": "PENDING",
+          "frontendQuestionId": "3139"
+        },
+        {
+          "questionId": "3449",
+          "title": "Maximum Hamming Distances",
+          "titleSlug": "maximum-hamming-distances",
+          "difficulty": "Hard",
+          "acRate": 54.71698113207547,
+          "status": "PENDING",
+          "frontendQuestionId": "3141"
+        },
+        {
+          "questionId": "3411",
+          "title": "Find Products of Elements of Big Array",
+          "titleSlug": "find-products-of-elements-of-big-array",
+          "difficulty": "Hard",
+          "acRate": 22.633382280959374,
+          "status": "PENDING",
+          "frontendQuestionId": "3145"
+        }
+      ]
+    }
+  }
+}

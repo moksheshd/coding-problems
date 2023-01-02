@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "1575",
+          "title": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+          "titleSlug": "maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+          "difficulty": "Medium",
+          "acRate": 41.17908207828055,
+          "status": "PENDING",
+          "frontendQuestionId": "1465"
+        },
+        {
+          "questionId": "1576",
+          "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+          "titleSlug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+          "difficulty": "Medium",
+          "acRate": 64.69435526301662,
+          "status": "PENDING",
+          "frontendQuestionId": "1466"
+        },
+        {
+          "questionId": "1608",
+          "title": "Calculate Salaries",
+          "titleSlug": "calculate-salaries",
+          "difficulty": "Medium",
+          "acRate": 78.21430684574877,
+          "status": "PENDING",
+          "frontendQuestionId": "1468"
+        },
+        {
+          "questionId": "1581",
+          "title": "The k Strongest Values in an Array",
+          "titleSlug": "the-k-strongest-values-in-an-array",
+          "difficulty": "Medium",
+          "acRate": 61.58871062876018,
+          "status": "PENDING",
+          "frontendQuestionId": "1471"
+        },
+        {
+          "questionId": "1582",
+          "title": "Design Browser History",
+          "titleSlug": "design-browser-history",
+          "difficulty": "Medium",
+          "acRate": 77.88377051760901,
+          "status": "PENDING",
+          "frontendQuestionId": "1472"
+        },
+        {
+          "questionId": "1572",
+          "title": "Subrectangle Queries",
+          "titleSlug": "subrectangle-queries",
+          "difficulty": "Medium",
+          "acRate": 88.29454045650166,
+          "status": "PENDING",
+          "frontendQuestionId": "1476"
+        },
+        {
+          "questionId": "1573",
+          "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+          "titleSlug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
+          "difficulty": "Medium",
+          "acRate": 36.53828044071947,
+          "status": "PENDING",
+          "frontendQuestionId": "1477"
+        },
+        {
+          "questionId": "1604",
+          "title": "Least Number of Unique Integers after K Removals",
+          "titleSlug": "least-number-of-unique-integers-after-k-removals",
+          "difficulty": "Medium",
+          "acRate": 63.22201494812051,
+          "status": "PENDING",
+          "frontendQuestionId": "1481"
+        },
+        {
+          "questionId": "1605",
+          "title": "Minimum Number of Days to Make m Bouquets",
+          "titleSlug": "minimum-number-of-days-to-make-m-bouquets",
+          "difficulty": "Medium",
+          "acRate": 55.33260360953898,
+          "status": "PENDING",
+          "frontendQuestionId": "1482"
+        },
+        {
+          "questionId": "1624",
+          "title": "Clone Binary Tree With Random Pointer",
+          "titleSlug": "clone-binary-tree-with-random-pointer",
+          "difficulty": "Medium",
+          "acRate": 80.69301740406793,
+          "status": "PENDING",
+          "frontendQuestionId": "1485"
+        },
+        {
+          "questionId": "1611",
+          "title": "Making File Names Unique",
+          "titleSlug": "making-file-names-unique",
+          "difficulty": "Medium",
+          "acRate": 37.61910758510683,
+          "status": "PENDING",
+          "frontendQuestionId": "1487"
+        },
+        {
+          "questionId": "1612",
+          "title": "Avoid Flood in The City",
+          "titleSlug": "avoid-flood-in-the-city",
+          "difficulty": "Medium",
+          "acRate": 27.15711347084005,
+          "status": "PENDING",
+          "frontendQuestionId": "1488"
+        },
+        {
+          "questionId": "1634",
+          "title": "Clone N-ary Tree",
+          "titleSlug": "clone-n-ary-tree",
+          "difficulty": "Medium",
+          "acRate": 83.15970386039133,
+          "status": "PENDING",
+          "frontendQuestionId": "1490"
+        },
+        {
+          "questionId": "1585",
+          "title": "The kth Factor of n",
+          "titleSlug": "the-kth-factor-of-n",
+          "difficulty": "Medium",
+          "acRate": 69.09935554286322,
+          "status": "PENDING",
+          "frontendQuestionId": "1492"
+        },
+        {
+          "questionId": "1586",
+          "title": "Longest Subarray of 1's After Deleting One Element",
+          "titleSlug": "longest-subarray-of-1s-after-deleting-one-element",
+          "difficulty": "Medium",
+          "acRate": 68.63504729325489,
+          "status": "PENDING",
+          "frontendQuestionId": "1493"
+        },
+        {
+          "questionId": "1620",
+          "title": "Check If Array Pairs Are Divisible by k",
+          "titleSlug": "check-if-array-pairs-are-divisible-by-k",
+          "difficulty": "Medium",
+          "acRate": 46.23268678109177,
+          "status": "PENDING",
+          "frontendQuestionId": "1497"
+        },
+        {
+          "questionId": "1621",
+          "title": "Number of Subsequences That Satisfy the Given Sum Condition",
+          "titleSlug": "number-of-subsequences-that-satisfy-the-given-sum-condition",
+          "difficulty": "Medium",
+          "acRate": 43.78001898052084,
+          "status": "PENDING",
+          "frontendQuestionId": "1498"
+        },
+        {
+          "questionId": "1640",
+          "title": "Design a File Sharing System",
+          "titleSlug": "design-a-file-sharing-system",
+          "difficulty": "Medium",
+          "acRate": 41.8468731735827,
+          "status": "PENDING",
+          "frontendQuestionId": "1500"
+        },
+        {
+          "questionId": "1641",
+          "title": "Countries You Can Safely Invest In",
+          "titleSlug": "countries-you-can-safely-invest-in",
+          "difficulty": "Medium",
+          "acRate": 50.41499796854141,
+          "status": "PENDING",
+          "frontendQuestionId": "1501"
+        },
+        {
+          "questionId": "1627",
+          "title": "Last Moment Before All Ants Fall Out of a Plank",
+          "titleSlug": "last-moment-before-all-ants-fall-out-of-a-plank",
+          "difficulty": "Medium",
+          "acRate": 68.31652420809796,
+          "status": "PENDING",
+          "frontendQuestionId": "1503"
+        },
+        {
+          "questionId": "1628",
+          "title": "Count Submatrices With All Ones",
+          "titleSlug": "count-submatrices-with-all-ones",
+          "difficulty": "Medium",
+          "acRate": 57.1990271584921,
+          "status": "PENDING",
+          "frontendQuestionId": "1504"
+        },
+        {
+          "questionId": "1650",
+          "title": "Find Root of N-Ary Tree",
+          "titleSlug": "find-root-of-n-ary-tree",
+          "difficulty": "Medium",
+          "acRate": 78.3248838191804,
+          "status": "PENDING",
+          "frontendQuestionId": "1506"
+        },
+        {
+          "questionId": "1615",
+          "title": "Range Sum of Sorted Subarray Sums",
+          "titleSlug": "range-sum-of-sorted-subarray-sums",
+          "difficulty": "Medium",
+          "acRate": 63.14909902044976,
+          "status": "PENDING",
+          "frontendQuestionId": "1508"
+        },
+        {
+          "questionId": "1616",
+          "title": "Minimum Difference Between Largest and Smallest Value in Three Moves",
+          "titleSlug": "minimum-difference-between-largest-and-smallest-value-in-three-moves",
+          "difficulty": "Medium",
+          "acRate": 59.25153990276877,
+          "status": "PENDING",
+          "frontendQuestionId": "1509"
+        },
+        {
+          "questionId": "1636",
+          "title": "Number of Substrings With Only 1s",
+          "titleSlug": "number-of-substrings-with-only-1s",
+          "difficulty": "Medium",
+          "acRate": 47.41919695800313,
+          "status": "PENDING",
+          "frontendQuestionId": "1513"
+        },
+        {
+          "questionId": "1325",
+          "title": "Path with Maximum Probability",
+          "titleSlug": "path-with-maximum-probability",
+          "difficulty": "Medium",
+          "acRate": 65.33862267196912,
+          "status": "PENDING",
+          "frontendQuestionId": "1514"
+        },
+        {
+          "questionId": "1643",
+          "title": "Number of Nodes in the Sub-Tree With the Same Label",
+          "titleSlug": "number-of-nodes-in-the-sub-tree-with-the-same-label",
+          "difficulty": "Medium",
+          "acRate": 54.97531058342506,
+          "status": "PENDING",
+          "frontendQuestionId": "1519"
+        },
+        {
+          "questionId": "1665",
+          "title": "Diameter of N-Ary Tree",
+          "titleSlug": "diameter-of-n-ary-tree",
+          "difficulty": "Medium",
+          "acRate": 74.71233982162981,
+          "status": "PENDING",
+          "frontendQuestionId": "1522"
+        },
+        {
+          "questionId": "1631",
+          "title": "Number of Sub-arrays With Odd Sum",
+          "titleSlug": "number-of-sub-arrays-with-odd-sum",
+          "difficulty": "Medium",
+          "acRate": 43.919326919206156,
+          "status": "PENDING",
+          "frontendQuestionId": "1524"
+        },
+        {
+          "questionId": "1632",
+          "title": "Number of Good Ways to Split a String",
+          "titleSlug": "number-of-good-ways-to-split-a-string",
+          "difficulty": "Medium",
+          "acRate": 68.25892475220904,
+          "status": "PENDING",
+          "frontendQuestionId": "1525"
+        },
+        {
+          "questionId": "1652",
+          "title": "Minimum Suffix Flips",
+          "titleSlug": "minimum-suffix-flips",
+          "difficulty": "Medium",
+          "acRate": 73.42943873280784,
+          "status": "PENDING",
+          "frontendQuestionId": "1529"
+        },
+        {
+          "questionId": "1653",
+          "title": "Number of Good Leaf Nodes Pairs",
+          "titleSlug": "number-of-good-leaf-nodes-pairs",
+          "difficulty": "Medium",
+          "acRate": 71.84937646964954,
+          "status": "PENDING",
+          "frontendQuestionId": "1530"
+        },
+        {
+          "questionId": "1671",
+          "title": "The Most Recent Three Orders",
+          "titleSlug": "the-most-recent-three-orders",
+          "difficulty": "Medium",
+          "acRate": 68.75682806670376,
+          "status": "PENDING",
+          "frontendQuestionId": "1532"
+        },
+        {
+          "questionId": "1672",
+          "title": "Find the Index of the Large Integer",
+          "titleSlug": "find-the-index-of-the-large-integer",
+          "difficulty": "Medium",
+          "acRate": 56.23189455388181,
+          "status": "PENDING",
+          "frontendQuestionId": "1533"
+        },
+        {
+          "questionId": "1657",
+          "title": "Find the Winner of an Array Game",
+          "titleSlug": "find-the-winner-of-an-array-game",
+          "difficulty": "Medium",
+          "acRate": 56.787648556063765,
+          "status": "PENDING",
+          "frontendQuestionId": "1535"
+        },
+        {
+          "questionId": "1658",
+          "title": "Minimum Swaps to Arrange a Binary Grid",
+          "titleSlug": "minimum-swaps-to-arrange-a-binary-grid",
+          "difficulty": "Medium",
+          "acRate": 47.67637502900905,
+          "status": "PENDING",
+          "frontendQuestionId": "1536"
+        },
+        {
+          "questionId": "1681",
+          "title": "Guess the Majority in a Hidden Array",
+          "titleSlug": "guess-the-majority-in-a-hidden-array",
+          "difficulty": "Medium",
+          "acRate": 69.59356991204125,
+          "status": "PENDING",
+          "frontendQuestionId": "1538"
+        },
+        {
+          "questionId": "1647",
+          "title": "Can Convert String in K Moves",
+          "titleSlug": "can-convert-string-in-k-moves",
+          "difficulty": "Medium",
+          "acRate": 35.70515132635997,
+          "status": "PENDING",
+          "frontendQuestionId": "1540"
+        },
+        {
+          "questionId": "1648",
+          "title": "Minimum Insertions to Balance a Parentheses String",
+          "titleSlug": "minimum-insertions-to-balance-a-parentheses-string",
+          "difficulty": "Medium",
+          "acRate": 52.86952135078192,
+          "status": "PENDING",
+          "frontendQuestionId": "1541"
+        },
+        {
+          "questionId": "1667",
+          "title": "Find Kth Bit in Nth Binary String",
+          "titleSlug": "find-kth-bit-in-nth-binary-string",
+          "difficulty": "Medium",
+          "acRate": 70.21456448625025,
+          "status": "PENDING",
+          "frontendQuestionId": "1545"
+        },
+        {
+          "questionId": "1649",
+          "title": "Maximum Number of Non-Overlapping Subarrays With Sum Equals Target",
+          "titleSlug": "maximum-number-of-non-overlapping-subarrays-with-sum-equals-target",
+          "difficulty": "Medium",
+          "acRate": 48.04714223521363,
+          "status": "PENDING",
+          "frontendQuestionId": "1546"
+        },
+        {
+          "questionId": "1688",
+          "title": "The Most Recent Orders for Each Product",
+          "titleSlug": "the-most-recent-orders-for-each-product",
+          "difficulty": "Medium",
+          "acRate": 64.92716785609541,
+          "status": "PENDING",
+          "frontendQuestionId": "1549"
+        },
+        {
+          "questionId": "1674",
+          "title": "Minimum Operations to Make Array Equal",
+          "titleSlug": "minimum-operations-to-make-array-equal",
+          "difficulty": "Medium",
+          "acRate": 82.36713840174275,
+          "status": "PENDING",
+          "frontendQuestionId": "1551"
+        },
+        {
+          "questionId": "1675",
+          "title": "Magnetic Force Between Two Balls",
+          "titleSlug": "magnetic-force-between-two-balls",
+          "difficulty": "Medium",
+          "acRate": 71.09047380609627,
+          "status": "PENDING",
+          "frontendQuestionId": "1552"
+        },
+        {
+          "questionId": "1697",
+          "title": "Strings Differ by One Character",
+          "titleSlug": "strings-differ-by-one-character",
+          "difficulty": "Medium",
+          "acRate": 41.27319595881967,
+          "status": "PENDING",
+          "frontendQuestionId": "1554"
+        },
+        {
+          "questionId": "1702",
+          "title": "Bank Account Summary",
+          "titleSlug": "bank-account-summary",
+          "difficulty": "Medium",
+          "acRate": 51.64672601282084,
+          "status": "PENDING",
+          "frontendQuestionId": "1555"
+        },
+        {
+          "questionId": "1661",
+          "title": "Minimum Number of Vertices to Reach All Nodes",
+          "titleSlug": "minimum-number-of-vertices-to-reach-all-nodes",
+          "difficulty": "Medium",
+          "acRate": 81.05388722532467,
+          "status": "PENDING",
+          "frontendQuestionId": "1557"
+        },
+        {
+          "questionId": "1662",
+          "title": "Minimum Numbers of Function Calls to Make Target Array",
+          "titleSlug": "minimum-numbers-of-function-calls-to-make-target-array",
+          "difficulty": "Medium",
+          "acRate": 63.342127451247045,
+          "status": "PENDING",
+          "frontendQuestionId": "1558"
+        },
+        {
+          "questionId": "1663",
+          "title": "Detect Cycles in 2D Grid",
+          "titleSlug": "detect-cycles-in-2d-grid",
+          "difficulty": "Medium",
+          "acRate": 49.39353031333421,
+          "status": "PENDING",
+          "frontendQuestionId": "1559"
+        },
+        {
+          "questionId": "1683",
+          "title": "Maximum Number of Coins You Can Get",
+          "titleSlug": "maximum-number-of-coins-you-can-get",
+          "difficulty": "Medium",
+          "acRate": 84.40172984557684,
+          "status": "PENDING",
+          "frontendQuestionId": "1561"
+        }
+      ]
+    }
+  }
+}

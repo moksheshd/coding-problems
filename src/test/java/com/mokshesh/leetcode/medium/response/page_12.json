@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "1032",
+          "title": "Satisfiability of Equality Equations",
+          "titleSlug": "satisfiability-of-equality-equations",
+          "difficulty": "Medium",
+          "acRate": 50.84871754160593,
+          "status": "PENDING",
+          "frontendQuestionId": "990"
+        },
+        {
+          "questionId": "1033",
+          "title": "Broken Calculator",
+          "titleSlug": "broken-calculator",
+          "difficulty": "Medium",
+          "acRate": 54.879254126757694,
+          "status": "PENDING",
+          "frontendQuestionId": "991"
+        },
+        {
+          "questionId": "1036",
+          "title": "Rotting Oranges",
+          "titleSlug": "rotting-oranges",
+          "difficulty": "Medium",
+          "acRate": 55.76541706094345,
+          "status": "PENDING",
+          "frontendQuestionId": "994"
+        },
+        {
+          "questionId": "1040",
+          "title": "Maximum Binary Tree II",
+          "titleSlug": "maximum-binary-tree-ii",
+          "difficulty": "Medium",
+          "acRate": 70.60620050427927,
+          "status": "PENDING",
+          "frontendQuestionId": "998"
+        },
+        {
+          "questionId": "1045",
+          "title": "Check If Word Is Valid After Substitutions",
+          "titleSlug": "check-if-word-is-valid-after-substitutions",
+          "difficulty": "Medium",
+          "acRate": 60.46178735082117,
+          "status": "PENDING",
+          "frontendQuestionId": "1003"
+        },
+        {
+          "questionId": "1046",
+          "title": "Max Consecutive Ones III",
+          "titleSlug": "max-consecutive-ones-iii",
+          "difficulty": "Medium",
+          "acRate": 64.98506320601955,
+          "status": "PENDING",
+          "frontendQuestionId": "1004"
+        },
+        {
+          "questionId": "1048",
+          "title": "Clumsy Factorial",
+          "titleSlug": "clumsy-factorial",
+          "difficulty": "Medium",
+          "acRate": 58.33413778678766,
+          "status": "PENDING",
+          "frontendQuestionId": "1006"
+        },
+        {
+          "questionId": "1049",
+          "title": "Minimum Domino Rotations For Equal Row",
+          "titleSlug": "minimum-domino-rotations-for-equal-row",
+          "difficulty": "Medium",
+          "acRate": 52.29093887540214,
+          "status": "PENDING",
+          "frontendQuestionId": "1007"
+        },
+        {
+          "questionId": "1050",
+          "title": "Construct Binary Search Tree from Preorder Traversal",
+          "titleSlug": "construct-binary-search-tree-from-preorder-traversal",
+          "difficulty": "Medium",
+          "acRate": 82.94886031445824,
+          "status": "PENDING",
+          "frontendQuestionId": "1008"
+        },
+        {
+          "questionId": "1055",
+          "title": "Pairs of Songs With Total Durations Divisible by 60",
+          "titleSlug": "pairs-of-songs-with-total-durations-divisible-by-60",
+          "difficulty": "Medium",
+          "acRate": 53.1032190861776,
+          "status": "PENDING",
+          "frontendQuestionId": "1010"
+        },
+        {
+          "questionId": "1056",
+          "title": "Capacity To Ship Packages Within D Days",
+          "titleSlug": "capacity-to-ship-packages-within-d-days",
+          "difficulty": "Medium",
+          "acRate": 71.19784234259946,
+          "status": "PENDING",
+          "frontendQuestionId": "1011"
+        },
+        {
+          "questionId": "1063",
+          "title": "Best Sightseeing Pair",
+          "titleSlug": "best-sightseeing-pair",
+          "difficulty": "Medium",
+          "acRate": 62.587290015356224,
+          "status": "PENDING",
+          "frontendQuestionId": "1014"
+        },
+        {
+          "questionId": "1064",
+          "title": "Smallest Integer Divisible by K",
+          "titleSlug": "smallest-integer-divisible-by-k",
+          "difficulty": "Medium",
+          "acRate": 46.63102819131188,
+          "status": "PENDING",
+          "frontendQuestionId": "1015"
+        },
+        {
+          "questionId": "1065",
+          "title": "Binary String With Substrings Representing 1 To N",
+          "titleSlug": "binary-string-with-substrings-representing-1-to-n",
+          "difficulty": "Medium",
+          "acRate": 57.82457014702218,
+          "status": "PENDING",
+          "frontendQuestionId": "1016"
+        },
+        {
+          "questionId": "1070",
+          "title": "Convert to Base -2",
+          "titleSlug": "convert-to-base-2",
+          "difficulty": "Medium",
+          "acRate": 61.203344163562875,
+          "status": "PENDING",
+          "frontendQuestionId": "1017"
+        },
+        {
+          "questionId": "1072",
+          "title": "Next Greater Node In Linked List",
+          "titleSlug": "next-greater-node-in-linked-list",
+          "difficulty": "Medium",
+          "acRate": 61.74894963467824,
+          "status": "PENDING",
+          "frontendQuestionId": "1019"
+        },
+        {
+          "questionId": "1073",
+          "title": "Number of Enclaves",
+          "titleSlug": "number-of-enclaves",
+          "difficulty": "Medium",
+          "acRate": 69.91078871114992,
+          "status": "PENDING",
+          "frontendQuestionId": "1020"
+        },
+        {
+          "questionId": "1080",
+          "title": "Camelcase Matching",
+          "titleSlug": "camelcase-matching",
+          "difficulty": "Medium",
+          "acRate": 63.174284747897694,
+          "status": "PENDING",
+          "frontendQuestionId": "1023"
+        },
+        {
+          "questionId": "1081",
+          "title": "Video Stitching",
+          "titleSlug": "video-stitching",
+          "difficulty": "Medium",
+          "acRate": 51.711084505775126,
+          "status": "PENDING",
+          "frontendQuestionId": "1024"
+        },
+        {
+          "questionId": "1092",
+          "title": "Maximum Difference Between Node and Ancestor",
+          "titleSlug": "maximum-difference-between-node-and-ancestor",
+          "difficulty": "Medium",
+          "acRate": 78.07102798680374,
+          "status": "PENDING",
+          "frontendQuestionId": "1026"
+        },
+        {
+          "questionId": "1087",
+          "title": "Longest Arithmetic Subsequence",
+          "titleSlug": "longest-arithmetic-subsequence",
+          "difficulty": "Medium",
+          "acRate": 49.322085122347744,
+          "status": "PENDING",
+          "frontendQuestionId": "1027"
+        },
+        {
+          "questionId": "1095",
+          "title": "Two City Scheduling",
+          "titleSlug": "two-city-scheduling",
+          "difficulty": "Medium",
+          "acRate": 67.36618581215264,
+          "status": "PENDING",
+          "frontendQuestionId": "1029"
+        },
+        {
+          "questionId": "1096",
+          "title": "Maximum Sum of Two Non-Overlapping Subarrays",
+          "titleSlug": "maximum-sum-of-two-non-overlapping-subarrays",
+          "difficulty": "Medium",
+          "acRate": 60.065871053857876,
+          "status": "PENDING",
+          "frontendQuestionId": "1031"
+        },
+        {
+          "questionId": "1103",
+          "title": "Moving Stones Until Consecutive",
+          "titleSlug": "moving-stones-until-consecutive",
+          "difficulty": "Medium",
+          "acRate": 49.28142333114777,
+          "status": "PENDING",
+          "frontendQuestionId": "1033"
+        },
+        {
+          "questionId": "1104",
+          "title": "Coloring A Border",
+          "titleSlug": "coloring-a-border",
+          "difficulty": "Medium",
+          "acRate": 49.4987684729064,
+          "status": "PENDING",
+          "frontendQuestionId": "1034"
+        },
+        {
+          "questionId": "1105",
+          "title": "Uncrossed Lines",
+          "titleSlug": "uncrossed-lines",
+          "difficulty": "Medium",
+          "acRate": 63.92598677485661,
+          "status": "PENDING",
+          "frontendQuestionId": "1035"
+        },
+        {
+          "questionId": "1114",
+          "title": "Binary Search Tree to Greater Sum Tree",
+          "titleSlug": "binary-search-tree-to-greater-sum-tree",
+          "difficulty": "Medium",
+          "acRate": 88.31513156560315,
+          "status": "PENDING",
+          "frontendQuestionId": "1038"
+        },
+        {
+          "questionId": "1111",
+          "title": "Minimum Score Triangulation of Polygon",
+          "titleSlug": "minimum-score-triangulation-of-polygon",
+          "difficulty": "Medium",
+          "acRate": 60.04814715746589,
+          "status": "PENDING",
+          "frontendQuestionId": "1039"
+        },
+        {
+          "questionId": "1113",
+          "title": "Moving Stones Until Consecutive II",
+          "titleSlug": "moving-stones-until-consecutive-ii",
+          "difficulty": "Medium",
+          "acRate": 57.68337526611187,
+          "status": "PENDING",
+          "frontendQuestionId": "1040"
+        },
+        {
+          "questionId": "1119",
+          "title": "Robot Bounded In Circle",
+          "titleSlug": "robot-bounded-in-circle",
+          "difficulty": "Medium",
+          "acRate": 56.09317959220016,
+          "status": "PENDING",
+          "frontendQuestionId": "1041"
+        },
+        {
+          "questionId": "1120",
+          "title": "Flower Planting With No Adjacent",
+          "titleSlug": "flower-planting-with-no-adjacent",
+          "difficulty": "Medium",
+          "acRate": 51.959797209258255,
+          "status": "PENDING",
+          "frontendQuestionId": "1042"
+        },
+        {
+          "questionId": "1121",
+          "title": "Partition Array for Maximum Sum",
+          "titleSlug": "partition-array-for-maximum-sum",
+          "difficulty": "Medium",
+          "acRate": 76.80804920538984,
+          "status": "PENDING",
+          "frontendQuestionId": "1043"
+        },
+        {
+          "questionId": "1135",
+          "title": "Customers Who Bought All Products",
+          "titleSlug": "customers-who-bought-all-products",
+          "difficulty": "Medium",
+          "acRate": 62.7819900568435,
+          "status": "PENDING",
+          "frontendQuestionId": "1045"
+        },
+        {
+          "questionId": "1129",
+          "title": "Longest String Chain",
+          "titleSlug": "longest-string-chain",
+          "difficulty": "Medium",
+          "acRate": 61.618296207752344,
+          "status": "PENDING",
+          "frontendQuestionId": "1048"
+        },
+        {
+          "questionId": "1130",
+          "title": "Last Stone Weight II",
+          "titleSlug": "last-stone-weight-ii",
+          "difficulty": "Medium",
+          "acRate": 56.76004602584528,
+          "status": "PENDING",
+          "frontendQuestionId": "1049"
+        },
+        {
+          "questionId": "1138",
+          "title": "Grumpy Bookstore Owner",
+          "titleSlug": "grumpy-bookstore-owner",
+          "difficulty": "Medium",
+          "acRate": 64.10505836575877,
+          "status": "PENDING",
+          "frontendQuestionId": "1052"
+        },
+        {
+          "questionId": "1139",
+          "title": "Previous Permutation With One Swap",
+          "titleSlug": "previous-permutation-with-one-swap",
+          "difficulty": "Medium",
+          "acRate": 49.44280657021548,
+          "status": "PENDING",
+          "frontendQuestionId": "1053"
+        },
+        {
+          "questionId": "1140",
+          "title": "Distant Barcodes",
+          "titleSlug": "distant-barcodes",
+          "difficulty": "Medium",
+          "acRate": 47.10539239760338,
+          "status": "PENDING",
+          "frontendQuestionId": "1054"
+        },
+        {
+          "questionId": "1051",
+          "title": "Shortest Way to Form String",
+          "titleSlug": "shortest-way-to-form-string",
+          "difficulty": "Medium",
+          "acRate": 60.7008190580832,
+          "status": "PENDING",
+          "frontendQuestionId": "1055"
+        },
+        {
+          "questionId": "1052",
+          "title": "Campus Bikes",
+          "titleSlug": "campus-bikes",
+          "difficulty": "Medium",
+          "acRate": 58.87518079145163,
+          "status": "PENDING",
+          "frontendQuestionId": "1057"
+        },
+        {
+          "questionId": "1053",
+          "title": "Minimize Rounding Error to Meet Target",
+          "titleSlug": "minimize-rounding-error-to-meet-target",
+          "difficulty": "Medium",
+          "acRate": 45.32879717086709,
+          "status": "PENDING",
+          "frontendQuestionId": "1058"
+        },
+        {
+          "questionId": "511",
+          "title": "All Paths from Source Lead to Destination",
+          "titleSlug": "all-paths-from-source-lead-to-destination",
+          "difficulty": "Medium",
+          "acRate": 37.17275741972038,
+          "status": "PENDING",
+          "frontendQuestionId": "1059"
+        },
+        {
+          "questionId": "1059",
+          "title": "Missing Element in Sorted Array",
+          "titleSlug": "missing-element-in-sorted-array",
+          "difficulty": "Medium",
+          "acRate": 58.058806559013185,
+          "status": "PENDING",
+          "frontendQuestionId": "1060"
+        },
+        {
+          "questionId": "1058",
+          "title": "Lexicographically Smallest Equivalent String",
+          "titleSlug": "lexicographically-smallest-equivalent-string",
+          "difficulty": "Medium",
+          "acRate": 76.57710644744465,
+          "status": "PENDING",
+          "frontendQuestionId": "1061"
+        },
+        {
+          "questionId": "1060",
+          "title": "Longest Repeating Substring",
+          "titleSlug": "longest-repeating-substring",
+          "difficulty": "Medium",
+          "acRate": 62.59775422141105,
+          "status": "PENDING",
+          "frontendQuestionId": "1062"
+        },
+        {
+          "questionId": "1067",
+          "title": "Campus Bikes II",
+          "titleSlug": "campus-bikes-ii",
+          "difficulty": "Medium",
+          "acRate": 55.26252167971829,
+          "status": "PENDING",
+          "frontendQuestionId": "1066"
+        },
+        {
+          "questionId": "1155",
+          "title": "Product Sales Analysis III",
+          "titleSlug": "product-sales-analysis-iii",
+          "difficulty": "Medium",
+          "acRate": 44.22463921773475,
+          "status": "PENDING",
+          "frontendQuestionId": "1070"
+        },
+        {
+          "questionId": "1147",
+          "title": "Flip Columns For Maximum Number of Equal Rows",
+          "titleSlug": "flip-columns-for-maximum-number-of-equal-rows",
+          "difficulty": "Medium",
+          "acRate": 78.52368233369226,
+          "status": "PENDING",
+          "frontendQuestionId": "1072"
+        },
+        {
+          "questionId": "1148",
+          "title": "Adding Two Negabinary Numbers",
+          "titleSlug": "adding-two-negabinary-numbers",
+          "difficulty": "Medium",
+          "acRate": 36.94503980404164,
+          "status": "PENDING",
+          "frontendQuestionId": "1073"
+        },
+        {
+          "questionId": "1163",
+          "title": "Project Employees III",
+          "titleSlug": "project-employees-iii",
+          "difficulty": "Medium",
+          "acRate": 76.88175288223576,
+          "status": "PENDING",
+          "frontendQuestionId": "1077"
+        }
+      ]
+    }
+  }
+}

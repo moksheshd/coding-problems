@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "2473",
+          "title": "Max Sum of a Pair With Equal Sum of Digits",
+          "titleSlug": "max-sum-of-a-pair-with-equal-sum-of-digits",
+          "difficulty": "Medium",
+          "acRate": 55.91978442316038,
+          "status": "PENDING",
+          "frontendQuestionId": "2342"
+        },
+        {
+          "questionId": "2422",
+          "title": "Query Kth Smallest Trimmed Number",
+          "titleSlug": "query-kth-smallest-trimmed-number",
+          "difficulty": "Medium",
+          "acRate": 44.99149269452021,
+          "status": "PENDING",
+          "frontendQuestionId": "2343"
+        },
+        {
+          "questionId": "2485",
+          "title": "Finding the Number of Visible Mountains",
+          "titleSlug": "finding-the-number-of-visible-mountains",
+          "difficulty": "Medium",
+          "acRate": 36.86942823386202,
+          "status": "PENDING",
+          "frontendQuestionId": "2345"
+        },
+        {
+          "questionId": "2484",
+          "title": "Compute the Rank as a Percentage",
+          "titleSlug": "compute-the-rank-as-a-percentage",
+          "difficulty": "Medium",
+          "acRate": 33.93332561639079,
+          "status": "PENDING",
+          "frontendQuestionId": "2346"
+        },
+        {
+          "questionId": "2432",
+          "title": "Number of Zero-Filled Subarrays",
+          "titleSlug": "number-of-zero-filled-subarrays",
+          "difficulty": "Medium",
+          "acRate": 66.70447212499266,
+          "status": "PENDING",
+          "frontendQuestionId": "2348"
+        },
+        {
+          "questionId": "2434",
+          "title": "Design a Number Container System",
+          "titleSlug": "design-a-number-container-system",
+          "difficulty": "Medium",
+          "acRate": 45.02382354515767,
+          "status": "PENDING",
+          "frontendQuestionId": "2349"
+        },
+        {
+          "questionId": "2428",
+          "title": "Equal Row and Column Pairs",
+          "titleSlug": "equal-row-and-column-pairs",
+          "difficulty": "Medium",
+          "acRate": 70.31209857747753,
+          "status": "PENDING",
+          "frontendQuestionId": "2352"
+        },
+        {
+          "questionId": "2429",
+          "title": "Design a Food Rating System",
+          "titleSlug": "design-a-food-rating-system",
+          "difficulty": "Medium",
+          "acRate": 45.139784724300554,
+          "status": "PENDING",
+          "frontendQuestionId": "2353"
+        },
+        {
+          "questionId": "2437",
+          "title": "Maximum Number of Groups Entering a Competition",
+          "titleSlug": "maximum-number-of-groups-entering-a-competition",
+          "difficulty": "Medium",
+          "acRate": 68.01422484651256,
+          "status": "PENDING",
+          "frontendQuestionId": "2358"
+        },
+        {
+          "questionId": "2438",
+          "title": "Find Closest Node to Given Two Nodes",
+          "titleSlug": "find-closest-node-to-given-two-nodes",
+          "difficulty": "Medium",
+          "acRate": 45.75013698630137,
+          "status": "PENDING",
+          "frontendQuestionId": "2359"
+        },
+        {
+          "questionId": "2448",
+          "title": "Count Number of Bad Pairs",
+          "titleSlug": "count-number-of-bad-pairs",
+          "difficulty": "Medium",
+          "acRate": 42.19530816213215,
+          "status": "PENDING",
+          "frontendQuestionId": "2364"
+        },
+        {
+          "questionId": "2483",
+          "title": "Task Scheduler II",
+          "titleSlug": "task-scheduler-ii",
+          "difficulty": "Medium",
+          "acRate": 53.42719169689835,
+          "status": "PENDING",
+          "frontendQuestionId": "2365"
+        },
+        {
+          "questionId": "2445",
+          "title": "Reachable Nodes With Restrictions",
+          "titleSlug": "reachable-nodes-with-restrictions",
+          "difficulty": "Medium",
+          "acRate": 59.254678425467844,
+          "status": "PENDING",
+          "frontendQuestionId": "2368"
+        },
+        {
+          "questionId": "2443",
+          "title": "Check if There is a Valid Partition For The Array",
+          "titleSlug": "check-if-there-is-a-valid-partition-for-the-array",
+          "difficulty": "Medium",
+          "acRate": 51.92587453279918,
+          "status": "PENDING",
+          "frontendQuestionId": "2369"
+        },
+        {
+          "questionId": "2444",
+          "title": "Longest Ideal Subsequence",
+          "titleSlug": "longest-ideal-subsequence",
+          "difficulty": "Medium",
+          "acRate": 47.0358519061642,
+          "status": "PENDING",
+          "frontendQuestionId": "2370"
+        },
+        {
+          "questionId": "2515",
+          "title": "Calculate the Influence of Each Salesperson",
+          "titleSlug": "calculate-the-influence-of-each-salesperson",
+          "difficulty": "Medium",
+          "acRate": 83.49185667752444,
+          "status": "PENDING",
+          "frontendQuestionId": "2372"
+        },
+        {
+          "questionId": "2455",
+          "title": "Node With Highest Edge Score",
+          "titleSlug": "node-with-highest-edge-score",
+          "difficulty": "Medium",
+          "acRate": 48.08252828795805,
+          "status": "PENDING",
+          "frontendQuestionId": "2374"
+        },
+        {
+          "questionId": "2456",
+          "title": "Construct Smallest Number From DI String",
+          "titleSlug": "construct-smallest-number-from-di-string",
+          "difficulty": "Medium",
+          "acRate": 76.46458379200608,
+          "status": "PENDING",
+          "frontendQuestionId": "2375"
+        },
+        {
+          "questionId": "2517",
+          "title": "Choose Edges to Maximize Score in a Tree",
+          "titleSlug": "choose-edges-to-maximize-score-in-a-tree",
+          "difficulty": "Medium",
+          "acRate": 56.40609795653584,
+          "status": "PENDING",
+          "frontendQuestionId": "2378"
+        },
+        {
+          "questionId": "2464",
+          "title": "Time Needed to Rearrange a Binary String",
+          "titleSlug": "time-needed-to-rearrange-a-binary-string",
+          "difficulty": "Medium",
+          "acRate": 51.36305912233667,
+          "status": "PENDING",
+          "frontendQuestionId": "2380"
+        },
+        {
+          "questionId": "2465",
+          "title": "Shifting Letters II",
+          "titleSlug": "shifting-letters-ii",
+          "difficulty": "Medium",
+          "acRate": 53.141462587416456,
+          "status": "PENDING",
+          "frontendQuestionId": "2381"
+        },
+        {
+          "questionId": "2475",
+          "title": "Largest Palindromic Number",
+          "titleSlug": "largest-palindromic-number",
+          "difficulty": "Medium",
+          "acRate": 36.120239399279264,
+          "status": "PENDING",
+          "frontendQuestionId": "2384"
+        },
+        {
+          "questionId": "2461",
+          "title": "Amount of Time for Binary Tree to Be Infected",
+          "titleSlug": "amount-of-time-for-binary-tree-to-be-infected",
+          "difficulty": "Medium",
+          "acRate": 63.0516393442623,
+          "status": "PENDING",
+          "frontendQuestionId": "2385"
+        },
+        {
+          "questionId": "2522",
+          "title": "Median of a Row Wise Sorted Matrix",
+          "titleSlug": "median-of-a-row-wise-sorted-matrix",
+          "difficulty": "Medium",
+          "acRate": 68.89386189258312,
+          "status": "PENDING",
+          "frontendQuestionId": "2387"
+        },
+        {
+          "questionId": "2523",
+          "title": "Change Null Values in a Table to the Previous Value",
+          "titleSlug": "change-null-values-in-a-table-to-the-previous-value",
+          "difficulty": "Medium",
+          "acRate": 51.251328630785586,
+          "status": "PENDING",
+          "frontendQuestionId": "2388"
+        },
+        {
+          "questionId": "2470",
+          "title": "Removing Stars From a String",
+          "titleSlug": "removing-stars-from-a-string",
+          "difficulty": "Medium",
+          "acRate": 77.14123802138343,
+          "status": "PENDING",
+          "frontendQuestionId": "2390"
+        },
+        {
+          "questionId": "2471",
+          "title": "Minimum Amount of Time to Collect Garbage",
+          "titleSlug": "minimum-amount-of-time-to-collect-garbage",
+          "difficulty": "Medium",
+          "acRate": 85.1243913342919,
+          "status": "PENDING",
+          "frontendQuestionId": "2391"
+        },
+        {
+          "questionId": "2535",
+          "title": "Count Strictly Increasing Subarrays",
+          "titleSlug": "count-strictly-increasing-subarrays",
+          "difficulty": "Medium",
+          "acRate": 71.31163708086785,
+          "status": "PENDING",
+          "frontendQuestionId": "2393"
+        },
+        {
+          "questionId": "2534",
+          "title": "Employees With Deductions",
+          "titleSlug": "employees-with-deductions",
+          "difficulty": "Medium",
+          "acRate": 41.64391871398241,
+          "status": "PENDING",
+          "frontendQuestionId": "2394"
+        },
+        {
+          "questionId": "2481",
+          "title": "Strictly Palindromic Number",
+          "titleSlug": "strictly-palindromic-number",
+          "difficulty": "Medium",
+          "acRate": 87.98714973531428,
+          "status": "PENDING",
+          "frontendQuestionId": "2396"
+        },
+        {
+          "questionId": "2482",
+          "title": "Maximum Rows Covered by Columns",
+          "titleSlug": "maximum-rows-covered-by-columns",
+          "difficulty": "Medium",
+          "acRate": 56.402348025072136,
+          "status": "PENDING",
+          "frontendQuestionId": "2397"
+        },
+        {
+          "questionId": "2477",
+          "title": "Number of Ways to Reach a Position After Exactly k Steps",
+          "titleSlug": "number-of-ways-to-reach-a-position-after-exactly-k-steps",
+          "difficulty": "Medium",
+          "acRate": 35.796187698666635,
+          "status": "PENDING",
+          "frontendQuestionId": "2400"
+        },
+        {
+          "questionId": "2478",
+          "title": "Longest Nice Subarray",
+          "titleSlug": "longest-nice-subarray",
+          "difficulty": "Medium",
+          "acRate": 52.17779241993713,
+          "status": "PENDING",
+          "frontendQuestionId": "2401"
+        },
+        {
+          "questionId": "2487",
+          "title": "Optimal Partition of String",
+          "titleSlug": "optimal-partition-of-string",
+          "difficulty": "Medium",
+          "acRate": 78.0620662563834,
+          "status": "PENDING",
+          "frontendQuestionId": "2405"
+        },
+        {
+          "questionId": "2488",
+          "title": "Divide Intervals Into Minimum Number of Groups",
+          "titleSlug": "divide-intervals-into-minimum-number-of-groups",
+          "difficulty": "Medium",
+          "acRate": 63.693871051793515,
+          "status": "PENDING",
+          "frontendQuestionId": "2406"
+        },
+        {
+          "questionId": "2555",
+          "title": "Design SQL",
+          "titleSlug": "design-sql",
+          "difficulty": "Medium",
+          "acRate": 76.25811978014134,
+          "status": "PENDING",
+          "frontendQuestionId": "2408"
+        },
+        {
+          "questionId": "2497",
+          "title": "Maximum Matching of Players With Trainers",
+          "titleSlug": "maximum-matching-of-players-with-trainers",
+          "difficulty": "Medium",
+          "acRate": 65.6991140309445,
+          "status": "PENDING",
+          "frontendQuestionId": "2410"
+        },
+        {
+          "questionId": "2498",
+          "title": "Smallest Subarrays With Maximum Bitwise OR",
+          "titleSlug": "smallest-subarrays-with-maximum-bitwise-or",
+          "difficulty": "Medium",
+          "acRate": 44.81129199439059,
+          "status": "PENDING",
+          "frontendQuestionId": "2411"
+        },
+        {
+          "questionId": "2492",
+          "title": "Length of the Longest Alphabetical Continuous Substring",
+          "titleSlug": "length-of-the-longest-alphabetical-continuous-substring",
+          "difficulty": "Medium",
+          "acRate": 59.21540105007159,
+          "status": "PENDING",
+          "frontendQuestionId": "2414"
+        },
+        {
+          "questionId": "2493",
+          "title": "Reverse Odd Levels of Binary Tree",
+          "titleSlug": "reverse-odd-levels-of-binary-tree",
+          "difficulty": "Medium",
+          "acRate": 86.67385485636262,
+          "status": "PENDING",
+          "frontendQuestionId": "2415"
+        },
+        {
+          "questionId": "2560",
+          "title": "Closest Fair Integer",
+          "titleSlug": "closest-fair-integer",
+          "difficulty": "Medium",
+          "acRate": 45.04896626768226,
+          "status": "PENDING",
+          "frontendQuestionId": "2417"
+        },
+        {
+          "questionId": "2503",
+          "title": "Longest Subarray With Maximum Bitwise AND",
+          "titleSlug": "longest-subarray-with-maximum-bitwise-and",
+          "difficulty": "Medium",
+          "acRate": 61.83519329928103,
+          "status": "PENDING",
+          "frontendQuestionId": "2419"
+        },
+        {
+          "questionId": "2504",
+          "title": "Find All Good Indices",
+          "titleSlug": "find-all-good-indices",
+          "difficulty": "Medium",
+          "acRate": 39.36575990538143,
+          "status": "PENDING",
+          "frontendQuestionId": "2420"
+        },
+        {
+          "questionId": "2565",
+          "title": "Merge Operations to Turn Array Into a Palindrome",
+          "titleSlug": "merge-operations-to-turn-array-into-a-palindrome",
+          "difficulty": "Medium",
+          "acRate": 69.09442204301075,
+          "status": "PENDING",
+          "frontendQuestionId": "2422"
+        },
+        {
+          "questionId": "2512",
+          "title": "Longest Uploaded Prefix",
+          "titleSlug": "longest-uploaded-prefix",
+          "difficulty": "Medium",
+          "acRate": 56.08652388172858,
+          "status": "PENDING",
+          "frontendQuestionId": "2424"
+        },
+        {
+          "questionId": "2533",
+          "title": "Bitwise XOR of All Pairings",
+          "titleSlug": "bitwise-xor-of-all-pairings",
+          "difficulty": "Medium",
+          "acRate": 67.0867440354449,
+          "status": "PENDING",
+          "frontendQuestionId": "2425"
+        },
+        {
+          "questionId": "2508",
+          "title": "Maximum Sum of an Hourglass",
+          "titleSlug": "maximum-sum-of-an-hourglass",
+          "difficulty": "Medium",
+          "acRate": 75.70566050499755,
+          "status": "PENDING",
+          "frontendQuestionId": "2428"
+        },
+        {
+          "questionId": "2509",
+          "title": "Minimize XOR",
+          "titleSlug": "minimize-xor",
+          "difficulty": "Medium",
+          "acRate": 62.48234354848615,
+          "status": "PENDING",
+          "frontendQuestionId": "2429"
+        },
+        {
+          "questionId": "2570",
+          "title": "Maximize Total Tastiness of Purchased Fruits",
+          "titleSlug": "maximize-total-tastiness-of-purchased-fruits",
+          "difficulty": "Medium",
+          "acRate": 64.19979612640164,
+          "status": "PENDING",
+          "frontendQuestionId": "2431"
+        },
+        {
+          "questionId": "2519",
+          "title": "Find The Original Array of Prefix Xor",
+          "titleSlug": "find-the-original-array-of-prefix-xor",
+          "difficulty": "Medium",
+          "acRate": 88.05808727221344,
+          "status": "PENDING",
+          "frontendQuestionId": "2433"
+        }
+      ]
+    }
+  }
+}

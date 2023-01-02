@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "82",
+          "title": "Remove Duplicates from Sorted List II",
+          "titleSlug": "remove-duplicates-from-sorted-list-ii",
+          "difficulty": "Medium",
+          "acRate": 49.048417816916206,
+          "status": "PENDING",
+          "frontendQuestionId": "82"
+        },
+        {
+          "questionId": "86",
+          "title": "Partition List",
+          "titleSlug": "partition-list",
+          "difficulty": "Medium",
+          "acRate": 58.06813507649872,
+          "status": "PENDING",
+          "frontendQuestionId": "86"
+        },
+        {
+          "questionId": "89",
+          "title": "Gray Code",
+          "titleSlug": "gray-code",
+          "difficulty": "Medium",
+          "acRate": 60.918776559621456,
+          "status": "PENDING",
+          "frontendQuestionId": "89"
+        },
+        {
+          "questionId": "90",
+          "title": "Subsets II",
+          "titleSlug": "subsets-ii",
+          "difficulty": "Medium",
+          "acRate": 58.71429801935882,
+          "status": "PENDING",
+          "frontendQuestionId": "90"
+        },
+        {
+          "questionId": "91",
+          "title": "Decode Ways",
+          "titleSlug": "decode-ways",
+          "difficulty": "Medium",
+          "acRate": 35.96795217193024,
+          "status": "PENDING",
+          "frontendQuestionId": "91"
+        },
+        {
+          "questionId": "92",
+          "title": "Reverse Linked List II",
+          "titleSlug": "reverse-linked-list-ii",
+          "difficulty": "Medium",
+          "acRate": 48.914517860647315,
+          "status": "PENDING",
+          "frontendQuestionId": "92"
+        },
+        {
+          "questionId": "93",
+          "title": "Restore IP Addresses",
+          "titleSlug": "restore-ip-addresses",
+          "difficulty": "Medium",
+          "acRate": 52.105849190575206,
+          "status": "PENDING",
+          "frontendQuestionId": "93"
+        },
+        {
+          "questionId": "95",
+          "title": "Unique Binary Search Trees II",
+          "titleSlug": "unique-binary-search-trees-ii",
+          "difficulty": "Medium",
+          "acRate": 59.523936266740876,
+          "status": "PENDING",
+          "frontendQuestionId": "95"
+        },
+        {
+          "questionId": "96",
+          "title": "Unique Binary Search Trees",
+          "titleSlug": "unique-binary-search-trees",
+          "difficulty": "Medium",
+          "acRate": 62.036190870918205,
+          "status": "PENDING",
+          "frontendQuestionId": "96"
+        },
+        {
+          "questionId": "97",
+          "title": "Interleaving String",
+          "titleSlug": "interleaving-string",
+          "difficulty": "Medium",
+          "acRate": 41.22622970398076,
+          "status": "PENDING",
+          "frontendQuestionId": "97"
+        },
+        {
+          "questionId": "98",
+          "title": "Validate Binary Search Tree",
+          "titleSlug": "validate-binary-search-tree",
+          "difficulty": "Medium",
+          "acRate": 33.85821655059544,
+          "status": "PENDING",
+          "frontendQuestionId": "98"
+        },
+        {
+          "questionId": "99",
+          "title": "Recover Binary Search Tree",
+          "titleSlug": "recover-binary-search-tree",
+          "difficulty": "Medium",
+          "acRate": 55.22870649736201,
+          "status": "PENDING",
+          "frontendQuestionId": "99"
+        },
+        {
+          "questionId": "102",
+          "title": "Binary Tree Level Order Traversal",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "difficulty": "Medium",
+          "acRate": 69.54219780497993,
+          "status": "PENDING",
+          "frontendQuestionId": "102"
+        },
+        {
+          "questionId": "103",
+          "title": "Binary Tree Zigzag Level Order Traversal",
+          "titleSlug": "binary-tree-zigzag-level-order-traversal",
+          "difficulty": "Medium",
+          "acRate": 60.788746844999395,
+          "status": "PENDING",
+          "frontendQuestionId": "103"
+        },
+        {
+          "questionId": "105",
+          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+          "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+          "difficulty": "Medium",
+          "acRate": 65.87737179072039,
+          "status": "PENDING",
+          "frontendQuestionId": "105"
+        },
+        {
+          "questionId": "106",
+          "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+          "titleSlug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+          "difficulty": "Medium",
+          "acRate": 65.37213973799126,
+          "status": "PENDING",
+          "frontendQuestionId": "106"
+        },
+        {
+          "questionId": "107",
+          "title": "Binary Tree Level Order Traversal II",
+          "titleSlug": "binary-tree-level-order-traversal-ii",
+          "difficulty": "Medium",
+          "acRate": 65.16509729837429,
+          "status": "PENDING",
+          "frontendQuestionId": "107"
+        },
+        {
+          "questionId": "109",
+          "title": "Convert Sorted List to Binary Search Tree",
+          "titleSlug": "convert-sorted-list-to-binary-search-tree",
+          "difficulty": "Medium",
+          "acRate": 63.66327393304566,
+          "status": "PENDING",
+          "frontendQuestionId": "109"
+        },
+        {
+          "questionId": "113",
+          "title": "Path Sum II",
+          "titleSlug": "path-sum-ii",
+          "difficulty": "Medium",
+          "acRate": 59.88442025957465,
+          "status": "PENDING",
+          "frontendQuestionId": "113"
+        },
+        {
+          "questionId": "114",
+          "title": "Flatten Binary Tree to Linked List",
+          "titleSlug": "flatten-binary-tree-to-linked-list",
+          "difficulty": "Medium",
+          "acRate": 67.417049676136,
+          "status": "PENDING",
+          "frontendQuestionId": "114"
+        },
+        {
+          "questionId": "116",
+          "title": "Populating Next Right Pointers in Each Node",
+          "titleSlug": "populating-next-right-pointers-in-each-node",
+          "difficulty": "Medium",
+          "acRate": 64.60782759549787,
+          "status": "PENDING",
+          "frontendQuestionId": "116"
+        },
+        {
+          "questionId": "117",
+          "title": "Populating Next Right Pointers in Each Node II",
+          "titleSlug": "populating-next-right-pointers-in-each-node-ii",
+          "difficulty": "Medium",
+          "acRate": 54.586194966696,
+          "status": "PENDING",
+          "frontendQuestionId": "117"
+        },
+        {
+          "questionId": "120",
+          "title": "Triangle",
+          "titleSlug": "triangle",
+          "difficulty": "Medium",
+          "acRate": 58.42447409940782,
+          "status": "PENDING",
+          "frontendQuestionId": "120"
+        },
+        {
+          "questionId": "122",
+          "title": "Best Time to Buy and Sell Stock II",
+          "titleSlug": "best-time-to-buy-and-sell-stock-ii",
+          "difficulty": "Medium",
+          "acRate": 68.62889700057143,
+          "status": "PENDING",
+          "frontendQuestionId": "122"
+        },
+        {
+          "questionId": "128",
+          "title": "Longest Consecutive Sequence",
+          "titleSlug": "longest-consecutive-sequence",
+          "difficulty": "Medium",
+          "acRate": 47.34916544371529,
+          "status": "PENDING",
+          "frontendQuestionId": "128"
+        },
+        {
+          "questionId": "129",
+          "title": "Sum Root to Leaf Numbers",
+          "titleSlug": "sum-root-to-leaf-numbers",
+          "difficulty": "Medium",
+          "acRate": 67.63604920328189,
+          "status": "PENDING",
+          "frontendQuestionId": "129"
+        },
+        {
+          "questionId": "130",
+          "title": "Surrounded Regions",
+          "titleSlug": "surrounded-regions",
+          "difficulty": "Medium",
+          "acRate": 41.78085414474139,
+          "status": "PENDING",
+          "frontendQuestionId": "130"
+        },
+        {
+          "questionId": "131",
+          "title": "Palindrome Partitioning",
+          "titleSlug": "palindrome-partitioning",
+          "difficulty": "Medium",
+          "acRate": 71.14247263985368,
+          "status": "PENDING",
+          "frontendQuestionId": "131"
+        },
+        {
+          "questionId": "133",
+          "title": "Clone Graph",
+          "titleSlug": "clone-graph",
+          "difficulty": "Medium",
+          "acRate": 60.78817851780454,
+          "status": "PENDING",
+          "frontendQuestionId": "133"
+        },
+        {
+          "questionId": "134",
+          "title": "Gas Station",
+          "titleSlug": "gas-station",
+          "difficulty": "Medium",
+          "acRate": 45.87946703719507,
+          "status": "PENDING",
+          "frontendQuestionId": "134"
+        },
+        {
+          "questionId": "137",
+          "title": "Single Number II",
+          "titleSlug": "single-number-ii",
+          "difficulty": "Medium",
+          "acRate": 64.47417802681625,
+          "status": "PENDING",
+          "frontendQuestionId": "137"
+        },
+        {
+          "questionId": "138",
+          "title": "Copy List with Random Pointer",
+          "titleSlug": "copy-list-with-random-pointer",
+          "difficulty": "Medium",
+          "acRate": 59.146560529605516,
+          "status": "PENDING",
+          "frontendQuestionId": "138"
+        },
+        {
+          "questionId": "139",
+          "title": "Word Break",
+          "titleSlug": "word-break",
+          "difficulty": "Medium",
+          "acRate": 47.74387532346515,
+          "status": "PENDING",
+          "frontendQuestionId": "139"
+        },
+        {
+          "questionId": "142",
+          "title": "Linked List Cycle II",
+          "titleSlug": "linked-list-cycle-ii",
+          "difficulty": "Medium",
+          "acRate": 53.70108988154566,
+          "status": "PENDING",
+          "frontendQuestionId": "142"
+        },
+        {
+          "questionId": "143",
+          "title": "Reorder List",
+          "titleSlug": "reorder-list",
+          "difficulty": "Medium",
+          "acRate": 61.29186625590721,
+          "status": "PENDING",
+          "frontendQuestionId": "143"
+        },
+        {
+          "questionId": "146",
+          "title": "LRU Cache",
+          "titleSlug": "lru-cache",
+          "difficulty": "Medium",
+          "acRate": 44.177643719272986,
+          "status": "PENDING",
+          "frontendQuestionId": "146"
+        },
+        {
+          "questionId": "147",
+          "title": "Insertion Sort List",
+          "titleSlug": "insertion-sort-list",
+          "difficulty": "Medium",
+          "acRate": 55.56200924445699,
+          "status": "PENDING",
+          "frontendQuestionId": "147"
+        },
+        {
+          "questionId": "148",
+          "title": "Sort List",
+          "titleSlug": "sort-list",
+          "difficulty": "Medium",
+          "acRate": 60.6154430222238,
+          "status": "PENDING",
+          "frontendQuestionId": "148"
+        },
+        {
+          "questionId": "150",
+          "title": "Evaluate Reverse Polish Notation",
+          "titleSlug": "evaluate-reverse-polish-notation",
+          "difficulty": "Medium",
+          "acRate": 53.75605899151604,
+          "status": "PENDING",
+          "frontendQuestionId": "150"
+        },
+        {
+          "questionId": "151",
+          "title": "Reverse Words in a String",
+          "titleSlug": "reverse-words-in-a-string",
+          "difficulty": "Medium",
+          "acRate": 49.32089867710347,
+          "status": "PENDING",
+          "frontendQuestionId": "151"
+        },
+        {
+          "questionId": "152",
+          "title": "Maximum Product Subarray",
+          "titleSlug": "maximum-product-subarray",
+          "difficulty": "Medium",
+          "acRate": 34.42177652199142,
+          "status": "PENDING",
+          "frontendQuestionId": "152"
+        },
+        {
+          "questionId": "153",
+          "title": "Find Minimum in Rotated Sorted Array",
+          "titleSlug": "find-minimum-in-rotated-sorted-array",
+          "difficulty": "Medium",
+          "acRate": 51.98369874171285,
+          "status": "PENDING",
+          "frontendQuestionId": "153"
+        },
+        {
+          "questionId": "155",
+          "title": "Min Stack",
+          "titleSlug": "min-stack",
+          "difficulty": "Medium",
+          "acRate": 55.706533289099845,
+          "status": "PENDING",
+          "frontendQuestionId": "155"
+        },
+        {
+          "questionId": "156",
+          "title": "Binary Tree Upside Down",
+          "titleSlug": "binary-tree-upside-down",
+          "difficulty": "Medium",
+          "acRate": 63.899033930254475,
+          "status": "PENDING",
+          "frontendQuestionId": "156"
+        },
+        {
+          "questionId": "159",
+          "title": "Longest Substring with At Most Two Distinct Characters",
+          "titleSlug": "longest-substring-with-at-most-two-distinct-characters",
+          "difficulty": "Medium",
+          "acRate": 56.02749247046104,
+          "status": "PENDING",
+          "frontendQuestionId": "159"
+        },
+        {
+          "questionId": "161",
+          "title": "One Edit Distance",
+          "titleSlug": "one-edit-distance",
+          "difficulty": "Medium",
+          "acRate": 34.42911363305826,
+          "status": "PENDING",
+          "frontendQuestionId": "161"
+        },
+        {
+          "questionId": "162",
+          "title": "Find Peak Element",
+          "titleSlug": "find-peak-element",
+          "difficulty": "Medium",
+          "acRate": 46.27719458390385,
+          "status": "PENDING",
+          "frontendQuestionId": "162"
+        },
+        {
+          "questionId": "164",
+          "title": "Maximum Gap",
+          "titleSlug": "maximum-gap",
+          "difficulty": "Medium",
+          "acRate": 48.296978543998755,
+          "status": "PENDING",
+          "frontendQuestionId": "164"
+        },
+        {
+          "questionId": "165",
+          "title": "Compare Version Numbers",
+          "titleSlug": "compare-version-numbers",
+          "difficulty": "Medium",
+          "acRate": 41.833341354441735,
+          "status": "PENDING",
+          "frontendQuestionId": "165"
+        },
+        {
+          "questionId": "166",
+          "title": "Fraction to Recurring Decimal",
+          "titleSlug": "fraction-to-recurring-decimal",
+          "difficulty": "Medium",
+          "acRate": 25.76542771771198,
+          "status": "PENDING",
+          "frontendQuestionId": "166"
+        }
+      ]
+    }
+  }
+}

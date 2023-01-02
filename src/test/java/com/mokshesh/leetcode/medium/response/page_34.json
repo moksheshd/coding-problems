@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "3448",
+          "title": "Consecutive Available Seats II",
+          "titleSlug": "consecutive-available-seats-ii",
+          "difficulty": "Medium",
+          "acRate": 59.15547024952016,
+          "status": "PENDING",
+          "frontendQuestionId": "3140"
+        },
+        {
+          "questionId": "3419",
+          "title": "Maximum Points Inside the Square",
+          "titleSlug": "maximum-points-inside-the-square",
+          "difficulty": "Medium",
+          "acRate": 38.87072620277995,
+          "status": "PENDING",
+          "frontendQuestionId": "3143"
+        },
+        {
+          "questionId": "3403",
+          "title": "Minimum Substring Partition of Equal Character Frequency",
+          "titleSlug": "minimum-substring-partition-of-equal-character-frequency",
+          "difficulty": "Medium",
+          "acRate": 40.08802297184875,
+          "status": "PENDING",
+          "frontendQuestionId": "3144"
+        },
+        {
+          "questionId": "3383",
+          "title": "Taking Maximum Energy From the Mystic Dungeon",
+          "titleSlug": "taking-maximum-energy-from-the-mystic-dungeon",
+          "difficulty": "Medium",
+          "acRate": 40.958309703116555,
+          "status": "PENDING",
+          "frontendQuestionId": "3147"
+        },
+        {
+          "questionId": "3391",
+          "title": "Maximum Difference Score in a Grid",
+          "titleSlug": "maximum-difference-score-in-a-grid",
+          "difficulty": "Medium",
+          "acRate": 47.025959639743775,
+          "status": "PENDING",
+          "frontendQuestionId": "3148"
+        },
+        {
+          "questionId": "3427",
+          "title": "Special Array II",
+          "titleSlug": "special-array-ii",
+          "difficulty": "Medium",
+          "acRate": 45.76031329580603,
+          "status": "PENDING",
+          "frontendQuestionId": "3152"
+        },
+        {
+          "questionId": "3416",
+          "title": "Sum of Digit Differences of All Pairs",
+          "titleSlug": "sum-of-digit-differences-of-all-pairs",
+          "difficulty": "Medium",
+          "acRate": 42.83004809320599,
+          "status": "PENDING",
+          "frontendQuestionId": "3153"
+        },
+        {
+          "questionId": "3458",
+          "title": "Maximum Number of Upgradable Servers",
+          "titleSlug": "maximum-number-of-upgradable-servers",
+          "difficulty": "Medium",
+          "acRate": 44.89687995769434,
+          "status": "PENDING",
+          "frontendQuestionId": "3155"
+        },
+        {
+          "questionId": "3467",
+          "title": "Find the Level of Tree with Minimum Sum",
+          "titleSlug": "find-the-level-of-tree-with-minimum-sum",
+          "difficulty": "Medium",
+          "acRate": 68.75207986688852,
+          "status": "PENDING",
+          "frontendQuestionId": "3157"
+        },
+        {
+          "questionId": "3420",
+          "title": "Find Occurrences of an Element in an Array",
+          "titleSlug": "find-occurrences-of-an-element-in-an-array",
+          "difficulty": "Medium",
+          "acRate": 73.35359675785207,
+          "status": "PENDING",
+          "frontendQuestionId": "3159"
+        },
+        {
+          "questionId": "3434",
+          "title": "Find the Number of Distinct Colors Among the Balls",
+          "titleSlug": "find-the-number-of-distinct-colors-among-the-balls",
+          "difficulty": "Medium",
+          "acRate": 41.26203805654203,
+          "status": "PENDING",
+          "frontendQuestionId": "3160"
+        },
+        {
+          "questionId": "3451",
+          "title": "String Compression III",
+          "titleSlug": "string-compression-iii",
+          "difficulty": "Medium",
+          "acRate": 68.07654426248787,
+          "status": "PENDING",
+          "frontendQuestionId": "3163"
+        },
+        {
+          "questionId": "3444",
+          "title": "Find the Number of Good Pairs II",
+          "titleSlug": "find-the-number-of-good-pairs-ii",
+          "difficulty": "Medium",
+          "acRate": 25.98209071442476,
+          "status": "PENDING",
+          "frontendQuestionId": "3164"
+        },
+        {
+          "questionId": "3473",
+          "title": "Calculate Parking Fees and Duration",
+          "titleSlug": "calculate-parking-fees-and-duration",
+          "difficulty": "Medium",
+          "acRate": 53.25292397660819,
+          "status": "PENDING",
+          "frontendQuestionId": "3166"
+        },
+        {
+          "questionId": "3474",
+          "title": "Better Compression of String",
+          "titleSlug": "better-compression-of-string",
+          "difficulty": "Medium",
+          "acRate": 75.0604876233017,
+          "status": "PENDING",
+          "frontendQuestionId": "3167"
+        },
+        {
+          "questionId": "3430",
+          "title": "Count Days Without Meetings",
+          "titleSlug": "count-days-without-meetings",
+          "difficulty": "Medium",
+          "acRate": 34.35954408920709,
+          "status": "PENDING",
+          "frontendQuestionId": "3169"
+        },
+        {
+          "questionId": "3445",
+          "title": "Lexicographically Minimum String After Removing Stars",
+          "titleSlug": "lexicographically-minimum-string-after-removing-stars",
+          "difficulty": "Medium",
+          "acRate": 35.809506767724535,
+          "status": "PENDING",
+          "frontendQuestionId": "3170"
+        },
+        {
+          "questionId": "3413",
+          "title": "Find The First Player to win K Games in a Row",
+          "titleSlug": "find-the-first-player-to-win-k-games-in-a-row",
+          "difficulty": "Medium",
+          "acRate": 39.44700460829493,
+          "status": "PENDING",
+          "frontendQuestionId": "3175"
+        },
+        {
+          "questionId": "3456",
+          "title": "Find the Maximum Length of a Good Subsequence I",
+          "titleSlug": "find-the-maximum-length-of-a-good-subsequence-i",
+          "difficulty": "Medium",
+          "acRate": 30.90229527049691,
+          "status": "PENDING",
+          "frontendQuestionId": "3176"
+        },
+        {
+          "questionId": "3422",
+          "title": "Find the N-th Value After K Seconds",
+          "titleSlug": "find-the-n-th-value-after-k-seconds",
+          "difficulty": "Medium",
+          "acRate": 54.01656092052909,
+          "status": "PENDING",
+          "frontendQuestionId": "3179"
+        },
+        {
+          "questionId": "3442",
+          "title": "Maximum Total Reward Using Operations I",
+          "titleSlug": "maximum-total-reward-using-operations-i",
+          "difficulty": "Medium",
+          "acRate": 29.76448474126493,
+          "status": "PENDING",
+          "frontendQuestionId": "3180"
+        },
+        {
+          "questionId": "3488",
+          "title": "Find Top Scoring Students",
+          "titleSlug": "find-top-scoring-students",
+          "difficulty": "Medium",
+          "acRate": 50.285351934052,
+          "status": "PENDING",
+          "frontendQuestionId": "3182"
+        },
+        {
+          "questionId": "3489",
+          "title": "The Number of Ways to Make the Sum",
+          "titleSlug": "the-number-of-ways-to-make-the-sum",
+          "difficulty": "Medium",
+          "acRate": 53.35208626347867,
+          "status": "PENDING",
+          "frontendQuestionId": "3183"
+        },
+        {
+          "questionId": "3418",
+          "title": "Count Pairs That Form a Complete Day II",
+          "titleSlug": "count-pairs-that-form-a-complete-day-ii",
+          "difficulty": "Medium",
+          "acRate": 43.040091316885615,
+          "status": "PENDING",
+          "frontendQuestionId": "3185"
+        },
+        {
+          "questionId": "3437",
+          "title": "Maximum Total Damage With Spell Casting",
+          "titleSlug": "maximum-total-damage-with-spell-casting",
+          "difficulty": "Medium",
+          "acRate": 27.044545023840005,
+          "status": "PENDING",
+          "frontendQuestionId": "3186"
+        },
+        {
+          "questionId": "3504",
+          "title": "Minimum Moves to Get a Peaceful Board",
+          "titleSlug": "minimum-moves-to-get-a-peaceful-board",
+          "difficulty": "Medium",
+          "acRate": 76.36078157711096,
+          "status": "PENDING",
+          "frontendQuestionId": "3189"
+        },
+        {
+          "questionId": "3475",
+          "title": "Minimum Operations to Make Binary Array Elements Equal to One I",
+          "titleSlug": "minimum-operations-to-make-binary-array-elements-equal-to-one-i",
+          "difficulty": "Medium",
+          "acRate": 70.29459659511474,
+          "status": "PENDING",
+          "frontendQuestionId": "3191"
+        },
+        {
+          "questionId": "3477",
+          "title": "Minimum Operations to Make Binary Array Elements Equal to One II",
+          "titleSlug": "minimum-operations-to-make-binary-array-elements-equal-to-one-ii",
+          "difficulty": "Medium",
+          "acRate": 64.57662238164058,
+          "status": "PENDING",
+          "frontendQuestionId": "3192"
+        },
+        {
+          "questionId": "3461",
+          "title": "Find the Minimum Area to Cover All Ones I",
+          "titleSlug": "find-the-minimum-area-to-cover-all-ones-i",
+          "difficulty": "Medium",
+          "acRate": 73.04828207259628,
+          "status": "PENDING",
+          "frontendQuestionId": "3195"
+        },
+        {
+          "questionId": "3464",
+          "title": "Maximize Total Cost of Alternating Subarrays",
+          "titleSlug": "maximize-total-cost-of-alternating-subarrays",
+          "difficulty": "Medium",
+          "acRate": 28.838198042235774,
+          "status": "PENDING",
+          "frontendQuestionId": "3196"
+        },
+        {
+          "questionId": "3490",
+          "title": "Find the Maximum Length of Valid Subsequence I",
+          "titleSlug": "find-the-maximum-length-of-valid-subsequence-i",
+          "difficulty": "Medium",
+          "acRate": 37.69392206082055,
+          "status": "PENDING",
+          "frontendQuestionId": "3201"
+        },
+        {
+          "questionId": "3491",
+          "title": "Find the Maximum Length of Valid Subsequence II",
+          "titleSlug": "find-the-maximum-length-of-valid-subsequence-ii",
+          "difficulty": "Medium",
+          "acRate": 39.61038961038961,
+          "status": "PENDING",
+          "frontendQuestionId": "3202"
+        },
+        {
+          "questionId": "3512",
+          "title": "Bitwise User Permissions Analysis",
+          "titleSlug": "bitwise-user-permissions-analysis",
+          "difficulty": "Medium",
+          "acRate": 94.29323968393327,
+          "status": "PENDING",
+          "frontendQuestionId": "3204"
+        },
+        {
+          "questionId": "3513",
+          "title": "Maximum Array Hopping Score I",
+          "titleSlug": "maximum-array-hopping-score-i",
+          "difficulty": "Medium",
+          "acRate": 78.24612403100775,
+          "status": "PENDING",
+          "frontendQuestionId": "3205"
+        },
+        {
+          "questionId": "3264",
+          "title": "Maximum Points After Enemy Battles",
+          "titleSlug": "maximum-points-after-enemy-battles",
+          "difficulty": "Medium",
+          "acRate": 32.2301024428684,
+          "status": "PENDING",
+          "frontendQuestionId": "3207"
+        },
+        {
+          "questionId": "3483",
+          "title": "Alternating Groups II",
+          "titleSlug": "alternating-groups-ii",
+          "difficulty": "Medium",
+          "acRate": 41.414822735872335,
+          "status": "PENDING",
+          "frontendQuestionId": "3208"
+        },
+        {
+          "questionId": "3453",
+          "title": "Generate Binary Strings Without Adjacent Zeros",
+          "titleSlug": "generate-binary-strings-without-adjacent-zeros",
+          "difficulty": "Medium",
+          "acRate": 86.80924480278779,
+          "status": "PENDING",
+          "frontendQuestionId": "3211"
+        },
+        {
+          "questionId": "3492",
+          "title": "Count Submatrices With Equal Frequency of X and Y",
+          "titleSlug": "count-submatrices-with-equal-frequency-of-x-and-y",
+          "difficulty": "Medium",
+          "acRate": 51.30248500428449,
+          "status": "PENDING",
+          "frontendQuestionId": "3212"
+        },
+        {
+          "questionId": "3521",
+          "title": "Count Triplets with Even XOR Set Bits II",
+          "titleSlug": "count-triplets-with-even-xor-set-bits-ii",
+          "difficulty": "Medium",
+          "acRate": 73.72549019607844,
+          "status": "PENDING",
+          "frontendQuestionId": "3215"
+        },
+        {
+          "questionId": "3501",
+          "title": "Delete Nodes From Linked List Present in Array",
+          "titleSlug": "delete-nodes-from-linked-list-present-in-array",
+          "difficulty": "Medium",
+          "acRate": 68.39515854578814,
+          "status": "PENDING",
+          "frontendQuestionId": "3217"
+        },
+        {
+          "questionId": "3494",
+          "title": "Minimum Cost for Cutting Cake I",
+          "titleSlug": "minimum-cost-for-cutting-cake-i",
+          "difficulty": "Medium",
+          "acRate": 58.0289193302892,
+          "status": "PENDING",
+          "frontendQuestionId": "3218"
+        },
+        {
+          "questionId": "3530",
+          "title": "Odd and Even Transactions",
+          "titleSlug": "odd-and-even-transactions",
+          "difficulty": "Medium",
+          "acRate": 70.05977496483825,
+          "status": "PENDING",
+          "frontendQuestionId": "3220"
+        },
+        {
+          "questionId": "3529",
+          "title": "Maximum Array Hopping Score II",
+          "titleSlug": "maximum-array-hopping-score-ii",
+          "difficulty": "Medium",
+          "acRate": 63.81039197812215,
+          "status": "PENDING",
+          "frontendQuestionId": "3221"
+        },
+        {
+          "questionId": "3455",
+          "title": "Minimum Length of String After Operations",
+          "titleSlug": "minimum-length-of-string-after-operations",
+          "difficulty": "Medium",
+          "acRate": 75.26028917392865,
+          "status": "PENDING",
+          "frontendQuestionId": "3223"
+        },
+        {
+          "questionId": "3498",
+          "title": "Minimum Array Changes to Make Differences Equal",
+          "titleSlug": "minimum-array-changes-to-make-differences-equal",
+          "difficulty": "Medium",
+          "acRate": 23.354486809671158,
+          "status": "PENDING",
+          "frontendQuestionId": "3224"
+        },
+        {
+          "questionId": "3462",
+          "title": "Vowels Game in a String",
+          "titleSlug": "vowels-game-in-a-string",
+          "difficulty": "Medium",
+          "acRate": 62.881733241362014,
+          "status": "PENDING",
+          "frontendQuestionId": "3227"
+        },
+        {
+          "questionId": "3493",
+          "title": "Maximum Number of Operations to Move Ones to the End",
+          "titleSlug": "maximum-number-of-operations-to-move-ones-to-the-end",
+          "difficulty": "Medium",
+          "acRate": 53.850154154749085,
+          "status": "PENDING",
+          "frontendQuestionId": "3228"
+        },
+        {
+          "questionId": "3539",
+          "title": "Customer Purchasing Behavior Analysis",
+          "titleSlug": "customer-purchasing-behavior-analysis",
+          "difficulty": "Medium",
+          "acRate": 37.17868338557994,
+          "status": "PENDING",
+          "frontendQuestionId": "3230"
+        },
+        {
+          "questionId": "3507",
+          "title": "Find the Count of Numbers Which Are Not Special",
+          "titleSlug": "find-the-count-of-numbers-which-are-not-special",
+          "difficulty": "Medium",
+          "acRate": 26.8445926722094,
+          "status": "PENDING",
+          "frontendQuestionId": "3233"
+        },
+        {
+          "questionId": "3479",
+          "title": "Count the Number of Substrings With Dominant Ones",
+          "titleSlug": "count-the-number-of-substrings-with-dominant-ones",
+          "difficulty": "Medium",
+          "acRate": 16.616696241000227,
+          "status": "PENDING",
+          "frontendQuestionId": "3234"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "2351",
+          "title": "Number of Ways to Buy Pens and Pencils",
+          "titleSlug": "number-of-ways-to-buy-pens-and-pencils",
+          "difficulty": "Medium",
+          "acRate": 57.13369669765951,
+          "status": "PENDING",
+          "frontendQuestionId": "2240"
+        },
+        {
+          "questionId": "2352",
+          "title": "Design an ATM Machine",
+          "titleSlug": "design-an-atm-machine",
+          "difficulty": "Medium",
+          "acRate": 43.58996229891332,
+          "status": "PENDING",
+          "frontendQuestionId": "2241"
+        },
+        {
+          "questionId": "2362",
+          "title": "Minimum Rounds to Complete All Tasks",
+          "titleSlug": "minimum-rounds-to-complete-all-tasks",
+          "difficulty": "Medium",
+          "acRate": 62.930048954976556,
+          "status": "PENDING",
+          "frontendQuestionId": "2244"
+        },
+        {
+          "questionId": "2363",
+          "title": "Maximum Trailing Zeros in a Cornered Path",
+          "titleSlug": "maximum-trailing-zeros-in-a-cornered-path",
+          "difficulty": "Medium",
+          "acRate": 36.52732575341307,
+          "status": "PENDING",
+          "frontendQuestionId": "2245"
+        },
+        {
+          "questionId": "2332",
+          "title": "Count Lattice Points Inside a Circle",
+          "titleSlug": "count-lattice-points-inside-a-circle",
+          "difficulty": "Medium",
+          "acRate": 54.318743207192966,
+          "status": "PENDING",
+          "frontendQuestionId": "2249"
+        },
+        {
+          "questionId": "2333",
+          "title": "Count Number of Rectangles Containing Each Point",
+          "titleSlug": "count-number-of-rectangles-containing-each-point",
+          "difficulty": "Medium",
+          "acRate": 35.618744915526804,
+          "status": "PENDING",
+          "frontendQuestionId": "2250"
+        },
+        {
+          "questionId": "2342",
+          "title": "Minimum Average Difference",
+          "titleSlug": "minimum-average-difference",
+          "difficulty": "Medium",
+          "acRate": 43.37148502445724,
+          "status": "PENDING",
+          "frontendQuestionId": "2256"
+        },
+        {
+          "questionId": "2343",
+          "title": "Count Unguarded Cells in the Grid",
+          "titleSlug": "count-unguarded-cells-in-the-grid",
+          "difficulty": "Medium",
+          "acRate": 66.05949270460314,
+          "status": "PENDING",
+          "frontendQuestionId": "2257"
+        },
+        {
+          "questionId": "2338",
+          "title": "Minimum Consecutive Cards to Pick Up",
+          "titleSlug": "minimum-consecutive-cards-to-pick-up",
+          "difficulty": "Medium",
+          "acRate": 52.102197556743015,
+          "status": "PENDING",
+          "frontendQuestionId": "2260"
+        },
+        {
+          "questionId": "2339",
+          "title": "K Divisible Elements Subarrays",
+          "titleSlug": "k-divisible-elements-subarrays",
+          "difficulty": "Medium",
+          "acRate": 53.044591764596035,
+          "status": "PENDING",
+          "frontendQuestionId": "2261"
+        },
+        {
+          "questionId": "2347",
+          "title": "Count Nodes Equal to Average of Subtree",
+          "titleSlug": "count-nodes-equal-to-average-of-subtree",
+          "difficulty": "Medium",
+          "acRate": 86.47658934707904,
+          "status": "PENDING",
+          "frontendQuestionId": "2265"
+        },
+        {
+          "questionId": "2348",
+          "title": "Count Number of Texts",
+          "titleSlug": "count-number-of-texts",
+          "difficulty": "Medium",
+          "acRate": 48.49275124235082,
+          "status": "PENDING",
+          "frontendQuestionId": "2266"
+        },
+        {
+          "questionId": "2405",
+          "title": "Minimum Number of Keypresses",
+          "titleSlug": "minimum-number-of-keypresses",
+          "difficulty": "Medium",
+          "acRate": 71.10635321052297,
+          "status": "PENDING",
+          "frontendQuestionId": "2268"
+        },
+        {
+          "questionId": "2358",
+          "title": "Number of Ways to Split Array",
+          "titleSlug": "number-of-ways-to-split-array",
+          "difficulty": "Medium",
+          "acRate": 56.15041375732935,
+          "status": "PENDING",
+          "frontendQuestionId": "2270"
+        },
+        {
+          "questionId": "2359",
+          "title": "Maximum White Tiles Covered by a Carpet",
+          "titleSlug": "maximum-white-tiles-covered-by-a-carpet",
+          "difficulty": "Medium",
+          "acRate": 34.56315750205178,
+          "status": "PENDING",
+          "frontendQuestionId": "2271"
+        },
+        {
+          "questionId": "2355",
+          "title": "Maximum Consecutive Floors Without Special Floors",
+          "titleSlug": "maximum-consecutive-floors-without-special-floors",
+          "difficulty": "Medium",
+          "acRate": 51.987258168215554,
+          "status": "PENDING",
+          "frontendQuestionId": "2274"
+        },
+        {
+          "questionId": "2356",
+          "title": "Largest Combination With Bitwise AND Greater Than Zero",
+          "titleSlug": "largest-combination-with-bitwise-and-greater-than-zero",
+          "difficulty": "Medium",
+          "acRate": 81.03949214981142,
+          "status": "PENDING",
+          "frontendQuestionId": "2275"
+        },
+        {
+          "questionId": "2366",
+          "title": "Maximum Bags With Full Capacity of Rocks",
+          "titleSlug": "maximum-bags-with-full-capacity-of-rocks",
+          "difficulty": "Medium",
+          "acRate": 67.49345589373313,
+          "status": "PENDING",
+          "frontendQuestionId": "2279"
+        },
+        {
+          "questionId": "2367",
+          "title": "Minimum Lines to Represent a Line Chart",
+          "titleSlug": "minimum-lines-to-represent-a-line-chart",
+          "difficulty": "Medium",
+          "acRate": 25.7604865657237,
+          "status": "PENDING",
+          "frontendQuestionId": "2280"
+        },
+        {
+          "questionId": "2425",
+          "title": "Number of People That Can Be Seen in a Grid",
+          "titleSlug": "number-of-people-that-can-be-seen-in-a-grid",
+          "difficulty": "Medium",
+          "acRate": 47.8965819456617,
+          "status": "PENDING",
+          "frontendQuestionId": "2282"
+        },
+        {
+          "questionId": "2378",
+          "title": "Sender With Largest Word Count",
+          "titleSlug": "sender-with-largest-word-count",
+          "difficulty": "Medium",
+          "acRate": 57.896011503821995,
+          "status": "PENDING",
+          "frontendQuestionId": "2284"
+        },
+        {
+          "questionId": "2379",
+          "title": "Maximum Total Importance of Roads",
+          "titleSlug": "maximum-total-importance-of-roads",
+          "difficulty": "Medium",
+          "acRate": 69.24598292423616,
+          "status": "PENDING",
+          "frontendQuestionId": "2285"
+        },
+        {
+          "questionId": "2373",
+          "title": "Apply Discount to Prices",
+          "titleSlug": "apply-discount-to-prices",
+          "difficulty": "Medium",
+          "acRate": 32.07158751502314,
+          "status": "PENDING",
+          "frontendQuestionId": "2288"
+        },
+        {
+          "questionId": "2374",
+          "title": "Steps to Make Array Non-decreasing",
+          "titleSlug": "steps-to-make-array-non-decreasing",
+          "difficulty": "Medium",
+          "acRate": 22.732512230320303,
+          "status": "PENDING",
+          "frontendQuestionId": "2289"
+        },
+        {
+          "questionId": "2426",
+          "title": "Maximum Profit From Trading Stocks",
+          "titleSlug": "maximum-profit-from-trading-stocks",
+          "difficulty": "Medium",
+          "acRate": 46.0951239008793,
+          "status": "PENDING",
+          "frontendQuestionId": "2291"
+        },
+        {
+          "questionId": "2431",
+          "title": "Products With Three or More Orders in Two Consecutive Years",
+          "titleSlug": "products-with-three-or-more-orders-in-two-consecutive-years",
+          "difficulty": "Medium",
+          "acRate": 40.02480679324492,
+          "status": "PENDING",
+          "frontendQuestionId": "2292"
+        },
+        {
+          "questionId": "2387",
+          "title": "Partition Array Such That Maximum Difference Is K",
+          "titleSlug": "partition-array-such-that-maximum-difference-is-k",
+          "difficulty": "Medium",
+          "acRate": 74.32603942076854,
+          "status": "PENDING",
+          "frontendQuestionId": "2294"
+        },
+        {
+          "questionId": "2388",
+          "title": "Replace Elements in an Array",
+          "titleSlug": "replace-elements-in-an-array",
+          "difficulty": "Medium",
+          "acRate": 58.52330275229358,
+          "status": "PENDING",
+          "frontendQuestionId": "2295"
+        },
+        {
+          "questionId": "2056",
+          "title": "Jump Game VIII",
+          "titleSlug": "jump-game-viii",
+          "difficulty": "Medium",
+          "acRate": 45.51792828685259,
+          "status": "PENDING",
+          "frontendQuestionId": "2297"
+        },
+        {
+          "questionId": "2440",
+          "title": "Tasks Count in the Weekend",
+          "titleSlug": "tasks-count-in-the-weekend",
+          "difficulty": "Medium",
+          "acRate": 81.98517207037733,
+          "status": "PENDING",
+          "frontendQuestionId": "2298"
+        },
+        {
+          "questionId": "2392",
+          "title": "Successful Pairs of Spells and Potions",
+          "titleSlug": "successful-pairs-of-spells-and-potions",
+          "difficulty": "Medium",
+          "acRate": 44.57771500452409,
+          "status": "PENDING",
+          "frontendQuestionId": "2300"
+        },
+        {
+          "questionId": "1394",
+          "title": "Minimum Path Cost in a Grid",
+          "titleSlug": "minimum-path-cost-in-a-grid",
+          "difficulty": "Medium",
+          "acRate": 66.8594992866496,
+          "status": "PENDING",
+          "frontendQuestionId": "2304"
+        },
+        {
+          "questionId": "1418",
+          "title": "Fair Distribution of Cookies",
+          "titleSlug": "fair-distribution-of-cookies",
+          "difficulty": "Medium",
+          "acRate": 69.27519128001803,
+          "status": "PENDING",
+          "frontendQuestionId": "2305"
+        },
+        {
+          "questionId": "2441",
+          "title": "Arrange Table by Gender",
+          "titleSlug": "arrange-table-by-gender",
+          "difficulty": "Medium",
+          "acRate": 69.91302588996764,
+          "status": "PENDING",
+          "frontendQuestionId": "2308"
+        },
+        {
+          "questionId": "1334",
+          "title": "Sum of Numbers With Units Digit K",
+          "titleSlug": "sum-of-numbers-with-units-digit-k",
+          "difficulty": "Medium",
+          "acRate": 27.090116334418614,
+          "status": "PENDING",
+          "frontendQuestionId": "2310"
+        },
+        {
+          "questionId": "2395",
+          "title": "Longest Binary Subsequence Less Than or Equal to K",
+          "titleSlug": "longest-binary-subsequence-less-than-or-equal-to-k",
+          "difficulty": "Medium",
+          "acRate": 38.11593503002205,
+          "status": "PENDING",
+          "frontendQuestionId": "2311"
+        },
+        {
+          "questionId": "2446",
+          "title": "The First Day of the Maximum Recorded Degree in Each City",
+          "titleSlug": "the-first-day-of-the-maximum-recorded-degree-in-each-city",
+          "difficulty": "Medium",
+          "acRate": 72.7243208139409,
+          "status": "PENDING",
+          "frontendQuestionId": "2314"
+        },
+        {
+          "questionId": "2403",
+          "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+          "titleSlug": "count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+          "difficulty": "Medium",
+          "acRate": 49.216639390312416,
+          "status": "PENDING",
+          "frontendQuestionId": "2316"
+        },
+        {
+          "questionId": "2402",
+          "title": "Maximum XOR After Operations ",
+          "titleSlug": "maximum-xor-after-operations",
+          "difficulty": "Medium",
+          "acRate": 79.30405019965772,
+          "status": "PENDING",
+          "frontendQuestionId": "2317"
+        },
+        {
+          "questionId": "2397",
+          "title": "Count Number of Ways to Place Houses",
+          "titleSlug": "count-number-of-ways-to-place-houses",
+          "difficulty": "Medium",
+          "acRate": 42.43627658076327,
+          "status": "PENDING",
+          "frontendQuestionId": "2320"
+        },
+        {
+          "questionId": "2458",
+          "title": "Find Minimum Time to Finish All Jobs II",
+          "titleSlug": "find-minimum-time-to-finish-all-jobs-ii",
+          "difficulty": "Medium",
+          "acRate": 65.7346118156511,
+          "status": "PENDING",
+          "frontendQuestionId": "2323"
+        },
+        {
+          "questionId": "2451",
+          "title": "Product Sales Analysis IV",
+          "titleSlug": "product-sales-analysis-iv",
+          "difficulty": "Medium",
+          "acRate": 75.36440677966102,
+          "status": "PENDING",
+          "frontendQuestionId": "2324"
+        },
+        {
+          "questionId": "2411",
+          "title": "Spiral Matrix IV",
+          "titleSlug": "spiral-matrix-iv",
+          "difficulty": "Medium",
+          "acRate": 82.2720982787285,
+          "status": "PENDING",
+          "frontendQuestionId": "2326"
+        },
+        {
+          "questionId": "2408",
+          "title": "Number of People Aware of a Secret",
+          "titleSlug": "number-of-people-aware-of-a-secret",
+          "difficulty": "Medium",
+          "acRate": 45.987521699523896,
+          "status": "PENDING",
+          "frontendQuestionId": "2327"
+        },
+        {
+          "questionId": "2468",
+          "title": "Valid Palindrome IV",
+          "titleSlug": "valid-palindrome-iv",
+          "difficulty": "Medium",
+          "acRate": 75.95833142961575,
+          "status": "PENDING",
+          "frontendQuestionId": "2330"
+        },
+        {
+          "questionId": "2417",
+          "title": "The Latest Time to Catch a Bus",
+          "titleSlug": "the-latest-time-to-catch-a-bus",
+          "difficulty": "Medium",
+          "acRate": 27.895521026545445,
+          "status": "PENDING",
+          "frontendQuestionId": "2332"
+        },
+        {
+          "questionId": "2418",
+          "title": "Minimum Sum of Squared Difference",
+          "titleSlug": "minimum-sum-of-squared-difference",
+          "difficulty": "Medium",
+          "acRate": 25.69355179876015,
+          "status": "PENDING",
+          "frontendQuestionId": "2333"
+        },
+        {
+          "questionId": "2413",
+          "title": "Smallest Number in Infinite Set",
+          "titleSlug": "smallest-number-in-infinite-set",
+          "difficulty": "Medium",
+          "acRate": 71.38555064591483,
+          "status": "PENDING",
+          "frontendQuestionId": "2336"
+        },
+        {
+          "questionId": "2414",
+          "title": "Move Pieces to Obtain a String",
+          "titleSlug": "move-pieces-to-obtain-a-string",
+          "difficulty": "Medium",
+          "acRate": 57.07760386506832,
+          "status": "PENDING",
+          "frontendQuestionId": "2337"
+        },
+        {
+          "questionId": "2474",
+          "title": "Minimum Adjacent Swaps to Make a Valid Array",
+          "titleSlug": "minimum-adjacent-swaps-to-make-a-valid-array",
+          "difficulty": "Medium",
+          "acRate": 72.38742236024845,
+          "status": "PENDING",
+          "frontendQuestionId": "2340"
+        }
+      ]
+    }
+  }
+}

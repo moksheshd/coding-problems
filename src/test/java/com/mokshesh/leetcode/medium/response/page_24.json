@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "2262",
+          "title": "Solving Questions With Brainpower",
+          "titleSlug": "solving-questions-with-brainpower",
+          "difficulty": "Medium",
+          "acRate": 55.17115075624752,
+          "status": "PENDING",
+          "frontendQuestionId": "2140"
+        },
+        {
+          "questionId": "2281",
+          "title": "The Number of Passengers in Each Bus I",
+          "titleSlug": "the-number-of-passengers-in-each-bus-i",
+          "difficulty": "Medium",
+          "acRate": 48.8963370840316,
+          "status": "PENDING",
+          "frontendQuestionId": "2142"
+        },
+        {
+          "questionId": "2249",
+          "title": "Count the Hidden Sequences",
+          "titleSlug": "count-the-hidden-sequences",
+          "difficulty": "Medium",
+          "acRate": 39.25599984628096,
+          "status": "PENDING",
+          "frontendQuestionId": "2145"
+        },
+        {
+          "questionId": "2250",
+          "title": "K Highest Ranked Items Within a Price Range",
+          "titleSlug": "k-highest-ranked-items-within-a-price-range",
+          "difficulty": "Medium",
+          "acRate": 43.892010142693785,
+          "status": "PENDING",
+          "frontendQuestionId": "2146"
+        },
+        {
+          "questionId": "2271",
+          "title": "Rearrange Array Elements by Sign",
+          "titleSlug": "rearrange-array-elements-by-sign",
+          "difficulty": "Medium",
+          "acRate": 84.11751851969235,
+          "status": "PENDING",
+          "frontendQuestionId": "2149"
+        },
+        {
+          "questionId": "2270",
+          "title": "Find All Lonely Numbers in the Array",
+          "titleSlug": "find-all-lonely-numbers-in-the-array",
+          "difficulty": "Medium",
+          "acRate": 61.0656555577729,
+          "status": "PENDING",
+          "frontendQuestionId": "2150"
+        },
+        {
+          "questionId": "2287",
+          "title": "Minimum Number of Lines to Cover Points",
+          "titleSlug": "minimum-number-of-lines-to-cover-points",
+          "difficulty": "Medium",
+          "acRate": 42.74043817304122,
+          "status": "PENDING",
+          "frontendQuestionId": "2152"
+        },
+        {
+          "questionId": "2261",
+          "title": "All Divisions With the Highest Score of a Binary Array",
+          "titleSlug": "all-divisions-with-the-highest-score-of-a-binary-array",
+          "difficulty": "Medium",
+          "acRate": 64.67545536882359,
+          "status": "PENDING",
+          "frontendQuestionId": "2155"
+        },
+        {
+          "questionId": "2302",
+          "title": "Order Two Columns Independently",
+          "titleSlug": "order-two-columns-independently",
+          "difficulty": "Medium",
+          "acRate": 60.78941958473241,
+          "status": "PENDING",
+          "frontendQuestionId": "2159"
+        },
+        {
+          "questionId": "2265",
+          "title": "Partition Array According to Given Pivot",
+          "titleSlug": "partition-array-according-to-given-pivot",
+          "difficulty": "Medium",
+          "acRate": 85.37917126441155,
+          "status": "PENDING",
+          "frontendQuestionId": "2161"
+        },
+        {
+          "questionId": "2266",
+          "title": "Minimum Cost to Set Cooking Time",
+          "titleSlug": "minimum-cost-to-set-cooking-time",
+          "difficulty": "Medium",
+          "acRate": 41.208047314790626,
+          "status": "PENDING",
+          "frontendQuestionId": "2162"
+        },
+        {
+          "questionId": "2284",
+          "title": "Smallest Value of the Rearranged Number",
+          "titleSlug": "smallest-value-of-the-rearranged-number",
+          "difficulty": "Medium",
+          "acRate": 52.59947085869873,
+          "status": "PENDING",
+          "frontendQuestionId": "2165"
+        },
+        {
+          "questionId": "2285",
+          "title": "Design Bitset",
+          "titleSlug": "design-bitset",
+          "difficulty": "Medium",
+          "acRate": 32.83977224350787,
+          "status": "PENDING",
+          "frontendQuestionId": "2166"
+        },
+        {
+          "questionId": "2303",
+          "title": "Unique Substrings With Equal Digit Frequency",
+          "titleSlug": "unique-substrings-with-equal-digit-frequency",
+          "difficulty": "Medium",
+          "acRate": 64.01351740005752,
+          "status": "PENDING",
+          "frontendQuestionId": "2168"
+        },
+        {
+          "questionId": "2289",
+          "title": "Minimum Operations to Make the Array Alternating",
+          "titleSlug": "minimum-operations-to-make-the-array-alternating",
+          "difficulty": "Medium",
+          "acRate": 33.53443099138352,
+          "status": "PENDING",
+          "frontendQuestionId": "2170"
+        },
+        {
+          "questionId": "2290",
+          "title": "Removing Minimum Number of Magic Beans",
+          "titleSlug": "removing-minimum-number-of-magic-beans",
+          "difficulty": "Medium",
+          "acRate": 43.178479078514336,
+          "status": "PENDING",
+          "frontendQuestionId": "2171"
+        },
+        {
+          "questionId": "2314",
+          "title": "Remove All Ones With Row and Column Flips II",
+          "titleSlug": "remove-all-ones-with-row-and-column-flips-ii",
+          "difficulty": "Medium",
+          "acRate": 67.04254228600718,
+          "status": "PENDING",
+          "frontendQuestionId": "2174"
+        },
+        {
+          "questionId": "2315",
+          "title": "The Change in Global Rankings",
+          "titleSlug": "the-change-in-global-rankings",
+          "difficulty": "Medium",
+          "acRate": 60.52284347682665,
+          "status": "PENDING",
+          "frontendQuestionId": "2175"
+        },
+        {
+          "questionId": "2278",
+          "title": "Find Three Consecutive Integers That Sum to a Given Number",
+          "titleSlug": "find-three-consecutive-integers-that-sum-to-a-given-number",
+          "difficulty": "Medium",
+          "acRate": 64.78329297820822,
+          "status": "PENDING",
+          "frontendQuestionId": "2177"
+        },
+        {
+          "questionId": "2279",
+          "title": "Maximum Split of Positive Even Integers",
+          "titleSlug": "maximum-split-of-positive-even-integers",
+          "difficulty": "Medium",
+          "acRate": 59.24889701926182,
+          "status": "PENDING",
+          "frontendQuestionId": "2178"
+        },
+        {
+          "questionId": "2299",
+          "title": "Merge Nodes in Between Zeros",
+          "titleSlug": "merge-nodes-in-between-zeros",
+          "difficulty": "Medium",
+          "acRate": 89.69940343800081,
+          "status": "PENDING",
+          "frontendQuestionId": "2181"
+        },
+        {
+          "questionId": "2300",
+          "title": "Construct String With Repeat Limit",
+          "titleSlug": "construct-string-with-repeat-limit",
+          "difficulty": "Medium",
+          "acRate": 70.9515139900345,
+          "status": "PENDING",
+          "frontendQuestionId": "2182"
+        },
+        {
+          "questionId": "2322",
+          "title": "Number of Ways to Build Sturdy Brick Wall",
+          "titleSlug": "number-of-ways-to-build-sturdy-brick-wall",
+          "difficulty": "Medium",
+          "acRate": 49.26885371597569,
+          "status": "PENDING",
+          "frontendQuestionId": "2184"
+        },
+        {
+          "questionId": "2293",
+          "title": "Minimum Number of Steps to Make Two Strings Anagram II",
+          "titleSlug": "minimum-number-of-steps-to-make-two-strings-anagram-ii",
+          "difficulty": "Medium",
+          "acRate": 72.69668297652306,
+          "status": "PENDING",
+          "frontendQuestionId": "2186"
+        },
+        {
+          "questionId": "2294",
+          "title": "Minimum Time to Complete Trips",
+          "titleSlug": "minimum-time-to-complete-trips",
+          "difficulty": "Medium",
+          "acRate": 38.90017237617951,
+          "status": "PENDING",
+          "frontendQuestionId": "2187"
+        },
+        {
+          "questionId": "1385",
+          "title": "Number of Ways to Build House of Cards",
+          "titleSlug": "number-of-ways-to-build-house-of-cards",
+          "difficulty": "Medium",
+          "acRate": 61.76217147781129,
+          "status": "PENDING",
+          "frontendQuestionId": "2189"
+        },
+        {
+          "questionId": "1333",
+          "title": "Sort the Jumbled Numbers",
+          "titleSlug": "sort-the-jumbled-numbers",
+          "difficulty": "Medium",
+          "acRate": 60.001199928004326,
+          "status": "PENDING",
+          "frontendQuestionId": "2191"
+        },
+        {
+          "questionId": "1431",
+          "title": "All Ancestors of a Node in a Directed Acyclic Graph",
+          "titleSlug": "all-ancestors-of-a-node-in-a-directed-acyclic-graph",
+          "difficulty": "Medium",
+          "acRate": 62.05599222820807,
+          "status": "PENDING",
+          "frontendQuestionId": "2192"
+        },
+        {
+          "questionId": "2305",
+          "title": "Append K Integers With Minimal Sum",
+          "titleSlug": "append-k-integers-with-minimal-sum",
+          "difficulty": "Medium",
+          "acRate": 25.81049989541937,
+          "status": "PENDING",
+          "frontendQuestionId": "2195"
+        },
+        {
+          "questionId": "2306",
+          "title": "Create Binary Tree From Descriptions",
+          "titleSlug": "create-binary-tree-from-descriptions",
+          "difficulty": "Medium",
+          "acRate": 81.72834892905891,
+          "status": "PENDING",
+          "frontendQuestionId": "2196"
+        },
+        {
+          "questionId": "1383",
+          "title": "Number of Single Divisor Triplets",
+          "titleSlug": "number-of-single-divisor-triplets",
+          "difficulty": "Medium",
+          "acRate": 54.53455852976429,
+          "status": "PENDING",
+          "frontendQuestionId": "2198"
+        },
+        {
+          "questionId": "1312",
+          "title": "Count Artifacts That Can Be Extracted",
+          "titleSlug": "count-artifacts-that-can-be-extracted",
+          "difficulty": "Medium",
+          "acRate": 56.08129820051414,
+          "status": "PENDING",
+          "frontendQuestionId": "2201"
+        },
+        {
+          "questionId": "1346",
+          "title": "Maximize the Topmost Element After K Moves",
+          "titleSlug": "maximize-the-topmost-element-after-k-moves",
+          "difficulty": "Medium",
+          "acRate": 23.156944535441554,
+          "status": "PENDING",
+          "frontendQuestionId": "2202"
+        },
+        {
+          "questionId": "2309",
+          "title": "Maximize Number of Subsequences in a String",
+          "titleSlug": "maximize-number-of-subsequences-in-a-string",
+          "difficulty": "Medium",
+          "acRate": 35.2610149293257,
+          "status": "PENDING",
+          "frontendQuestionId": "2207"
+        },
+        {
+          "questionId": "2310",
+          "title": "Minimum Operations to Halve Array Sum",
+          "titleSlug": "minimum-operations-to-halve-array-sum",
+          "difficulty": "Medium",
+          "acRate": 47.83463574489539,
+          "status": "PENDING",
+          "frontendQuestionId": "2208"
+        },
+        {
+          "questionId": "2317",
+          "title": "Count Collisions on a Road",
+          "titleSlug": "count-collisions-on-a-road",
+          "difficulty": "Medium",
+          "acRate": 44.036076351482,
+          "status": "PENDING",
+          "frontendQuestionId": "2211"
+        },
+        {
+          "questionId": "2318",
+          "title": "Maximum Points in an Archery Competition",
+          "titleSlug": "maximum-points-in-an-archery-competition",
+          "difficulty": "Medium",
+          "acRate": 50.171146233294635,
+          "status": "PENDING",
+          "frontendQuestionId": "2212"
+        },
+        {
+          "questionId": "2354",
+          "title": "Minimum Health to Beat Game",
+          "titleSlug": "minimum-health-to-beat-game",
+          "difficulty": "Medium",
+          "acRate": 57.80675652021705,
+          "status": "PENDING",
+          "frontendQuestionId": "2214"
+        },
+        {
+          "questionId": "1355",
+          "title": "Minimum Deletions to Make Array Beautiful",
+          "titleSlug": "minimum-deletions-to-make-array-beautiful",
+          "difficulty": "Medium",
+          "acRate": 48.531823129814114,
+          "status": "PENDING",
+          "frontendQuestionId": "2216"
+        },
+        {
+          "questionId": "1375",
+          "title": "Find Palindrome With Fixed Length",
+          "titleSlug": "find-palindrome-with-fixed-length",
+          "difficulty": "Medium",
+          "acRate": 37.302071574579735,
+          "status": "PENDING",
+          "frontendQuestionId": "2217"
+        },
+        {
+          "questionId": "2369",
+          "title": "Maximum Sum Score of Array",
+          "titleSlug": "maximum-sum-score-of-array",
+          "difficulty": "Medium",
+          "acRate": 61.92695214105793,
+          "status": "PENDING",
+          "frontendQuestionId": "2219"
+        },
+        {
+          "questionId": "2324",
+          "title": "Find Triangular Sum of an Array",
+          "titleSlug": "find-triangular-sum-of-an-array",
+          "difficulty": "Medium",
+          "acRate": 78.81628327194385,
+          "status": "PENDING",
+          "frontendQuestionId": "2221"
+        },
+        {
+          "questionId": "2325",
+          "title": "Number of Ways to Select Buildings",
+          "titleSlug": "number-of-ways-to-select-buildings",
+          "difficulty": "Medium",
+          "acRate": 50.650303795945376,
+          "status": "PENDING",
+          "frontendQuestionId": "2222"
+        },
+        {
+          "questionId": "1354",
+          "title": "Find Players With Zero or One Losses",
+          "titleSlug": "find-players-with-zero-or-one-losses",
+          "difficulty": "Medium",
+          "acRate": 72.82501996874925,
+          "status": "PENDING",
+          "frontendQuestionId": "2225"
+        },
+        {
+          "questionId": "1335",
+          "title": "Maximum Candies Allocated to K Children",
+          "titleSlug": "maximum-candies-allocated-to-k-children",
+          "difficulty": "Medium",
+          "acRate": 39.22919297396617,
+          "status": "PENDING",
+          "frontendQuestionId": "2226"
+        },
+        {
+          "questionId": "2370",
+          "title": "Users With Two Purchases Within Seven Days",
+          "titleSlug": "users-with-two-purchases-within-seven-days",
+          "difficulty": "Medium",
+          "acRate": 45.614616367681165,
+          "status": "PENDING",
+          "frontendQuestionId": "2228"
+        },
+        {
+          "questionId": "2328",
+          "title": "Minimize Result by Adding Parentheses to Expression",
+          "titleSlug": "minimize-result-by-adding-parentheses-to-expression",
+          "difficulty": "Medium",
+          "acRate": 68.05014498696582,
+          "status": "PENDING",
+          "frontendQuestionId": "2232"
+        },
+        {
+          "questionId": "2329",
+          "title": "Maximum Product After K Increments",
+          "titleSlug": "maximum-product-after-k-increments",
+          "difficulty": "Medium",
+          "acRate": 41.94598933547388,
+          "status": "PENDING",
+          "frontendQuestionId": "2233"
+        },
+        {
+          "questionId": "2385",
+          "title": "Count Positions on Street With Required Brightness",
+          "titleSlug": "count-positions-on-street-with-required-brightness",
+          "difficulty": "Medium",
+          "acRate": 62.860747516164636,
+          "status": "PENDING",
+          "frontendQuestionId": "2237"
+        },
+        {
+          "questionId": "2376",
+          "title": "Number of Times a Driver Was a Passenger",
+          "titleSlug": "number-of-times-a-driver-was-a-passenger",
+          "difficulty": "Medium",
+          "acRate": 71.72446257649459,
+          "status": "PENDING",
+          "frontendQuestionId": "2238"
+        }
+      ]
+    }
+  }
+}

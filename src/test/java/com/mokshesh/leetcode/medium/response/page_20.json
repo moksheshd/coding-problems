@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "1876",
+          "title": "Map of Highest Peak",
+          "titleSlug": "map-of-highest-peak",
+          "difficulty": "Medium",
+          "acRate": 75.08174775605153,
+          "status": "PENDING",
+          "frontendQuestionId": "1765"
+        },
+        {
+          "questionId": "1895",
+          "title": "Minimum Number of Operations to Move All Balls to Each Box",
+          "titleSlug": "minimum-number-of-operations-to-move-all-balls-to-each-box",
+          "difficulty": "Medium",
+          "acRate": 90.27571670274205,
+          "status": "PENDING",
+          "frontendQuestionId": "1769"
+        },
+        {
+          "questionId": "1919",
+          "title": "Sort Features by Popularity",
+          "titleSlug": "sort-features-by-popularity",
+          "difficulty": "Medium",
+          "acRate": 65.51317341722374,
+          "status": "PENDING",
+          "frontendQuestionId": "1772"
+        },
+        {
+          "questionId": "1900",
+          "title": "Closest Dessert Cost",
+          "titleSlug": "closest-dessert-cost",
+          "difficulty": "Medium",
+          "acRate": 47.89511288939697,
+          "status": "PENDING",
+          "frontendQuestionId": "1774"
+        },
+        {
+          "questionId": "1901",
+          "title": "Equal Sum Arrays With Minimum Number of Operations",
+          "titleSlug": "equal-sum-arrays-with-minimum-number-of-operations",
+          "difficulty": "Medium",
+          "acRate": 53.797982533342356,
+          "status": "PENDING",
+          "frontendQuestionId": "1775"
+        },
+        {
+          "questionId": "1931",
+          "title": "Shortest Path in a Hidden Grid",
+          "titleSlug": "shortest-path-in-a-hidden-grid",
+          "difficulty": "Medium",
+          "acRate": 43.43489768252534,
+          "status": "PENDING",
+          "frontendQuestionId": "1778"
+        },
+        {
+          "questionId": "1889",
+          "title": "Check if Number is a Sum of Powers of Three",
+          "titleSlug": "check-if-number-is-a-sum-of-powers-of-three",
+          "difficulty": "Medium",
+          "acRate": 68.41821572169454,
+          "status": "PENDING",
+          "frontendQuestionId": "1780"
+        },
+        {
+          "questionId": "1890",
+          "title": "Sum of Beauty of All Substrings",
+          "titleSlug": "sum-of-beauty-of-all-substrings",
+          "difficulty": "Medium",
+          "acRate": 69.21108808940792,
+          "status": "PENDING",
+          "frontendQuestionId": "1781"
+        },
+        {
+          "questionId": "1932",
+          "title": "Grand Slam Titles",
+          "titleSlug": "grand-slam-titles",
+          "difficulty": "Medium",
+          "acRate": 83.20512084505425,
+          "status": "PENDING",
+          "frontendQuestionId": "1783"
+        },
+        {
+          "questionId": "1911",
+          "title": "Minimum Elements to Add to Form a Given Sum",
+          "titleSlug": "minimum-elements-to-add-to-form-a-given-sum",
+          "difficulty": "Medium",
+          "acRate": 44.00243780818882,
+          "status": "PENDING",
+          "frontendQuestionId": "1785"
+        },
+        {
+          "questionId": "1912",
+          "title": "Number of Restricted Paths From First to Last Node",
+          "titleSlug": "number-of-restricted-paths-from-first-to-last-node",
+          "difficulty": "Medium",
+          "acRate": 39.55421824197137,
+          "status": "PENDING",
+          "frontendQuestionId": "1786"
+        },
+        {
+          "questionId": "1917",
+          "title": "Maximum Average Pass Ratio",
+          "titleSlug": "maximum-average-pass-ratio",
+          "difficulty": "Medium",
+          "acRate": 71.63907799702802,
+          "status": "PENDING",
+          "frontendQuestionId": "1792"
+        },
+        {
+          "questionId": "1943",
+          "title": "Count Pairs of Equal Substrings With Minimum Difference",
+          "titleSlug": "count-pairs-of-equal-substrings-with-minimum-difference",
+          "difficulty": "Medium",
+          "acRate": 64.03534609720177,
+          "status": "PENDING",
+          "frontendQuestionId": "1794"
+        },
+        {
+          "questionId": "1905",
+          "title": "Design Authentication Manager",
+          "titleSlug": "design-authentication-manager",
+          "difficulty": "Medium",
+          "acRate": 58.00609123898393,
+          "status": "PENDING",
+          "frontendQuestionId": "1797"
+        },
+        {
+          "questionId": "1930",
+          "title": "Maximum Number of Consecutive Values You Can Make",
+          "titleSlug": "maximum-number-of-consecutive-values-you-can-make",
+          "difficulty": "Medium",
+          "acRate": 61.40150650536407,
+          "status": "PENDING",
+          "frontendQuestionId": "1798"
+        },
+        {
+          "questionId": "1928",
+          "title": "Number of Orders in the Backlog",
+          "titleSlug": "number-of-orders-in-the-backlog",
+          "difficulty": "Medium",
+          "acRate": 51.011167512690356,
+          "status": "PENDING",
+          "frontendQuestionId": "1801"
+        },
+        {
+          "questionId": "1929",
+          "title": "Maximum Value at a Given Index in a Bounded Array",
+          "titleSlug": "maximum-value-at-a-given-index-in-a-bounded-array",
+          "difficulty": "Medium",
+          "acRate": 38.91211141604243,
+          "status": "PENDING",
+          "frontendQuestionId": "1802"
+        },
+        {
+          "questionId": "1949",
+          "title": "Implement Trie II (Prefix Tree)",
+          "titleSlug": "implement-trie-ii-prefix-tree",
+          "difficulty": "Medium",
+          "acRate": 63.05280122374279,
+          "status": "PENDING",
+          "frontendQuestionId": "1804"
+        },
+        {
+          "questionId": "1935",
+          "title": "Minimum Number of Operations to Reinitialize a Permutation",
+          "titleSlug": "minimum-number-of-operations-to-reinitialize-a-permutation",
+          "difficulty": "Medium",
+          "acRate": 73.12184006266467,
+          "status": "PENDING",
+          "frontendQuestionId": "1806"
+        },
+        {
+          "questionId": "1934",
+          "title": "Evaluate the Bracket Pairs of a String",
+          "titleSlug": "evaluate-the-bracket-pairs-of-a-string",
+          "difficulty": "Medium",
+          "acRate": 67.5180521573074,
+          "status": "PENDING",
+          "frontendQuestionId": "1807"
+        },
+        {
+          "questionId": "1959",
+          "title": "Minimum Path Cost in a Hidden Grid",
+          "titleSlug": "minimum-path-cost-in-a-hidden-grid",
+          "difficulty": "Medium",
+          "acRate": 58.44173260024138,
+          "status": "PENDING",
+          "frontendQuestionId": "1810"
+        },
+        {
+          "questionId": "1964",
+          "title": "Find Interview Candidates",
+          "titleSlug": "find-interview-candidates",
+          "difficulty": "Medium",
+          "acRate": 60.77124323549439,
+          "status": "PENDING",
+          "frontendQuestionId": "1811"
+        },
+        {
+          "questionId": "1923",
+          "title": "Sentence Similarity III",
+          "titleSlug": "sentence-similarity-iii",
+          "difficulty": "Medium",
+          "acRate": 48.742692118053114,
+          "status": "PENDING",
+          "frontendQuestionId": "1813"
+        },
+        {
+          "questionId": "1925",
+          "title": "Count Nice Pairs in an Array",
+          "titleSlug": "count-nice-pairs-in-an-array",
+          "difficulty": "Medium",
+          "acRate": 48.46148375301741,
+          "status": "PENDING",
+          "frontendQuestionId": "1814"
+        },
+        {
+          "questionId": "1945",
+          "title": "Finding the Users Active Minutes",
+          "titleSlug": "finding-the-users-active-minutes",
+          "difficulty": "Medium",
+          "acRate": 80.39665061968657,
+          "status": "PENDING",
+          "frontendQuestionId": "1817"
+        },
+        {
+          "questionId": "1946",
+          "title": "Minimum Absolute Sum Difference",
+          "titleSlug": "minimum-absolute-sum-difference",
+          "difficulty": "Medium",
+          "acRate": 31.072015488170006,
+          "status": "PENDING",
+          "frontendQuestionId": "1818"
+        },
+        {
+          "questionId": "1969",
+          "title": "Maximum Number of Accepted Invitations",
+          "titleSlug": "maximum-number-of-accepted-invitations",
+          "difficulty": "Medium",
+          "acRate": 51.45615866388309,
+          "status": "PENDING",
+          "frontendQuestionId": "1820"
+        },
+        {
+          "questionId": "1951",
+          "title": "Find the Winner of the Circular Game",
+          "titleSlug": "find-the-winner-of-the-circular-game",
+          "difficulty": "Medium",
+          "acRate": 81.96445037169782,
+          "status": "PENDING",
+          "frontendQuestionId": "1823"
+        },
+        {
+          "questionId": "1952",
+          "title": "Minimum Sideway Jumps",
+          "titleSlug": "minimum-sideway-jumps",
+          "difficulty": "Medium",
+          "acRate": 50.397598774374416,
+          "status": "PENDING",
+          "frontendQuestionId": "1824"
+        },
+        {
+          "questionId": "1939",
+          "title": "Queries on Number of Points Inside a Circle",
+          "titleSlug": "queries-on-number-of-points-inside-a-circle",
+          "difficulty": "Medium",
+          "acRate": 86.392861558752,
+          "status": "PENDING",
+          "frontendQuestionId": "1828"
+        },
+        {
+          "questionId": "1940",
+          "title": "Maximum XOR for Each Query",
+          "titleSlug": "maximum-xor-for-each-query",
+          "difficulty": "Medium",
+          "acRate": 85.08793272320064,
+          "status": "PENDING",
+          "frontendQuestionId": "1829"
+        },
+        {
+          "questionId": "1981",
+          "title": "Maximum Transaction Each Day",
+          "titleSlug": "maximum-transaction-each-day",
+          "difficulty": "Medium",
+          "acRate": 82.17352254356027,
+          "status": "PENDING",
+          "frontendQuestionId": "1831"
+        },
+        {
+          "questionId": "1961",
+          "title": "Maximum Ice Cream Bars",
+          "titleSlug": "maximum-ice-cream-bars",
+          "difficulty": "Medium",
+          "acRate": 73.80029571562305,
+          "status": "PENDING",
+          "frontendQuestionId": "1833"
+        },
+        {
+          "questionId": "1962",
+          "title": "Single-Threaded CPU",
+          "titleSlug": "single-threaded-cpu",
+          "difficulty": "Medium",
+          "acRate": 45.99347664371412,
+          "status": "PENDING",
+          "frontendQuestionId": "1834"
+        },
+        {
+          "questionId": "1982",
+          "title": "Remove Duplicates From an Unsorted Linked List",
+          "titleSlug": "remove-duplicates-from-an-unsorted-linked-list",
+          "difficulty": "Medium",
+          "acRate": 75.1142198681923,
+          "status": "PENDING",
+          "frontendQuestionId": "1836"
+        },
+        {
+          "questionId": "1966",
+          "title": "Frequency of the Most Frequent Element",
+          "titleSlug": "frequency-of-the-most-frequent-element",
+          "difficulty": "Medium",
+          "acRate": 43.941143628824065,
+          "status": "PENDING",
+          "frontendQuestionId": "1838"
+        },
+        {
+          "questionId": "1967",
+          "title": "Longest Substring Of All Vowels in Order",
+          "titleSlug": "longest-substring-of-all-vowels-in-order",
+          "difficulty": "Medium",
+          "acRate": 49.78645344685141,
+          "status": "PENDING",
+          "frontendQuestionId": "1839"
+        },
+        {
+          "questionId": "1991",
+          "title": "League Statistics",
+          "titleSlug": "league-statistics",
+          "difficulty": "Medium",
+          "acRate": 53.418741380561805,
+          "status": "PENDING",
+          "frontendQuestionId": "1841"
+        },
+        {
+          "questionId": "1998",
+          "title": "Suspicious Bank Accounts",
+          "titleSlug": "suspicious-bank-accounts",
+          "difficulty": "Medium",
+          "acRate": 45.00949567419287,
+          "status": "PENDING",
+          "frontendQuestionId": "1843"
+        },
+        {
+          "questionId": "1955",
+          "title": "Seat Reservation Manager",
+          "titleSlug": "seat-reservation-manager",
+          "difficulty": "Medium",
+          "acRate": 69.93100483385587,
+          "status": "PENDING",
+          "frontendQuestionId": "1845"
+        },
+        {
+          "questionId": "1956",
+          "title": "Maximum Element After Decreasing and Rearranging",
+          "titleSlug": "maximum-element-after-decreasing-and-rearranging",
+          "difficulty": "Medium",
+          "acRate": 65.76408662339949,
+          "status": "PENDING",
+          "frontendQuestionId": "1846"
+        },
+        {
+          "questionId": "1976",
+          "title": "Splitting a String Into Descending Consecutive Values",
+          "titleSlug": "splitting-a-string-into-descending-consecutive-values",
+          "difficulty": "Medium",
+          "acRate": 36.72742613939522,
+          "status": "PENDING",
+          "frontendQuestionId": "1849"
+        },
+        {
+          "questionId": "1978",
+          "title": "Minimum Adjacent Swaps to Reach the Kth Smallest Number",
+          "titleSlug": "minimum-adjacent-swaps-to-reach-the-kth-smallest-number",
+          "difficulty": "Medium",
+          "acRate": 71.48366267077218,
+          "status": "PENDING",
+          "frontendQuestionId": "1850"
+        },
+        {
+          "questionId": "2003",
+          "title": "Distinct Numbers in Each Subarray",
+          "titleSlug": "distinct-numbers-in-each-subarray",
+          "difficulty": "Medium",
+          "acRate": 76.65895531474492,
+          "status": "PENDING",
+          "frontendQuestionId": "1852"
+        },
+        {
+          "questionId": "1984",
+          "title": "Maximum Distance Between a Pair of Values",
+          "titleSlug": "maximum-distance-between-a-pair-of-values",
+          "difficulty": "Medium",
+          "acRate": 53.47827380067216,
+          "status": "PENDING",
+          "frontendQuestionId": "1855"
+        },
+        {
+          "questionId": "1985",
+          "title": "Maximum Subarray Min-Product",
+          "titleSlug": "maximum-subarray-min-product",
+          "difficulty": "Medium",
+          "acRate": 38.55701250830866,
+          "status": "PENDING",
+          "frontendQuestionId": "1856"
+        },
+        {
+          "questionId": "2009",
+          "title": "Longest Word With All Prefixes",
+          "titleSlug": "longest-word-with-all-prefixes",
+          "difficulty": "Medium",
+          "acRate": 71.22474541196972,
+          "status": "PENDING",
+          "frontendQuestionId": "1858"
+        },
+        {
+          "questionId": "1971",
+          "title": "Incremental Memory Leak",
+          "titleSlug": "incremental-memory-leak",
+          "difficulty": "Medium",
+          "acRate": 72.42917188051464,
+          "status": "PENDING",
+          "frontendQuestionId": "1860"
+        },
+        {
+          "questionId": "1972",
+          "title": "Rotating the Box",
+          "titleSlug": "rotating-the-box",
+          "difficulty": "Medium",
+          "acRate": 79.10956282061098,
+          "status": "PENDING",
+          "frontendQuestionId": "1861"
+        },
+        {
+          "questionId": "1994",
+          "title": "Minimum Number of Swaps to Make the Binary String Alternating",
+          "titleSlug": "minimum-number-of-swaps-to-make-the-binary-string-alternating",
+          "difficulty": "Medium",
+          "acRate": 43.59198670282565,
+          "status": "PENDING",
+          "frontendQuestionId": "1864"
+        }
+      ]
+    }
+  }
+}

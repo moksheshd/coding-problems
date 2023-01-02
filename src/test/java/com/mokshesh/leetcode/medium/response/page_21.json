@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "1995",
+          "title": "Finding Pairs With a Certain Sum",
+          "titleSlug": "finding-pairs-with-a-certain-sum",
+          "difficulty": "Medium",
+          "acRate": 51.51374090548602,
+          "status": "PENDING",
+          "frontendQuestionId": "1865"
+        },
+        {
+          "questionId": "2014",
+          "title": "Orders With Maximum Quantity Above Average",
+          "titleSlug": "orders-with-maximum-quantity-above-average",
+          "difficulty": "Medium",
+          "acRate": 70.88080808080808,
+          "status": "PENDING",
+          "frontendQuestionId": "1867"
+        },
+        {
+          "questionId": "2019",
+          "title": "Product of Two Run-Length Encoded Arrays",
+          "titleSlug": "product-of-two-run-length-encoded-arrays",
+          "difficulty": "Medium",
+          "acRate": 59.06149910792975,
+          "status": "PENDING",
+          "frontendQuestionId": "1868"
+        },
+        {
+          "questionId": "2000",
+          "title": "Minimum Speed to Arrive on Time",
+          "titleSlug": "minimum-speed-to-arrive-on-time",
+          "difficulty": "Medium",
+          "acRate": 46.98811892346437,
+          "status": "PENDING",
+          "frontendQuestionId": "1870"
+        },
+        {
+          "questionId": "2001",
+          "title": "Jump Game VII",
+          "titleSlug": "jump-game-vii",
+          "difficulty": "Medium",
+          "acRate": 25.287416190007196,
+          "status": "PENDING",
+          "frontendQuestionId": "1871"
+        },
+        {
+          "questionId": "2029",
+          "title": "Minimize Product Sum of Two Arrays",
+          "titleSlug": "minimize-product-sum-of-two-arrays",
+          "difficulty": "Medium",
+          "acRate": 89.15416098226466,
+          "status": "PENDING",
+          "frontendQuestionId": "1874"
+        },
+        {
+          "questionId": "2030",
+          "title": "Group Employees of the Same Salary",
+          "titleSlug": "group-employees-of-the-same-salary",
+          "difficulty": "Medium",
+          "acRate": 66.83215485682764,
+          "status": "PENDING",
+          "frontendQuestionId": "1875"
+        },
+        {
+          "questionId": "1988",
+          "title": "Minimize Maximum Pair Sum in Array",
+          "titleSlug": "minimize-maximum-pair-sum-in-array",
+          "difficulty": "Medium",
+          "acRate": 81.40688799682994,
+          "status": "PENDING",
+          "frontendQuestionId": "1877"
+        },
+        {
+          "questionId": "1990",
+          "title": "Get Biggest Three Rhombus Sums in a Grid",
+          "titleSlug": "get-biggest-three-rhombus-sums-in-a-grid",
+          "difficulty": "Medium",
+          "acRate": 48.78472222222222,
+          "status": "PENDING",
+          "frontendQuestionId": "1878"
+        },
+        {
+          "questionId": "2011",
+          "title": "Maximum Value after Insertion",
+          "titleSlug": "maximum-value-after-insertion",
+          "difficulty": "Medium",
+          "acRate": 38.318670576735094,
+          "status": "PENDING",
+          "frontendQuestionId": "1881"
+        },
+        {
+          "questionId": "2012",
+          "title": "Process Tasks Using Servers",
+          "titleSlug": "process-tasks-using-servers",
+          "difficulty": "Medium",
+          "acRate": 40.69058468647712,
+          "status": "PENDING",
+          "frontendQuestionId": "1882"
+        },
+        {
+          "questionId": "2031",
+          "title": "Egg Drop With 2 Eggs and N Floors",
+          "titleSlug": "egg-drop-with-2-eggs-and-n-floors",
+          "difficulty": "Medium",
+          "acRate": 73.47719537100068,
+          "status": "PENDING",
+          "frontendQuestionId": "1884"
+        },
+        {
+          "questionId": "2036",
+          "title": "Count Pairs in Two Arrays",
+          "titleSlug": "count-pairs-in-two-arrays",
+          "difficulty": "Medium",
+          "acRate": 60.11368511368511,
+          "status": "PENDING",
+          "frontendQuestionId": "1885"
+        },
+        {
+          "questionId": "2016",
+          "title": "Reduction Operations to Make the Array Elements Equal",
+          "titleSlug": "reduction-operations-to-make-the-array-elements-equal",
+          "difficulty": "Medium",
+          "acRate": 72.67743281091711,
+          "status": "PENDING",
+          "frontendQuestionId": "1887"
+        },
+        {
+          "questionId": "2017",
+          "title": "Minimum Number of Flips to Make the Binary String Alternating",
+          "titleSlug": "minimum-number-of-flips-to-make-the-binary-string-alternating",
+          "difficulty": "Medium",
+          "acRate": 40.444461512858915,
+          "status": "PENDING",
+          "frontendQuestionId": "1888"
+        },
+        {
+          "questionId": "2045",
+          "title": "Cutting Ribbons",
+          "titleSlug": "cutting-ribbons",
+          "difficulty": "Medium",
+          "acRate": 51.476450407655875,
+          "status": "PENDING",
+          "frontendQuestionId": "1891"
+        },
+        {
+          "questionId": "2006",
+          "title": "Find the Student that Will Replace the Chalk",
+          "titleSlug": "find-the-student-that-will-replace-the-chalk",
+          "difficulty": "Medium",
+          "acRate": 53.180106296856856,
+          "status": "PENDING",
+          "frontendQuestionId": "1894"
+        },
+        {
+          "questionId": "1311",
+          "title": "Largest Magic Square",
+          "titleSlug": "largest-magic-square",
+          "difficulty": "Medium",
+          "acRate": 53.06314411909047,
+          "status": "PENDING",
+          "frontendQuestionId": "1895"
+        },
+        {
+          "questionId": "2027",
+          "title": "Maximum Number of Removable Characters",
+          "titleSlug": "maximum-number-of-removable-characters",
+          "difficulty": "Medium",
+          "acRate": 44.94393528237162,
+          "status": "PENDING",
+          "frontendQuestionId": "1898"
+        },
+        {
+          "questionId": "2026",
+          "title": "Merge Triplets to Form Target Triplet",
+          "titleSlug": "merge-triplets-to-form-target-triplet",
+          "difficulty": "Medium",
+          "acRate": 66.90936354548484,
+          "status": "PENDING",
+          "frontendQuestionId": "1899"
+        },
+        {
+          "questionId": "2047",
+          "title": "Find a Peak Element II",
+          "titleSlug": "find-a-peak-element-ii",
+          "difficulty": "Medium",
+          "acRate": 52.58095116010768,
+          "status": "PENDING",
+          "frontendQuestionId": "1901"
+        },
+        {
+          "questionId": "2052",
+          "title": "Depth of BST Given Insertion Order",
+          "titleSlug": "depth-of-bst-given-insertion-order",
+          "difficulty": "Medium",
+          "acRate": 42.39364343651713,
+          "status": "PENDING",
+          "frontendQuestionId": "1902"
+        },
+        {
+          "questionId": "2033",
+          "title": "The Number of Full Rounds You Have Played",
+          "titleSlug": "the-number-of-full-rounds-you-have-played",
+          "difficulty": "Medium",
+          "acRate": 43.78314015144468,
+          "status": "PENDING",
+          "frontendQuestionId": "1904"
+        },
+        {
+          "questionId": "2035",
+          "title": "Count Sub Islands",
+          "titleSlug": "count-sub-islands",
+          "difficulty": "Medium",
+          "acRate": 72.83459407512031,
+          "status": "PENDING",
+          "frontendQuestionId": "1905"
+        },
+        {
+          "questionId": "2034",
+          "title": "Minimum Absolute Difference Queries",
+          "titleSlug": "minimum-absolute-difference-queries",
+          "difficulty": "Medium",
+          "acRate": 44.67352679893396,
+          "status": "PENDING",
+          "frontendQuestionId": "1906"
+        },
+        {
+          "questionId": "2057",
+          "title": "Count Salary Categories",
+          "titleSlug": "count-salary-categories",
+          "difficulty": "Medium",
+          "acRate": 61.85583893789851,
+          "status": "PENDING",
+          "frontendQuestionId": "1907"
+        },
+        {
+          "questionId": "2062",
+          "title": "Game of Nim",
+          "titleSlug": "game-of-nim",
+          "difficulty": "Medium",
+          "acRate": 63.0009319664492,
+          "status": "PENDING",
+          "frontendQuestionId": "1908"
+        },
+        {
+          "questionId": "2021",
+          "title": "Remove All Occurrences of a Substring",
+          "titleSlug": "remove-all-occurrences-of-a-substring",
+          "difficulty": "Medium",
+          "acRate": 78.38025543736372,
+          "status": "PENDING",
+          "frontendQuestionId": "1910"
+        },
+        {
+          "questionId": "2022",
+          "title": "Maximum Alternating Subsequence Sum",
+          "titleSlug": "maximum-alternating-subsequence-sum",
+          "difficulty": "Medium",
+          "acRate": 58.87575862555654,
+          "status": "PENDING",
+          "frontendQuestionId": "1911"
+        },
+        {
+          "questionId": "2043",
+          "title": "Cyclically Rotating a Grid",
+          "titleSlug": "cyclically-rotating-a-grid",
+          "difficulty": "Medium",
+          "acRate": 50.11186502842472,
+          "status": "PENDING",
+          "frontendQuestionId": "1914"
+        },
+        {
+          "questionId": "2044",
+          "title": "Number of Wonderful Substrings",
+          "titleSlug": "number-of-wonderful-substrings",
+          "difficulty": "Medium",
+          "acRate": 66.76717152829718,
+          "status": "PENDING",
+          "frontendQuestionId": "1915"
+        },
+        {
+          "questionId": "2069",
+          "title": "Kth Smallest Subarray Sum",
+          "titleSlug": "kth-smallest-subarray-sum",
+          "difficulty": "Medium",
+          "acRate": 52.67480817032314,
+          "status": "PENDING",
+          "frontendQuestionId": "1918"
+        },
+        {
+          "questionId": "2049",
+          "title": "Eliminate Maximum Number of Monsters",
+          "titleSlug": "eliminate-maximum-number-of-monsters",
+          "difficulty": "Medium",
+          "acRate": 50.900030555206065,
+          "status": "PENDING",
+          "frontendQuestionId": "1921"
+        },
+        {
+          "questionId": "2050",
+          "title": "Count Good Numbers",
+          "titleSlug": "count-good-numbers",
+          "difficulty": "Medium",
+          "acRate": 47.82577167581156,
+          "status": "PENDING",
+          "frontendQuestionId": "1922"
+        },
+        {
+          "questionId": "2038",
+          "title": "Nearest Exit from Entrance in Maze",
+          "titleSlug": "nearest-exit-from-entrance-in-maze",
+          "difficulty": "Medium",
+          "acRate": 47.1034774331758,
+          "status": "PENDING",
+          "frontendQuestionId": "1926"
+        },
+        {
+          "questionId": "2039",
+          "title": "Sum Game",
+          "titleSlug": "sum-game",
+          "difficulty": "Medium",
+          "acRate": 48.07955610002162,
+          "status": "PENDING",
+          "frontendQuestionId": "1927"
+        },
+        {
+          "questionId": "2059",
+          "title": "Unique Length-3 Palindromic Subsequences",
+          "titleSlug": "unique-length-3-palindromic-subsequences",
+          "difficulty": "Medium",
+          "acRate": 70.84403276198867,
+          "status": "PENDING",
+          "frontendQuestionId": "1930"
+        },
+        {
+          "questionId": "2087",
+          "title": "Confirmation Rate",
+          "titleSlug": "confirmation-rate",
+          "difficulty": "Medium",
+          "acRate": 60.39655563501367,
+          "status": "PENDING",
+          "frontendQuestionId": "1934"
+        },
+        {
+          "questionId": "2066",
+          "title": "Add Minimum Number of Rungs",
+          "titleSlug": "add-minimum-number-of-rungs",
+          "difficulty": "Medium",
+          "acRate": 43.10505199150366,
+          "status": "PENDING",
+          "frontendQuestionId": "1936"
+        },
+        {
+          "questionId": "2067",
+          "title": "Maximum Number of Points with Cost",
+          "titleSlug": "maximum-number-of-points-with-cost",
+          "difficulty": "Medium",
+          "acRate": 42.712296977044986,
+          "status": "PENDING",
+          "frontendQuestionId": "1937"
+        },
+        {
+          "questionId": "2071",
+          "title": "Longest Common Subsequence Between Sorted Arrays",
+          "titleSlug": "longest-common-subsequence-between-sorted-arrays",
+          "difficulty": "Medium",
+          "acRate": 81.31469979296067,
+          "status": "PENDING",
+          "frontendQuestionId": "1940"
+        },
+        {
+          "questionId": "2054",
+          "title": "The Number of the Smallest Unoccupied Chair",
+          "titleSlug": "the-number-of-the-smallest-unoccupied-chair",
+          "difficulty": "Medium",
+          "acRate": 60.71049465713679,
+          "status": "PENDING",
+          "frontendQuestionId": "1942"
+        },
+        {
+          "questionId": "2055",
+          "title": "Describe the Painting",
+          "titleSlug": "describe-the-painting",
+          "difficulty": "Medium",
+          "acRate": 50.56337089139276,
+          "status": "PENDING",
+          "frontendQuestionId": "1943"
+        },
+        {
+          "questionId": "2077",
+          "title": "Largest Number After Mutating Substring",
+          "titleSlug": "largest-number-after-mutating-substring",
+          "difficulty": "Medium",
+          "acRate": 36.51627974886845,
+          "status": "PENDING",
+          "frontendQuestionId": "1946"
+        },
+        {
+          "questionId": "2078",
+          "title": "Maximum Compatibility Score Sum",
+          "titleSlug": "maximum-compatibility-score-sum",
+          "difficulty": "Medium",
+          "acRate": 63.01781737193763,
+          "status": "PENDING",
+          "frontendQuestionId": "1947"
+        },
+        {
+          "questionId": "2097",
+          "title": "Strong Friendship",
+          "titleSlug": "strong-friendship",
+          "difficulty": "Medium",
+          "acRate": 54.488658973338644,
+          "status": "PENDING",
+          "frontendQuestionId": "1949"
+        },
+        {
+          "questionId": "2072",
+          "title": "Maximum of Minimum Values in All Subarrays",
+          "titleSlug": "maximum-of-minimum-values-in-all-subarrays",
+          "difficulty": "Medium",
+          "acRate": 47.86374981647335,
+          "status": "PENDING",
+          "frontendQuestionId": "1950"
+        },
+        {
+          "questionId": "2098",
+          "title": "All the Pairs With the Maximum Number of Common Followers",
+          "titleSlug": "all-the-pairs-with-the-maximum-number-of-common-followers",
+          "difficulty": "Medium",
+          "acRate": 69.03569873748367,
+          "status": "PENDING",
+          "frontendQuestionId": "1951"
+        },
+        {
+          "questionId": "2084",
+          "title": "Maximum Number of Weeks for Which You Can Work",
+          "titleSlug": "maximum-number-of-weeks-for-which-you-can-work",
+          "difficulty": "Medium",
+          "acRate": 41.006196099452914,
+          "status": "PENDING",
+          "frontendQuestionId": "1953"
+        },
+        {
+          "questionId": "1295",
+          "title": "Minimum Garden Perimeter to Collect Enough Apples",
+          "titleSlug": "minimum-garden-perimeter-to-collect-enough-apples",
+          "difficulty": "Medium",
+          "acRate": 54.5121271666129,
+          "status": "PENDING",
+          "frontendQuestionId": "1954"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 796,
+      "questions": [
+        {
+          "questionId": "3431",
+          "title": "Find the Minimum Cost Array Permutation",
+          "titleSlug": "find-the-minimum-cost-array-permutation",
+          "difficulty": "Hard",
+          "acRate": 22.66541087826701,
+          "status": "PENDING",
+          "frontendQuestionId": "3149"
+        },
+        {
+          "questionId": "3414",
+          "title": "Find Number of Ways to Reach the K-th Stair",
+          "titleSlug": "find-number-of-ways-to-reach-the-k-th-stair",
+          "difficulty": "Hard",
+          "acRate": 36.01187950784896,
+          "status": "PENDING",
+          "frontendQuestionId": "3154"
+        },
+        {
+          "questionId": "3465",
+          "title": "Employee Task Duration and Concurrent Tasks",
+          "titleSlug": "employee-task-duration-and-concurrent-tasks",
+          "difficulty": "Hard",
+          "acRate": 49.62039045553146,
+          "status": "PENDING",
+          "frontendQuestionId": "3156"
+        },
+        {
+          "questionId": "3435",
+          "title": "Block Placement Queries",
+          "titleSlug": "block-placement-queries",
+          "difficulty": "Hard",
+          "acRate": 15.709258751485239,
+          "status": "PENDING",
+          "frontendQuestionId": "3161"
+        },
+        {
+          "questionId": "3423",
+          "title": "Maximum Sum of Subsequence With Non-adjacent Elements",
+          "titleSlug": "maximum-sum-of-subsequence-with-non-adjacent-elements",
+          "difficulty": "Hard",
+          "acRate": 16.386702986279257,
+          "status": "PENDING",
+          "frontendQuestionId": "3165"
+        },
+        {
+          "questionId": "3436",
+          "title": "Find Subarray With Bitwise OR Closest to K",
+          "titleSlug": "find-subarray-with-bitwise-or-closest-to-k",
+          "difficulty": "Hard",
+          "acRate": 30.34219653179191,
+          "status": "PENDING",
+          "frontendQuestionId": "3171"
+        },
+        {
+          "questionId": "3452",
+          "title": "Find the Maximum Length of a Good Subsequence II",
+          "titleSlug": "find-the-maximum-length-of-a-good-subsequence-ii",
+          "difficulty": "Hard",
+          "acRate": 24.095069857074034,
+          "status": "PENDING",
+          "frontendQuestionId": "3177"
+        },
+        {
+          "questionId": "3443",
+          "title": "Maximum Total Reward Using Operations II",
+          "titleSlug": "maximum-total-reward-using-operations-ii",
+          "difficulty": "Hard",
+          "acRate": 20.757571432649215,
+          "status": "PENDING",
+          "frontendQuestionId": "3181"
+        },
+        {
+          "questionId": "3438",
+          "title": "Peaks in Array",
+          "titleSlug": "peaks-in-array",
+          "difficulty": "Hard",
+          "acRate": 26.406644410064327,
+          "status": "PENDING",
+          "frontendQuestionId": "3187"
+        },
+        {
+          "questionId": "3503",
+          "title": "Find Top Scoring Students II",
+          "titleSlug": "find-top-scoring-students-ii",
+          "difficulty": "Hard",
+          "acRate": 38.83607029674445,
+          "status": "PENDING",
+          "frontendQuestionId": "3188"
+        },
+        {
+          "questionId": "3460",
+          "title": "Count the Number of Inversions",
+          "titleSlug": "count-the-number-of-inversions",
+          "difficulty": "Hard",
+          "acRate": 33.03623677695251,
+          "status": "PENDING",
+          "frontendQuestionId": "3193"
+        },
+        {
+          "questionId": "3459",
+          "title": "Find the Minimum Area to Cover All Ones II",
+          "titleSlug": "find-the-minimum-area-to-cover-all-ones-ii",
+          "difficulty": "Hard",
+          "acRate": 35.81684406029002,
+          "status": "PENDING",
+          "frontendQuestionId": "3197"
+        },
+        {
+          "questionId": "3439",
+          "title": "Find Minimum Diameter After Merging Two Trees",
+          "titleSlug": "find-minimum-diameter-after-merging-two-trees",
+          "difficulty": "Hard",
+          "acRate": 57.99068081386489,
+          "status": "PENDING",
+          "frontendQuestionId": "3203"
+        },
+        {
+          "questionId": "3466",
+          "title": "Number of Subarrays With AND Value of K",
+          "titleSlug": "number-of-subarrays-with-and-value-of-k",
+          "difficulty": "Hard",
+          "acRate": 33.87703163861415,
+          "status": "PENDING",
+          "frontendQuestionId": "3209"
+        },
+        {
+          "questionId": "3482",
+          "title": "Construct String with Minimum Cost",
+          "titleSlug": "construct-string-with-minimum-cost",
+          "difficulty": "Hard",
+          "acRate": 19.709155368808062,
+          "status": "PENDING",
+          "frontendQuestionId": "3213"
+        },
+        {
+          "questionId": "3520",
+          "title": "Year on Year Growth Rate",
+          "titleSlug": "year-on-year-growth-rate",
+          "difficulty": "Hard",
+          "acRate": 53.03815355628827,
+          "status": "PENDING",
+          "frontendQuestionId": "3214"
+        },
+        {
+          "questionId": "3500",
+          "title": "Minimum Cost for Cutting Cake II",
+          "titleSlug": "minimum-cost-for-cutting-cake-ii",
+          "difficulty": "Hard",
+          "acRate": 55.16660283416316,
+          "status": "PENDING",
+          "frontendQuestionId": "3219"
+        },
+        {
+          "questionId": "3470",
+          "title": "Maximum Score From Grid Operations",
+          "titleSlug": "maximum-score-from-grid-operations",
+          "difficulty": "Hard",
+          "acRate": 24.326168543159334,
+          "status": "PENDING",
+          "frontendQuestionId": "3225"
+        },
+        {
+          "questionId": "3454",
+          "title": "Minimum Operations to Make Array Equal to Target",
+          "titleSlug": "minimum-operations-to-make-array-equal-to-target",
+          "difficulty": "Hard",
+          "acRate": 38.41129372102824,
+          "status": "PENDING",
+          "frontendQuestionId": "3229"
+        },
+        {
+          "questionId": "3545",
+          "title": "Minimum Number of Increasing Subsequence to Be Removed",
+          "titleSlug": "minimum-number-of-increasing-subsequence-to-be-removed",
+          "difficulty": "Hard",
+          "acRate": 52.40054869684499,
+          "status": "PENDING",
+          "frontendQuestionId": "3231"
+        },
+        {
+          "questionId": "3478",
+          "title": "Check if the Rectangle Corner Is Reachable",
+          "titleSlug": "check-if-the-rectangle-corner-is-reachable",
+          "difficulty": "Hard",
+          "acRate": 26.110699379802625,
+          "status": "PENDING",
+          "frontendQuestionId": "3235"
+        },
+        {
+          "questionId": "3549",
+          "title": "CEO Subordinate Hierarchy",
+          "titleSlug": "ceo-subordinate-hierarchy",
+          "difficulty": "Hard",
+          "acRate": 72.48826291079811,
+          "status": "PENDING",
+          "frontendQuestionId": "3236"
+        },
+        {
+          "questionId": "3532",
+          "title": "Time Taken to Mark All Nodes",
+          "titleSlug": "time-taken-to-mark-all-nodes",
+          "difficulty": "Hard",
+          "acRate": 24.875485742433366,
+          "status": "PENDING",
+          "frontendQuestionId": "3241"
+        },
+        {
+          "questionId": "3514",
+          "title": "Shortest Distance After Road Addition Queries II",
+          "titleSlug": "shortest-distance-after-road-addition-queries-ii",
+          "difficulty": "Hard",
+          "acRate": 25.049894398263866,
+          "status": "PENDING",
+          "frontendQuestionId": "3244"
+        },
+        {
+          "questionId": "3527",
+          "title": "Alternating Groups III",
+          "titleSlug": "alternating-groups-iii",
+          "difficulty": "Hard",
+          "acRate": 14.350195878044625,
+          "status": "PENDING",
+          "frontendQuestionId": "3245"
+        },
+        {
+          "questionId": "3535",
+          "title": "Find the Count of Monotonic Pairs I",
+          "titleSlug": "find-the-count-of-monotonic-pairs-i",
+          "difficulty": "Hard",
+          "acRate": 46.019514358576345,
+          "status": "PENDING",
+          "frontendQuestionId": "3250"
+        },
+        {
+          "questionId": "3536",
+          "title": "Find the Count of Monotonic Pairs II",
+          "titleSlug": "find-the-count-of-monotonic-pairs-ii",
+          "difficulty": "Hard",
+          "acRate": 23.000740140274203,
+          "status": "PENDING",
+          "frontendQuestionId": "3251"
+        },
+        {
+          "questionId": "3550",
+          "title": "Maximum Value Sum by Placing Three Rooks I",
+          "titleSlug": "maximum-value-sum-by-placing-three-rooks-i",
+          "difficulty": "Hard",
+          "acRate": 14.778654292343388,
+          "status": "PENDING",
+          "frontendQuestionId": "3256"
+        },
+        {
+          "questionId": "3542",
+          "title": "Maximum Value Sum by Placing Three Rooks II",
+          "titleSlug": "maximum-value-sum-by-placing-three-rooks-ii",
+          "difficulty": "Hard",
+          "acRate": 27.068854756759915,
+          "status": "PENDING",
+          "frontendQuestionId": "3257"
+        },
+        {
+          "questionId": "3552",
+          "title": "Find the Largest Palindrome Divisible by K",
+          "titleSlug": "find-the-largest-palindrome-divisible-by-k",
+          "difficulty": "Hard",
+          "acRate": 15.17935076270834,
+          "status": "PENDING",
+          "frontendQuestionId": "3260"
+        },
+        {
+          "questionId": "3546",
+          "title": "Count Substrings That Satisfy K-Constraint II",
+          "titleSlug": "count-substrings-that-satisfy-k-constraint-ii",
+          "difficulty": "Hard",
+          "acRate": 22.22811159832313,
+          "status": "PENDING",
+          "frontendQuestionId": "3261"
+        },
+        {
+          "questionId": "3556",
+          "title": "Final Array State After K Multiplication Operations II",
+          "titleSlug": "final-array-state-after-k-multiplication-operations-ii",
+          "difficulty": "Hard",
+          "acRate": 11.55140523043724,
+          "status": "PENDING",
+          "frontendQuestionId": "3266"
+        },
+        {
+          "questionId": "3544",
+          "title": "Count Almost Equal Pairs II",
+          "titleSlug": "count-almost-equal-pairs-ii",
+          "difficulty": "Hard",
+          "acRate": 21.08763115117482,
+          "status": "PENDING",
+          "frontendQuestionId": "3267"
+        },
+        {
+          "questionId": "3585",
+          "title": "Find Overlapping Shifts II",
+          "titleSlug": "find-overlapping-shifts-ii",
+          "difficulty": "Hard",
+          "acRate": 60.446247464503045,
+          "status": "PENDING",
+          "frontendQuestionId": "3268"
+        },
+        {
+          "questionId": "3586",
+          "title": "Constructing Two Increasing Arrays",
+          "titleSlug": "constructing-two-increasing-arrays",
+          "difficulty": "Hard",
+          "acRate": 64.78599221789884,
+          "status": "PENDING",
+          "frontendQuestionId": "3269"
+        },
+        {
+          "questionId": "3548",
+          "title": "Find the Count of Good Integers",
+          "titleSlug": "find-the-count-of-good-integers",
+          "difficulty": "Hard",
+          "acRate": 30.621924467895887,
+          "status": "PENDING",
+          "frontendQuestionId": "3272"
+        },
+        {
+          "questionId": "3531",
+          "title": "Minimum Amount of Damage Dealt to Bob",
+          "titleSlug": "minimum-amount-of-damage-dealt-to-bob",
+          "difficulty": "Hard",
+          "acRate": 38.29587408510914,
+          "status": "PENDING",
+          "frontendQuestionId": "3273"
+        },
+        {
+          "questionId": "3563",
+          "title": "Select Cells in Grid With Maximum Score",
+          "titleSlug": "select-cells-in-grid-with-maximum-score",
+          "difficulty": "Hard",
+          "acRate": 14.00903985755376,
+          "status": "PENDING",
+          "frontendQuestionId": "3276"
+        },
+        {
+          "questionId": "3551",
+          "title": "Maximum XOR Score Subarray Queries",
+          "titleSlug": "maximum-xor-score-subarray-queries",
+          "difficulty": "Hard",
+          "acRate": 45.16292248532686,
+          "status": "PENDING",
+          "frontendQuestionId": "3277"
+        },
+        {
+          "questionId": "3590",
+          "title": "Maximum Total Area Occupied by Pistons",
+          "titleSlug": "maximum-total-area-occupied-by-pistons",
+          "difficulty": "Hard",
+          "acRate": 54.61254612546126,
+          "status": "PENDING",
+          "frontendQuestionId": "3279"
+        },
+        {
+          "questionId": "3560",
+          "title": "Maximum Number of Moves to Kill All Pawns",
+          "titleSlug": "maximum-number-of-moves-to-kill-all-pawns",
+          "difficulty": "Hard",
+          "acRate": 32.47920133111481,
+          "status": "PENDING",
+          "frontendQuestionId": "3283"
+        },
+        {
+          "questionId": "3575",
+          "title": "Find the Maximum Sequence Value of Array",
+          "titleSlug": "find-the-maximum-sequence-value-of-array",
+          "difficulty": "Hard",
+          "acRate": 17.796824860665428,
+          "status": "PENDING",
+          "frontendQuestionId": "3287"
+        },
+        {
+          "questionId": "3571",
+          "title": "Length of the Longest Increasing Path",
+          "titleSlug": "length-of-the-longest-increasing-path",
+          "difficulty": "Hard",
+          "acRate": 16.755920953386635,
+          "status": "PENDING",
+          "frontendQuestionId": "3288"
+        },
+        {
+          "questionId": "3557",
+          "title": "Minimum Number of Valid Strings to Form Target II",
+          "titleSlug": "minimum-number-of-valid-strings-to-form-target-ii",
+          "difficulty": "Hard",
+          "acRate": 17.728218583190085,
+          "status": "PENDING",
+          "frontendQuestionId": "3292"
+        },
+        {
+          "questionId": "3572",
+          "title": "Count Substrings That Can Be Rearranged to Contain a String II",
+          "titleSlug": "count-substrings-that-can-be-rearranged-to-contain-a-string-ii",
+          "difficulty": "Hard",
+          "acRate": 58.74718526100307,
+          "status": "PENDING",
+          "frontendQuestionId": "3298"
+        },
+        {
+          "questionId": "3623",
+          "title": "Sum of Consecutive Subsequences",
+          "titleSlug": "sum-of-consecutive-subsequences",
+          "difficulty": "Hard",
+          "acRate": 47.581903276131044,
+          "status": "PENDING",
+          "frontendQuestionId": "3299"
+        },
+        {
+          "questionId": "3580",
+          "title": "Find the Occurrence of First Almost Equal Substring",
+          "titleSlug": "find-the-occurrence-of-first-almost-equal-substring",
+          "difficulty": "Hard",
+          "acRate": 12.674795067851486,
+          "status": "PENDING",
+          "frontendQuestionId": "3303"
+        },
+        {
+          "questionId": "3601",
+          "title": "Find the K-th Character in String Game II",
+          "titleSlug": "find-the-k-th-character-in-string-game-ii",
+          "difficulty": "Hard",
+          "acRate": 29.883534416625984,
+          "status": "PENDING",
+          "frontendQuestionId": "3307"
+        },
+        {
+          "questionId": "3578",
+          "title": "Construct 2D Grid Matching Graph Layout",
+          "titleSlug": "construct-2d-grid-matching-graph-layout",
+          "difficulty": "Hard",
+          "acRate": 31.161625201360298,
+          "status": "PENDING",
+          "frontendQuestionId": "3311"
+        },
+        {
+          "questionId": "3583",
+          "title": "Sorted GCD Pair Queries",
+          "titleSlug": "sorted-gcd-pair-queries",
+          "difficulty": "Hard",
+          "acRate": 19.635791366906474,
+          "status": "PENDING",
+          "frontendQuestionId": "3312"
+        }
+      ]
+    }
+  }
+}

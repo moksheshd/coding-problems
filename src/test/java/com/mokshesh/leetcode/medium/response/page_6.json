@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "766",
+          "title": "Flatten a Multilevel Doubly Linked List",
+          "titleSlug": "flatten-a-multilevel-doubly-linked-list",
+          "difficulty": "Medium",
+          "acRate": 60.82961353722908,
+          "status": "PENDING",
+          "frontendQuestionId": "430"
+        },
+        {
+          "questionId": "433",
+          "title": "Minimum Genetic Mutation",
+          "titleSlug": "minimum-genetic-mutation",
+          "difficulty": "Medium",
+          "acRate": 54.92679928769167,
+          "status": "PENDING",
+          "frontendQuestionId": "433"
+        },
+        {
+          "questionId": "435",
+          "title": "Non-overlapping Intervals",
+          "titleSlug": "non-overlapping-intervals",
+          "difficulty": "Medium",
+          "acRate": 54.77936857590595,
+          "status": "PENDING",
+          "frontendQuestionId": "435"
+        },
+        {
+          "questionId": "436",
+          "title": "Find Right Interval",
+          "titleSlug": "find-right-interval",
+          "difficulty": "Medium",
+          "acRate": 53.27479036309566,
+          "status": "PENDING",
+          "frontendQuestionId": "436"
+        },
+        {
+          "questionId": "437",
+          "title": "Path Sum III",
+          "titleSlug": "path-sum-iii",
+          "difficulty": "Medium",
+          "acRate": 46.03542813400691,
+          "status": "PENDING",
+          "frontendQuestionId": "437"
+        },
+        {
+          "questionId": "438",
+          "title": "Find All Anagrams in a String",
+          "titleSlug": "find-all-anagrams-in-a-string",
+          "difficulty": "Medium",
+          "acRate": 51.73022404583803,
+          "status": "PENDING",
+          "frontendQuestionId": "438"
+        },
+        {
+          "questionId": "439",
+          "title": "Ternary Expression Parser",
+          "titleSlug": "ternary-expression-parser",
+          "difficulty": "Medium",
+          "acRate": 61.65218451251153,
+          "status": "PENDING",
+          "frontendQuestionId": "439"
+        },
+        {
+          "questionId": "442",
+          "title": "Find All Duplicates in an Array",
+          "titleSlug": "find-all-duplicates-in-an-array",
+          "difficulty": "Medium",
+          "acRate": 76.17630519971182,
+          "status": "PENDING",
+          "frontendQuestionId": "442"
+        },
+        {
+          "questionId": "443",
+          "title": "String Compression",
+          "titleSlug": "string-compression",
+          "difficulty": "Medium",
+          "acRate": 56.972857947243064,
+          "status": "PENDING",
+          "frontendQuestionId": "443"
+        },
+        {
+          "questionId": "444",
+          "title": "Sequence Reconstruction",
+          "titleSlug": "sequence-reconstruction",
+          "difficulty": "Medium",
+          "acRate": 28.979217300729132,
+          "status": "PENDING",
+          "frontendQuestionId": "444"
+        },
+        {
+          "questionId": "445",
+          "title": "Add Two Numbers II",
+          "titleSlug": "add-two-numbers-ii",
+          "difficulty": "Medium",
+          "acRate": 61.61732238412131,
+          "status": "PENDING",
+          "frontendQuestionId": "445"
+        },
+        {
+          "questionId": "447",
+          "title": "Number of Boomerangs",
+          "titleSlug": "number-of-boomerangs",
+          "difficulty": "Medium",
+          "acRate": 56.04827199780102,
+          "status": "PENDING",
+          "frontendQuestionId": "447"
+        },
+        {
+          "questionId": "449",
+          "title": "Serialize and Deserialize BST",
+          "titleSlug": "serialize-and-deserialize-bst",
+          "difficulty": "Medium",
+          "acRate": 58.24508001425811,
+          "status": "PENDING",
+          "frontendQuestionId": "449"
+        },
+        {
+          "questionId": "450",
+          "title": "Delete Node in a BST",
+          "titleSlug": "delete-node-in-a-bst",
+          "difficulty": "Medium",
+          "acRate": 52.42458580320648,
+          "status": "PENDING",
+          "frontendQuestionId": "450"
+        },
+        {
+          "questionId": "451",
+          "title": "Sort Characters By Frequency",
+          "titleSlug": "sort-characters-by-frequency",
+          "difficulty": "Medium",
+          "acRate": 73.50994977858215,
+          "status": "PENDING",
+          "frontendQuestionId": "451"
+        },
+        {
+          "questionId": "452",
+          "title": "Minimum Number of Arrows to Burst Balloons",
+          "titleSlug": "minimum-number-of-arrows-to-burst-balloons",
+          "difficulty": "Medium",
+          "acRate": 59.854362212772884,
+          "status": "PENDING",
+          "frontendQuestionId": "452"
+        },
+        {
+          "questionId": "453",
+          "title": "Minimum Moves to Equal Array Elements",
+          "titleSlug": "minimum-moves-to-equal-array-elements",
+          "difficulty": "Medium",
+          "acRate": 57.42377281356713,
+          "status": "PENDING",
+          "frontendQuestionId": "453"
+        },
+        {
+          "questionId": "454",
+          "title": "4Sum II",
+          "titleSlug": "4sum-ii",
+          "difficulty": "Medium",
+          "acRate": 57.432582060002716,
+          "status": "PENDING",
+          "frontendQuestionId": "454"
+        },
+        {
+          "questionId": "456",
+          "title": "132 Pattern",
+          "titleSlug": "132-pattern",
+          "difficulty": "Medium",
+          "acRate": 33.81095970057936,
+          "status": "PENDING",
+          "frontendQuestionId": "456"
+        },
+        {
+          "questionId": "457",
+          "title": "Circular Array Loop",
+          "titleSlug": "circular-array-loop",
+          "difficulty": "Medium",
+          "acRate": 35.06785642781152,
+          "status": "PENDING",
+          "frontendQuestionId": "457"
+        },
+        {
+          "questionId": "462",
+          "title": "Minimum Moves to Equal Array Elements II",
+          "titleSlug": "minimum-moves-to-equal-array-elements-ii",
+          "difficulty": "Medium",
+          "acRate": 60.48715565450733,
+          "status": "PENDING",
+          "frontendQuestionId": "462"
+        },
+        {
+          "questionId": "464",
+          "title": "Can I Win",
+          "titleSlug": "can-i-win",
+          "difficulty": "Medium",
+          "acRate": 30.063039035710577,
+          "status": "PENDING",
+          "frontendQuestionId": "464"
+        },
+        {
+          "questionId": "467",
+          "title": "Unique Substrings in Wraparound String",
+          "titleSlug": "unique-substrings-in-wraparound-string",
+          "difficulty": "Medium",
+          "acRate": 40.70046993977064,
+          "status": "PENDING",
+          "frontendQuestionId": "467"
+        },
+        {
+          "questionId": "468",
+          "title": "Validate IP Address",
+          "titleSlug": "validate-ip-address",
+          "difficulty": "Medium",
+          "acRate": 27.660494482581395,
+          "status": "PENDING",
+          "frontendQuestionId": "468"
+        },
+        {
+          "questionId": "469",
+          "title": "Convex Polygon",
+          "titleSlug": "convex-polygon",
+          "difficulty": "Medium",
+          "acRate": 39.78383021366451,
+          "status": "PENDING",
+          "frontendQuestionId": "469"
+        },
+        {
+          "questionId": "903",
+          "title": "Implement Rand10() Using Rand7()",
+          "titleSlug": "implement-rand10-using-rand7",
+          "difficulty": "Medium",
+          "acRate": 45.83445565099412,
+          "status": "PENDING",
+          "frontendQuestionId": "470"
+        },
+        {
+          "questionId": "473",
+          "title": "Matchsticks to Square",
+          "titleSlug": "matchsticks-to-square",
+          "difficulty": "Medium",
+          "acRate": 40.62561020224487,
+          "status": "PENDING",
+          "frontendQuestionId": "473"
+        },
+        {
+          "questionId": "474",
+          "title": "Ones and Zeroes",
+          "titleSlug": "ones-and-zeroes",
+          "difficulty": "Medium",
+          "acRate": 48.38433622624601,
+          "status": "PENDING",
+          "frontendQuestionId": "474"
+        },
+        {
+          "questionId": "475",
+          "title": "Heaters",
+          "titleSlug": "heaters",
+          "difficulty": "Medium",
+          "acRate": 39.158032978257694,
+          "status": "PENDING",
+          "frontendQuestionId": "475"
+        },
+        {
+          "questionId": "477",
+          "title": "Total Hamming Distance",
+          "titleSlug": "total-hamming-distance",
+          "difficulty": "Medium",
+          "acRate": 53.37246844731435,
+          "status": "PENDING",
+          "frontendQuestionId": "477"
+        },
+        {
+          "questionId": "915",
+          "title": "Generate Random Point in a Circle",
+          "titleSlug": "generate-random-point-in-a-circle",
+          "difficulty": "Medium",
+          "acRate": 40.503422067092565,
+          "status": "PENDING",
+          "frontendQuestionId": "478"
+        },
+        {
+          "questionId": "481",
+          "title": "Magical String",
+          "titleSlug": "magical-string",
+          "difficulty": "Medium",
+          "acRate": 51.9565052854656,
+          "status": "PENDING",
+          "frontendQuestionId": "481"
+        },
+        {
+          "questionId": "484",
+          "title": "Find Permutation",
+          "titleSlug": "find-permutation",
+          "difficulty": "Medium",
+          "acRate": 66.99328199246273,
+          "status": "PENDING",
+          "frontendQuestionId": "484"
+        },
+        {
+          "questionId": "486",
+          "title": "Predict the Winner",
+          "titleSlug": "predict-the-winner",
+          "difficulty": "Medium",
+          "acRate": 55.48654244306418,
+          "status": "PENDING",
+          "frontendQuestionId": "486"
+        },
+        {
+          "questionId": "487",
+          "title": "Max Consecutive Ones II",
+          "titleSlug": "max-consecutive-ones-ii",
+          "difficulty": "Medium",
+          "acRate": 50.90409092789871,
+          "status": "PENDING",
+          "frontendQuestionId": "487"
+        },
+        {
+          "questionId": "490",
+          "title": "The Maze",
+          "titleSlug": "the-maze",
+          "difficulty": "Medium",
+          "acRate": 59.002875106631706,
+          "status": "PENDING",
+          "frontendQuestionId": "490"
+        },
+        {
+          "questionId": "491",
+          "title": "Non-decreasing Subsequences",
+          "titleSlug": "non-decreasing-subsequences",
+          "difficulty": "Medium",
+          "acRate": 61.35473582214088,
+          "status": "PENDING",
+          "frontendQuestionId": "491"
+        },
+        {
+          "questionId": "494",
+          "title": "Target Sum",
+          "titleSlug": "target-sum",
+          "difficulty": "Medium",
+          "acRate": 50.189677633408635,
+          "status": "PENDING",
+          "frontendQuestionId": "494"
+        },
+        {
+          "questionId": "914",
+          "title": "Random Point in Non-overlapping Rectangles",
+          "titleSlug": "random-point-in-non-overlapping-rectangles",
+          "difficulty": "Medium",
+          "acRate": 40.777726520311525,
+          "status": "PENDING",
+          "frontendQuestionId": "497"
+        },
+        {
+          "questionId": "498",
+          "title": "Diagonal Traverse",
+          "titleSlug": "diagonal-traverse",
+          "difficulty": "Medium",
+          "acRate": 62.18652770752057,
+          "status": "PENDING",
+          "frontendQuestionId": "498"
+        },
+        {
+          "questionId": "503",
+          "title": "Next Greater Element II",
+          "titleSlug": "next-greater-element-ii",
+          "difficulty": "Medium",
+          "acRate": 65.38829854741385,
+          "status": "PENDING",
+          "frontendQuestionId": "503"
+        },
+        {
+          "questionId": "505",
+          "title": "The Maze II",
+          "titleSlug": "the-maze-ii",
+          "difficulty": "Medium",
+          "acRate": 53.88467061484603,
+          "status": "PENDING",
+          "frontendQuestionId": "505"
+        },
+        {
+          "questionId": "508",
+          "title": "Most Frequent Subtree Sum",
+          "titleSlug": "most-frequent-subtree-sum",
+          "difficulty": "Medium",
+          "acRate": 67.53742964805383,
+          "status": "PENDING",
+          "frontendQuestionId": "508"
+        },
+        {
+          "questionId": "509",
+          "title": "Inorder Successor in BST II",
+          "titleSlug": "inorder-successor-in-bst-ii",
+          "difficulty": "Medium",
+          "acRate": 60.90618748464534,
+          "status": "PENDING",
+          "frontendQuestionId": "510"
+        },
+        {
+          "questionId": "513",
+          "title": "Find Bottom Left Tree Value",
+          "titleSlug": "find-bottom-left-tree-value",
+          "difficulty": "Medium",
+          "acRate": 71.54957639056403,
+          "status": "PENDING",
+          "frontendQuestionId": "513"
+        },
+        {
+          "questionId": "515",
+          "title": "Find Largest Value in Each Tree Row",
+          "titleSlug": "find-largest-value-in-each-tree-row",
+          "difficulty": "Medium",
+          "acRate": 66.41102451417977,
+          "status": "PENDING",
+          "frontendQuestionId": "515"
+        },
+        {
+          "questionId": "516",
+          "title": "Longest Palindromic Subsequence",
+          "titleSlug": "longest-palindromic-subsequence",
+          "difficulty": "Medium",
+          "acRate": 63.54148964110804,
+          "status": "PENDING",
+          "frontendQuestionId": "516"
+        },
+        {
+          "questionId": "518",
+          "title": "Coin Change II",
+          "titleSlug": "coin-change-ii",
+          "difficulty": "Medium",
+          "acRate": 63.372957539915596,
+          "status": "PENDING",
+          "frontendQuestionId": "518"
+        },
+        {
+          "questionId": "913",
+          "title": "Random Flip Matrix",
+          "titleSlug": "random-flip-matrix",
+          "difficulty": "Medium",
+          "acRate": 43.070565797838526,
+          "status": "PENDING",
+          "frontendQuestionId": "519"
+        },
+        {
+          "questionId": "522",
+          "title": "Longest Uncommon Subsequence II",
+          "titleSlug": "longest-uncommon-subsequence-ii",
+          "difficulty": "Medium",
+          "acRate": 42.531720489771764,
+          "status": "PENDING",
+          "frontendQuestionId": "522"
+        }
+      ]
+    }
+  }
+}

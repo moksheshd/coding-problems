@@ -1,0 +1,396 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "3628",
+          "title": "Find Minimum Time to Reach Last Room II",
+          "titleSlug": "find-minimum-time-to-reach-last-room-ii",
+          "difficulty": "Medium",
+          "acRate": 49.84277261200339,
+          "status": "PENDING",
+          "frontendQuestionId": "3342"
+        },
+        {
+          "questionId": "3679",
+          "title": "Maximum Sized Array",
+          "titleSlug": "maximum-sized-array",
+          "difficulty": "Medium",
+          "acRate": 51.324965132496516,
+          "status": "PENDING",
+          "frontendQuestionId": "3344"
+        },
+        {
+          "questionId": "3622",
+          "title": "Maximum Frequency of an Element After Performing Operations I",
+          "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-i",
+          "difficulty": "Medium",
+          "acRate": 20.397346789806086,
+          "status": "PENDING",
+          "frontendQuestionId": "3346"
+        },
+        {
+          "questionId": "3619",
+          "title": "Adjacent Increasing Subarrays Detection II",
+          "titleSlug": "adjacent-increasing-subarrays-detection-ii",
+          "difficulty": "Medium",
+          "acRate": 41.20140282440315,
+          "status": "PENDING",
+          "frontendQuestionId": "3350"
+        },
+        {
+          "questionId": "3639",
+          "title": "Zero Array Transformation I",
+          "titleSlug": "zero-array-transformation-i",
+          "difficulty": "Medium",
+          "acRate": 41.974071619059366,
+          "status": "PENDING",
+          "frontendQuestionId": "3355"
+        },
+        {
+          "questionId": "3643",
+          "title": "Zero Array Transformation II",
+          "titleSlug": "zero-array-transformation-ii",
+          "difficulty": "Medium",
+          "acRate": 36.984836495070255,
+          "status": "PENDING",
+          "frontendQuestionId": "3356"
+        },
+        {
+          "questionId": "3591",
+          "title": "Shift Distance Between Two Strings",
+          "titleSlug": "shift-distance-between-two-strings",
+          "difficulty": "Medium",
+          "acRate": 53.458978386059385,
+          "status": "PENDING",
+          "frontendQuestionId": "3361"
+        },
+        {
+          "questionId": "3647",
+          "title": "Zero Array Transformation III",
+          "titleSlug": "zero-array-transformation-iii",
+          "difficulty": "Medium",
+          "acRate": 24.818256222618075,
+          "status": "PENDING",
+          "frontendQuestionId": "3362"
+        },
+        {
+          "questionId": "3595",
+          "title": "Rearrange K Substrings to Form Target String",
+          "titleSlug": "rearrange-k-substrings-to-form-target-string",
+          "difficulty": "Medium",
+          "acRate": 51.86991012835042,
+          "status": "PENDING",
+          "frontendQuestionId": "3365"
+        },
+        {
+          "questionId": "3654",
+          "title": "Minimum Array Sum",
+          "titleSlug": "minimum-array-sum",
+          "difficulty": "Medium",
+          "acRate": 28.912343993759748,
+          "status": "PENDING",
+          "frontendQuestionId": "3366"
+        },
+        {
+          "questionId": "3594",
+          "title": "Identify the Largest Outlier in an Array",
+          "titleSlug": "identify-the-largest-outlier-in-an-array",
+          "difficulty": "Medium",
+          "acRate": 31.216183434761057,
+          "status": "PENDING",
+          "frontendQuestionId": "3371"
+        },
+        {
+          "questionId": "3633",
+          "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+          "titleSlug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",
+          "difficulty": "Medium",
+          "acRate": 50.94987411306935,
+          "status": "PENDING",
+          "frontendQuestionId": "3372"
+        },
+        {
+          "questionId": "3649",
+          "title": "Minimum Time to Break Locks I",
+          "titleSlug": "minimum-time-to-break-locks-i",
+          "difficulty": "Medium",
+          "acRate": 29.57237216717914,
+          "status": "PENDING",
+          "frontendQuestionId": "3376"
+        },
+        {
+          "questionId": "3655",
+          "title": "Digit Operations to Make Two Integers Equal",
+          "titleSlug": "digit-operations-to-make-two-integers-equal",
+          "difficulty": "Medium",
+          "acRate": 32.656514382402705,
+          "status": "PENDING",
+          "frontendQuestionId": "3377"
+        },
+        {
+          "questionId": "3681",
+          "title": "Maximum Area Rectangle With Point Constraints I",
+          "titleSlug": "maximum-area-rectangle-with-point-constraints-i",
+          "difficulty": "Medium",
+          "acRate": 50.66571351979269,
+          "status": "PENDING",
+          "frontendQuestionId": "3380"
+        },
+        {
+          "questionId": "3653",
+          "title": "Maximum Subarray Sum With Length Divisible by K",
+          "titleSlug": "maximum-subarray-sum-with-length-divisible-by-k",
+          "difficulty": "Medium",
+          "acRate": 27.660581829659638,
+          "status": "PENDING",
+          "frontendQuestionId": "3381"
+        },
+        {
+          "questionId": "3613",
+          "title": "Maximize Amount After Two Days of Conversions",
+          "titleSlug": "maximize-amount-after-two-days-of-conversions",
+          "difficulty": "Medium",
+          "acRate": 58.46879143544664,
+          "status": "PENDING",
+          "frontendQuestionId": "3387"
+        },
+        {
+          "questionId": "3686",
+          "title": "Count Beautiful Splits in an Array",
+          "titleSlug": "count-beautiful-splits-in-an-array",
+          "difficulty": "Medium",
+          "acRate": 15.647301865531487,
+          "status": "PENDING",
+          "frontendQuestionId": "3388"
+        },
+        {
+          "questionId": "3735",
+          "title": "Design a 3D Binary Matrix with Efficient Layer Tracking",
+          "titleSlug": "design-a-3d-binary-matrix-with-efficient-layer-tracking",
+          "difficulty": "Medium",
+          "acRate": 71.03918228279386,
+          "status": "PENDING",
+          "frontendQuestionId": "3391"
+        },
+        {
+          "questionId": "3659",
+          "title": "Count Paths With the Given XOR Value",
+          "titleSlug": "count-paths-with-the-given-xor-value",
+          "difficulty": "Medium",
+          "acRate": 38.910186199342824,
+          "status": "PENDING",
+          "frontendQuestionId": "3393"
+        },
+        {
+          "questionId": "3657",
+          "title": "Check if Grid can be Cut into Sections",
+          "titleSlug": "check-if-grid-can-be-cut-into-sections",
+          "difficulty": "Medium",
+          "acRate": 41.43895287068123,
+          "status": "PENDING",
+          "frontendQuestionId": "3394"
+        },
+        {
+          "questionId": "3620",
+          "title": "Maximum Number of Distinct Elements After Operations",
+          "titleSlug": "maximum-number-of-distinct-elements-after-operations",
+          "difficulty": "Medium",
+          "acRate": 30.390469440788365,
+          "status": "PENDING",
+          "frontendQuestionId": "3397"
+        },
+        {
+          "questionId": "3740",
+          "title": "Maximum Number of Matching Indices After Right Shifts",
+          "titleSlug": "maximum-number-of-matching-indices-after-right-shifts",
+          "difficulty": "Medium",
+          "acRate": 88.64168618266979,
+          "status": "PENDING",
+          "frontendQuestionId": "3400"
+        },
+        {
+          "questionId": "3683",
+          "title": "Find the Lexicographically Largest String From the Box I",
+          "titleSlug": "find-the-lexicographically-largest-string-from-the-box-i",
+          "difficulty": "Medium",
+          "acRate": 23.13757354158203,
+          "status": "PENDING",
+          "frontendQuestionId": "3403"
+        },
+        {
+          "questionId": "3699",
+          "title": "Count Special Subsequences",
+          "titleSlug": "count-special-subsequences",
+          "difficulty": "Medium",
+          "acRate": 25.970751386787693,
+          "status": "PENDING",
+          "frontendQuestionId": "3404"
+        },
+        {
+          "questionId": "3678",
+          "title": "Design Task Manager",
+          "titleSlug": "design-task-manager",
+          "difficulty": "Medium",
+          "acRate": 33.89497883316045,
+          "status": "PENDING",
+          "frontendQuestionId": "3408"
+        },
+        {
+          "questionId": "3716",
+          "title": "Longest Subsequence With Decreasing Adjacent Difference",
+          "titleSlug": "longest-subsequence-with-decreasing-adjacent-difference",
+          "difficulty": "Medium",
+          "acRate": 13.075194581040153,
+          "status": "PENDING",
+          "frontendQuestionId": "3409"
+        },
+        {
+          "questionId": "3634",
+          "title": "Find Mirror Score of a String",
+          "titleSlug": "find-mirror-score-of-a-string",
+          "difficulty": "Medium",
+          "acRate": 35.34434853480532,
+          "status": "PENDING",
+          "frontendQuestionId": "3412"
+        },
+        {
+          "questionId": "3715",
+          "title": "Maximum Coins From K Consecutive Bags",
+          "titleSlug": "maximum-coins-from-k-consecutive-bags",
+          "difficulty": "Medium",
+          "acRate": 22.57688270284981,
+          "status": "PENDING",
+          "frontendQuestionId": "3413"
+        },
+        {
+          "questionId": "3677",
+          "title": "Maximum Amount of Money Robot Can Earn",
+          "titleSlug": "maximum-amount-of-money-robot-can-earn",
+          "difficulty": "Medium",
+          "acRate": 29.683811653621568,
+          "status": "PENDING",
+          "frontendQuestionId": "3418"
+        },
+        {
+          "questionId": "3720",
+          "title": "Minimize the Maximum Edge Weight of Graph",
+          "titleSlug": "minimize-the-maximum-edge-weight-of-graph",
+          "difficulty": "Medium",
+          "acRate": 42.2359377191752,
+          "status": "PENDING",
+          "frontendQuestionId": "3419"
+        },
+        {
+          "questionId": "3767",
+          "title": "Find Students Who Improved",
+          "titleSlug": "find-students-who-improved",
+          "difficulty": "Medium",
+          "acRate": 51.284246575342465,
+          "status": "PENDING",
+          "frontendQuestionId": "3421"
+        },
+        {
+          "questionId": "3698",
+          "title": "Minimum Operations to Make Subarray Elements Equal",
+          "titleSlug": "minimum-operations-to-make-subarray-elements-equal",
+          "difficulty": "Medium",
+          "acRate": 51.3184584178499,
+          "status": "PENDING",
+          "frontendQuestionId": "3422"
+        },
+        {
+          "questionId": "3712",
+          "title": "Minimum Cost to Make Arrays Identical",
+          "titleSlug": "minimum-cost-to-make-arrays-identical",
+          "difficulty": "Medium",
+          "acRate": 36.08912988223333,
+          "status": "PENDING",
+          "frontendQuestionId": "3424"
+        },
+        {
+          "questionId": "3714",
+          "title": "Maximum and Minimum Sums of at Most Size K Subsequences",
+          "titleSlug": "maximum-and-minimum-sums-of-at-most-size-k-subsequences",
+          "difficulty": "Medium",
+          "acRate": 19.772598808643853,
+          "status": "PENDING",
+          "frontendQuestionId": "3428"
+        },
+        {
+          "questionId": "3737",
+          "title": "Paint House IV",
+          "titleSlug": "paint-house-iv",
+          "difficulty": "Medium",
+          "acRate": 44.810615499626216,
+          "status": "PENDING",
+          "frontendQuestionId": "3429"
+        },
+        {
+          "questionId": "3758",
+          "title": "Minimum Unlocked Indices to Sort Nums",
+          "titleSlug": "minimum-unlocked-indices-to-sort-nums",
+          "difficulty": "Medium",
+          "acRate": 63.802083333333336,
+          "status": "PENDING",
+          "frontendQuestionId": "3431"
+        },
+        {
+          "questionId": "3721",
+          "title": "Count Mentions Per User",
+          "titleSlug": "count-mentions-per-user",
+          "difficulty": "Medium",
+          "acRate": 29.47594464448397,
+          "status": "PENDING",
+          "frontendQuestionId": "3433"
+        },
+        {
+          "questionId": "3751",
+          "title": "Maximum Frequency After Subarray Operation",
+          "titleSlug": "maximum-frequency-after-subarray-operation",
+          "difficulty": "Medium",
+          "acRate": 22.33881482104555,
+          "status": "PENDING",
+          "frontendQuestionId": "3434"
+        },
+        {
+          "questionId": "3780",
+          "title": "Permutations III",
+          "titleSlug": "permutations-iii",
+          "difficulty": "Medium",
+          "acRate": 89.53068592057761,
+          "status": "PENDING",
+          "frontendQuestionId": "3437"
+        },
+        {
+          "questionId": "3743",
+          "title": "Reschedule Meetings for Maximum Free Time I",
+          "titleSlug": "reschedule-meetings-for-maximum-free-time-i",
+          "difficulty": "Medium",
+          "acRate": 27.874762808349146,
+          "status": "PENDING",
+          "frontendQuestionId": "3439"
+        },
+        {
+          "questionId": "3741",
+          "title": "Reschedule Meetings for Maximum Free Time II",
+          "titleSlug": "reschedule-meetings-for-maximum-free-time-ii",
+          "difficulty": "Medium",
+          "acRate": 36.06693260115008,
+          "status": "PENDING",
+          "frontendQuestionId": "3440"
+        },
+        {
+          "questionId": "3754",
+          "title": "Maximum Manhattan Distance After K Changes",
+          "titleSlug": "maximum-manhattan-distance-after-k-changes",
+          "difficulty": "Medium",
+          "acRate": 27.295641000296534,
+          "status": "PENDING",
+          "frontendQuestionId": "3443"
+        }
+      ]
+    }
+  }
+}

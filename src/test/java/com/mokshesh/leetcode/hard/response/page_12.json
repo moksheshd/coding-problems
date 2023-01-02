@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 796,
+      "questions": [
+        {
+          "questionId": "2637",
+          "title": "Merge Overlapping Events in the Same Hall",
+          "titleSlug": "merge-overlapping-events-in-the-same-hall",
+          "difficulty": "Hard",
+          "acRate": 33.691275167785236,
+          "status": "PENDING",
+          "frontendQuestionId": "2494"
+        },
+        {
+          "questionId": "2592",
+          "title": "Minimum Total Cost to Make Arrays Unequal",
+          "titleSlug": "minimum-total-cost-to-make-arrays-unequal",
+          "difficulty": "Hard",
+          "acRate": 41.466425279789334,
+          "status": "PENDING",
+          "frontendQuestionId": "2499"
+        },
+        {
+          "questionId": "2588",
+          "title": "Maximum Number of Points From Grid Queries",
+          "titleSlug": "maximum-number-of-points-from-grid-queries",
+          "difficulty": "Hard",
+          "acRate": 39.14388860237236,
+          "status": "PENDING",
+          "frontendQuestionId": "2503"
+        },
+        {
+          "questionId": "2596",
+          "title": "Add Edges to Make Degrees of All Nodes Even",
+          "titleSlug": "add-edges-to-make-degrees-of-all-nodes-even",
+          "difficulty": "Hard",
+          "acRate": 33.25605680868839,
+          "status": "PENDING",
+          "frontendQuestionId": "2508"
+        },
+        {
+          "questionId": "2597",
+          "title": "Cycle Length Queries in a Tree",
+          "titleSlug": "cycle-length-queries-in-a-tree",
+          "difficulty": "Hard",
+          "acRate": 57.433692301837965,
+          "status": "PENDING",
+          "frontendQuestionId": "2509"
+        },
+        {
+          "questionId": "2605",
+          "title": "Count Anagrams",
+          "titleSlug": "count-anagrams",
+          "difficulty": "Hard",
+          "acRate": 34.56293369313801,
+          "status": "PENDING",
+          "frontendQuestionId": "2514"
+        },
+        {
+          "questionId": "2601",
+          "title": "Number of Great Partitions",
+          "titleSlug": "number-of-great-partitions",
+          "difficulty": "Hard",
+          "acRate": 32.260743839788354,
+          "status": "PENDING",
+          "frontendQuestionId": "2518"
+        },
+        {
+          "questionId": "2658",
+          "title": "Count the Number of K-Big Indices",
+          "titleSlug": "count-the-number-of-k-big-indices",
+          "difficulty": "Hard",
+          "acRate": 53.20528656126482,
+          "status": "PENDING",
+          "frontendQuestionId": "2519"
+        },
+        {
+          "questionId": "2667",
+          "title": "Maximum Frequency Score of a Subarray",
+          "titleSlug": "maximum-frequency-score-of-a-subarray",
+          "difficulty": "Hard",
+          "acRate": 35.25179856115108,
+          "status": "PENDING",
+          "frontendQuestionId": "2524"
+        },
+        {
+          "questionId": "2618",
+          "title": "Maximize the Minimum Powered City",
+          "titleSlug": "maximize-the-minimum-powered-city",
+          "difficulty": "Hard",
+          "acRate": 32.71427397485414,
+          "status": "PENDING",
+          "frontendQuestionId": "2528"
+        },
+        {
+          "questionId": "2642",
+          "title": "Time to Cross a Bridge",
+          "titleSlug": "time-to-cross-a-bridge",
+          "difficulty": "Hard",
+          "acRate": 43.16651501364877,
+          "status": "PENDING",
+          "frontendQuestionId": "2532"
+        },
+        {
+          "questionId": "2617",
+          "title": "Time Taken to Cross the Door",
+          "titleSlug": "time-taken-to-cross-the-door",
+          "difficulty": "Hard",
+          "acRate": 49.092295230380714,
+          "status": "PENDING",
+          "frontendQuestionId": "2534"
+        },
+        {
+          "questionId": "2627",
+          "title": "Difference Between Maximum and Minimum Price Sum",
+          "titleSlug": "difference-between-maximum-and-minimum-price-sum",
+          "difficulty": "Hard",
+          "acRate": 31.995873401864337,
+          "status": "PENDING",
+          "frontendQuestionId": "2538"
+        },
+        {
+          "questionId": "2635",
+          "title": "Check if Point Is Reachable",
+          "titleSlug": "check-if-point-is-reachable",
+          "difficulty": "Hard",
+          "acRate": 43.41401769223292,
+          "status": "PENDING",
+          "frontendQuestionId": "2543"
+        },
+        {
+          "questionId": "2633",
+          "title": "Minimum Cost to Split an Array",
+          "titleSlug": "minimum-cost-to-split-an-array",
+          "difficulty": "Hard",
+          "acRate": 41.60331085223789,
+          "status": "PENDING",
+          "frontendQuestionId": "2547"
+        },
+        {
+          "questionId": "2681",
+          "title": "Put Marbles in Bags",
+          "titleSlug": "put-marbles-in-bags",
+          "difficulty": "Hard",
+          "acRate": 65.97313380589831,
+          "status": "PENDING",
+          "frontendQuestionId": "2551"
+        },
+        {
+          "questionId": "2682",
+          "title": "Count Increasing Quadruplets",
+          "titleSlug": "count-increasing-quadruplets",
+          "difficulty": "Hard",
+          "acRate": 33.55381056335733,
+          "status": "PENDING",
+          "frontendQuestionId": "2552"
+        },
+        {
+          "questionId": "2689",
+          "title": "Rearranging Fruits",
+          "titleSlug": "rearranging-fruits",
+          "difficulty": "Hard",
+          "acRate": 34.36574531095755,
+          "status": "PENDING",
+          "frontendQuestionId": "2561"
+        },
+        {
+          "questionId": "2701",
+          "title": "Subsequence With the Minimum Score",
+          "titleSlug": "subsequence-with-the-minimum-score",
+          "difficulty": "Hard",
+          "acRate": 32.30221009136055,
+          "status": "PENDING",
+          "frontendQuestionId": "2565"
+        },
+        {
+          "questionId": "2703",
+          "title": "Handling Sum Queries After Update",
+          "titleSlug": "handling-sum-queries-after-update",
+          "difficulty": "Hard",
+          "acRate": 28.860252265379536,
+          "status": "PENDING",
+          "frontendQuestionId": "2569"
+        },
+        {
+          "questionId": "2708",
+          "title": "Find the String with LCP",
+          "titleSlug": "find-the-string-with-lcp",
+          "difficulty": "Hard",
+          "acRate": 30.946738885127512,
+          "status": "PENDING",
+          "frontendQuestionId": "2573"
+        },
+        {
+          "questionId": "2711",
+          "title": "Minimum Time to Visit a Cell In a Grid",
+          "titleSlug": "minimum-time-to-visit-a-cell-in-a-grid",
+          "difficulty": "Hard",
+          "acRate": 57.239071652290555,
+          "status": "PENDING",
+          "frontendQuestionId": "2577"
+        },
+        {
+          "questionId": "2652",
+          "title": "Count Number of Possible Root Nodes",
+          "titleSlug": "count-number-of-possible-root-nodes",
+          "difficulty": "Hard",
+          "acRate": 46.00741024658234,
+          "status": "PENDING",
+          "frontendQuestionId": "2581"
+        },
+        {
+          "questionId": "2647",
+          "title": "Split the Array to Make Coprime Products",
+          "titleSlug": "split-the-array-to-make-coprime-products",
+          "difficulty": "Hard",
+          "acRate": 23.52405721716515,
+          "status": "PENDING",
+          "frontendQuestionId": "2584"
+        },
+        {
+          "questionId": "2648",
+          "title": "Number of Ways to Earn Points",
+          "titleSlug": "number-of-ways-to-earn-points",
+          "difficulty": "Hard",
+          "acRate": 58.1055863231399,
+          "status": "PENDING",
+          "frontendQuestionId": "2585"
+        },
+        {
+          "questionId": "2657",
+          "title": "Minimum Time to Complete All Tasks",
+          "titleSlug": "minimum-time-to-complete-all-tasks",
+          "difficulty": "Hard",
+          "acRate": 38.25961637442954,
+          "status": "PENDING",
+          "frontendQuestionId": "2589"
+        },
+        {
+          "questionId": "2717",
+          "title": "Collect Coins in a Tree",
+          "titleSlug": "collect-coins-in-a-tree",
+          "difficulty": "Hard",
+          "acRate": 36.08469109254818,
+          "status": "PENDING",
+          "frontendQuestionId": "2603"
+        },
+        {
+          "questionId": "2666",
+          "title": "Minimum Time to Eat All Grains",
+          "titleSlug": "minimum-time-to-eat-all-grains",
+          "difficulty": "Hard",
+          "acRate": 39.390756302521005,
+          "status": "PENDING",
+          "frontendQuestionId": "2604"
+        },
+        {
+          "questionId": "2671",
+          "title": "Shortest Cycle in a Graph",
+          "titleSlug": "shortest-cycle-in-a-graph",
+          "difficulty": "Hard",
+          "acRate": 36.866177881321086,
+          "status": "PENDING",
+          "frontendQuestionId": "2608"
+        },
+        {
+          "questionId": "2726",
+          "title": "Minimum Reverse Operations",
+          "titleSlug": "minimum-reverse-operations",
+          "difficulty": "Hard",
+          "acRate": 16.50922443661346,
+          "status": "PENDING",
+          "frontendQuestionId": "2612"
+        },
+        {
+          "questionId": "2719",
+          "title": "Beautiful Pairs",
+          "titleSlug": "beautiful-pairs",
+          "difficulty": "Hard",
+          "acRate": 40.68919814446653,
+          "status": "PENDING",
+          "frontendQuestionId": "2613"
+        },
+        {
+          "questionId": "2697",
+          "title": "Minimum Number of Visited Cells in a Grid",
+          "titleSlug": "minimum-number-of-visited-cells-in-a-grid",
+          "difficulty": "Hard",
+          "acRate": 23.366736391496815,
+          "status": "PENDING",
+          "frontendQuestionId": "2617"
+        },
+        {
+          "questionId": "2744",
+          "title": "Memoize II",
+          "titleSlug": "memoize-ii",
+          "difficulty": "Hard",
+          "acRate": 31.966490299823636,
+          "status": "PENDING",
+          "frontendQuestionId": "2630"
+        },
+        {
+          "questionId": "2678",
+          "title": "Design Graph With Shortest Path Calculator",
+          "titleSlug": "design-graph-with-shortest-path-calculator",
+          "difficulty": "Hard",
+          "acRate": 70.62951743994242,
+          "status": "PENDING",
+          "frontendQuestionId": "2642"
+        },
+        {
+          "questionId": "2739",
+          "title": "Minimize the Total Price of the Trips",
+          "titleSlug": "minimize-the-total-price-of-the-trips",
+          "difficulty": "Hard",
+          "acRate": 46.28950220962228,
+          "status": "PENDING",
+          "frontendQuestionId": "2646"
+        },
+        {
+          "questionId": "2540",
+          "title": "Color the Triangle Red",
+          "titleSlug": "color-the-triangle-red",
+          "difficulty": "Hard",
+          "acRate": 67.61061946902655,
+          "status": "PENDING",
+          "frontendQuestionId": "2647"
+        },
+        {
+          "questionId": "2788",
+          "title": "Design Cancellable Function",
+          "titleSlug": "design-cancellable-function",
+          "difficulty": "Hard",
+          "acRate": 50.583441378032965,
+          "status": "PENDING",
+          "frontendQuestionId": "2650"
+        },
+        {
+          "questionId": "2765",
+          "title": "Make Array Empty",
+          "titleSlug": "make-array-empty",
+          "difficulty": "Hard",
+          "acRate": 25.408165409426154,
+          "status": "PENDING",
+          "frontendQuestionId": "2659"
+        },
+        {
+          "questionId": "2687",
+          "title": "Lexicographically Smallest Beautiful String",
+          "titleSlug": "lexicographically-smallest-beautiful-string",
+          "difficulty": "Hard",
+          "acRate": 38.84593789141796,
+          "status": "PENDING",
+          "frontendQuestionId": "2663"
+        },
+        {
+          "questionId": "2769",
+          "title": "Array of Objects to Matrix",
+          "titleSlug": "array-of-objects-to-matrix",
+          "difficulty": "Hard",
+          "acRate": 68.57892335766424,
+          "status": "PENDING",
+          "frontendQuestionId": "2675"
+        },
+        {
+          "questionId": "2784",
+          "title": "Power of Heroes",
+          "titleSlug": "power-of-heroes",
+          "difficulty": "Hard",
+          "acRate": 30.98672472708579,
+          "status": "PENDING",
+          "frontendQuestionId": "2681"
+        },
+        {
+          "questionId": "2773",
+          "title": "Immutability Helper",
+          "titleSlug": "immutability-helper",
+          "difficulty": "Hard",
+          "acRate": 43.04538799414349,
+          "status": "PENDING",
+          "frontendQuestionId": "2691"
+        },
+        {
+          "questionId": "2803",
+          "title": "Modify Graph Edge Weights",
+          "titleSlug": "modify-graph-edge-weights",
+          "difficulty": "Hard",
+          "acRate": 56.63993758397989,
+          "status": "PENDING",
+          "frontendQuestionId": "2699"
+        },
+        {
+          "questionId": "2853",
+          "title": "Consecutive Transactions with Increasing Amounts",
+          "titleSlug": "consecutive-transactions-with-increasing-amounts",
+          "difficulty": "Hard",
+          "acRate": 33.54321200621011,
+          "status": "PENDING",
+          "frontendQuestionId": "2701"
+        },
+        {
+          "questionId": "2729",
+          "title": "Minimum Operations to Make Numbers Non-positive",
+          "titleSlug": "minimum-operations-to-make-numbers-non-positive",
+          "difficulty": "Hard",
+          "acRate": 40.99473257698541,
+          "status": "PENDING",
+          "frontendQuestionId": "2702"
+        },
+        {
+          "questionId": "2827",
+          "title": "Greatest Common Divisor Traversal",
+          "titleSlug": "greatest-common-divisor-traversal",
+          "difficulty": "Hard",
+          "acRate": 42.05972046484236,
+          "status": "PENDING",
+          "frontendQuestionId": "2709"
+        },
+        {
+          "questionId": "2818",
+          "title": "Maximum Strictly Increasing Cells in a Matrix",
+          "titleSlug": "maximum-strictly-increasing-cells-in-a-matrix",
+          "difficulty": "Hard",
+          "acRate": 30.491016938264202,
+          "status": "PENDING",
+          "frontendQuestionId": "2713"
+        },
+        {
+          "questionId": "2865",
+          "title": "Find Shortest Path with K Hops",
+          "titleSlug": "find-shortest-path-with-k-hops",
+          "difficulty": "Hard",
+          "acRate": 61.0178117048346,
+          "status": "PENDING",
+          "frontendQuestionId": "2714"
+        },
+        {
+          "questionId": "2757",
+          "title": "Count of Integers",
+          "titleSlug": "count-of-integers",
+          "difficulty": "Hard",
+          "acRate": 35.07094299173507,
+          "status": "PENDING",
+          "frontendQuestionId": "2719"
+        },
+        {
+          "questionId": "2874",
+          "title": "Popularity Percentage",
+          "titleSlug": "popularity-percentage",
+          "difficulty": "Hard",
+          "acRate": 54.16393442622951,
+          "status": "PENDING",
+          "frontendQuestionId": "2720"
+        }
+      ]
+    }
+  }
+}

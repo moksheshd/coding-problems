@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "1495",
+          "title": "Number of Trusted Contacts of a Customer",
+          "titleSlug": "number-of-trusted-contacts-of-a-customer",
+          "difficulty": "Medium",
+          "acRate": 75.07103488411899,
+          "status": "PENDING",
+          "frontendQuestionId": "1364"
+        },
+        {
+          "questionId": "1483",
+          "title": "Rank Teams by Votes",
+          "titleSlug": "rank-teams-by-votes",
+          "difficulty": "Medium",
+          "acRate": 58.85231065105493,
+          "status": "PENDING",
+          "frontendQuestionId": "1366"
+        },
+        {
+          "questionId": "1484",
+          "title": "Linked List in Binary Tree",
+          "titleSlug": "linked-list-in-binary-tree",
+          "difficulty": "Medium",
+          "acRate": 52.05771271406386,
+          "status": "PENDING",
+          "frontendQuestionId": "1367"
+        },
+        {
+          "questionId": "1473",
+          "title": "Find the Longest Substring Containing Vowels in Even Counts",
+          "titleSlug": "find-the-longest-substring-containing-vowels-in-even-counts",
+          "difficulty": "Medium",
+          "acRate": 76.17097709447518,
+          "status": "PENDING",
+          "frontendQuestionId": "1371"
+        },
+        {
+          "questionId": "1474",
+          "title": "Longest ZigZag Path in a Binary Tree",
+          "titleSlug": "longest-zigzag-path-in-a-binary-tree",
+          "difficulty": "Medium",
+          "acRate": 66.16279997300167,
+          "status": "PENDING",
+          "frontendQuestionId": "1372"
+        },
+        {
+          "questionId": "1491",
+          "title": "Number of Times Binary String Is Prefix-Aligned",
+          "titleSlug": "number-of-times-binary-string-is-prefix-aligned",
+          "difficulty": "Medium",
+          "acRate": 65.74304336040167,
+          "status": "PENDING",
+          "frontendQuestionId": "1375"
+        },
+        {
+          "questionId": "1492",
+          "title": "Time Needed to Inform All Employees",
+          "titleSlug": "time-needed-to-inform-all-employees",
+          "difficulty": "Medium",
+          "acRate": 60.13939560906406,
+          "status": "PENDING",
+          "frontendQuestionId": "1376"
+        },
+        {
+          "questionId": "1497",
+          "title": "Design a Stack With Increment Operation",
+          "titleSlug": "design-a-stack-with-increment-operation",
+          "difficulty": "Medium",
+          "acRate": 80.50793760115707,
+          "status": "PENDING",
+          "frontendQuestionId": "1381"
+        },
+        {
+          "questionId": "1285",
+          "title": "Balance a Binary Search Tree",
+          "titleSlug": "balance-a-binary-search-tree",
+          "difficulty": "Medium",
+          "acRate": 84.68973341603369,
+          "status": "PENDING",
+          "frontendQuestionId": "1382"
+        },
+        {
+          "questionId": "1487",
+          "title": "Cinema Seat Allocation",
+          "titleSlug": "cinema-seat-allocation",
+          "difficulty": "Medium",
+          "acRate": 42.434713965814446,
+          "status": "PENDING",
+          "frontendQuestionId": "1386"
+        },
+        {
+          "questionId": "1488",
+          "title": "Sort Integers by The Power Value",
+          "titleSlug": "sort-integers-by-the-power-value",
+          "difficulty": "Medium",
+          "acRate": 70.49576701198042,
+          "status": "PENDING",
+          "frontendQuestionId": "1387"
+        },
+        {
+          "questionId": "1284",
+          "title": "Four Divisors",
+          "titleSlug": "four-divisors",
+          "difficulty": "Medium",
+          "acRate": 44.15778943950392,
+          "status": "PENDING",
+          "frontendQuestionId": "1390"
+        },
+        {
+          "questionId": "1507",
+          "title": "Check if There is a Valid Path in a Grid",
+          "titleSlug": "check-if-there-is-a-valid-path-in-a-grid",
+          "difficulty": "Medium",
+          "acRate": 48.59662588228212,
+          "status": "PENDING",
+          "frontendQuestionId": "1391"
+        },
+        {
+          "questionId": "1523",
+          "title": "Capital Gain/Loss",
+          "titleSlug": "capital-gainloss",
+          "difficulty": "Medium",
+          "acRate": 85.14446180315225,
+          "status": "PENDING",
+          "frontendQuestionId": "1393"
+        },
+        {
+          "questionId": "1511",
+          "title": "Count Number of Teams",
+          "titleSlug": "count-number-of-teams",
+          "difficulty": "Medium",
+          "acRate": 70.07160651392248,
+          "status": "PENDING",
+          "frontendQuestionId": "1395"
+        },
+        {
+          "questionId": "1512",
+          "title": "Design Underground System",
+          "titleSlug": "design-underground-system",
+          "difficulty": "Medium",
+          "acRate": 74.81471479120697,
+          "status": "PENDING",
+          "frontendQuestionId": "1396"
+        },
+        {
+          "questionId": "1536",
+          "title": "Customers Who Bought Products A and B but Not C",
+          "titleSlug": "customers-who-bought-products-a-and-b-but-not-c",
+          "difficulty": "Medium",
+          "acRate": 72.14640274169746,
+          "status": "PENDING",
+          "frontendQuestionId": "1398"
+        },
+        {
+          "questionId": "1502",
+          "title": "Construct K Palindrome Strings",
+          "titleSlug": "construct-k-palindrome-strings",
+          "difficulty": "Medium",
+          "acRate": 68.82281226966434,
+          "status": "PENDING",
+          "frontendQuestionId": "1400"
+        },
+        {
+          "questionId": "1501",
+          "title": "Circle and Rectangle Overlapping",
+          "titleSlug": "circle-and-rectangle-overlapping",
+          "difficulty": "Medium",
+          "acRate": 48.452626935667354,
+          "status": "PENDING",
+          "frontendQuestionId": "1401"
+        },
+        {
+          "questionId": "1520",
+          "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+          "titleSlug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+          "difficulty": "Medium",
+          "acRate": 61.430900655843026,
+          "status": "PENDING",
+          "frontendQuestionId": "1404"
+        },
+        {
+          "questionId": "1304",
+          "title": "Longest Happy String",
+          "titleSlug": "longest-happy-string",
+          "difficulty": "Medium",
+          "acRate": 65.4644023910427,
+          "status": "PENDING",
+          "frontendQuestionId": "1405"
+        },
+        {
+          "questionId": "1525",
+          "title": "Queries on a Permutation With Key",
+          "titleSlug": "queries-on-a-permutation-with-key",
+          "difficulty": "Medium",
+          "acRate": 84.43533311340465,
+          "status": "PENDING",
+          "frontendQuestionId": "1409"
+        },
+        {
+          "questionId": "1526",
+          "title": "HTML Entity Parser",
+          "titleSlug": "html-entity-parser",
+          "difficulty": "Medium",
+          "acRate": 50.49541150232167,
+          "status": "PENDING",
+          "frontendQuestionId": "1410"
+        },
+        {
+          "questionId": "1515",
+          "title": "Find the Minimum Number of Fibonacci Numbers Whose Sum Is K",
+          "titleSlug": "find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k",
+          "difficulty": "Medium",
+          "acRate": 64.98572787821124,
+          "status": "PENDING",
+          "frontendQuestionId": "1414"
+        },
+        {
+          "questionId": "1516",
+          "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+          "titleSlug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+          "difficulty": "Medium",
+          "acRate": 74.93186618518772,
+          "status": "PENDING",
+          "frontendQuestionId": "1415"
+        },
+        {
+          "questionId": "1533",
+          "title": "Display Table of Food Orders in a Restaurant",
+          "titleSlug": "display-table-of-food-orders-in-a-restaurant",
+          "difficulty": "Medium",
+          "acRate": 75.52736701941272,
+          "status": "PENDING",
+          "frontendQuestionId": "1418"
+        },
+        {
+          "questionId": "1534",
+          "title": "Minimum Number of Frogs Croaking",
+          "titleSlug": "minimum-number-of-frogs-croaking",
+          "difficulty": "Medium",
+          "acRate": 50.57387435843673,
+          "status": "PENDING",
+          "frontendQuestionId": "1419"
+        },
+        {
+          "questionId": "1538",
+          "title": "Maximum Points You Can Obtain from Cards",
+          "titleSlug": "maximum-points-you-can-obtain-from-cards",
+          "difficulty": "Medium",
+          "acRate": 54.68826984134479,
+          "status": "PENDING",
+          "frontendQuestionId": "1423"
+        },
+        {
+          "questionId": "1539",
+          "title": "Diagonal Traverse II",
+          "titleSlug": "diagonal-traverse-ii",
+          "difficulty": "Medium",
+          "acRate": 57.55602467729265,
+          "status": "PENDING",
+          "frontendQuestionId": "1424"
+        },
+        {
+          "questionId": "1374",
+          "title": "Leftmost Column with at Least a One",
+          "titleSlug": "leftmost-column-with-at-least-a-one",
+          "difficulty": "Medium",
+          "acRate": 54.818972564947735,
+          "status": "PENDING",
+          "frontendQuestionId": "1428"
+        },
+        {
+          "questionId": "1366",
+          "title": "First Unique Number",
+          "titleSlug": "first-unique-number",
+          "difficulty": "Medium",
+          "acRate": 55.041031652989446,
+          "status": "PENDING",
+          "frontendQuestionId": "1429"
+        },
+        {
+          "questionId": "1432",
+          "title": "Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree",
+          "titleSlug": "check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree",
+          "difficulty": "Medium",
+          "acRate": 47.15206011218999,
+          "status": "PENDING",
+          "frontendQuestionId": "1430"
+        },
+        {
+          "questionId": "1529",
+          "title": "Max Difference You Can Get From Changing an Integer",
+          "titleSlug": "max-difference-you-can-get-from-changing-an-integer",
+          "difficulty": "Medium",
+          "acRate": 40.710023262870436,
+          "status": "PENDING",
+          "frontendQuestionId": "1432"
+        },
+        {
+          "questionId": "1530",
+          "title": "Check If a String Can Break Another String",
+          "titleSlug": "check-if-a-string-can-break-another-string",
+          "difficulty": "Medium",
+          "acRate": 70.12108050217172,
+          "status": "PENDING",
+          "frontendQuestionId": "1433"
+        },
+        {
+          "questionId": "1549",
+          "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+          "titleSlug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+          "difficulty": "Medium",
+          "acRate": 56.67609230229766,
+          "status": "PENDING",
+          "frontendQuestionId": "1438"
+        },
+        {
+          "questionId": "1565",
+          "title": "Evaluate Boolean Expression",
+          "titleSlug": "evaluate-boolean-expression",
+          "difficulty": "Medium",
+          "acRate": 72.44048009444481,
+          "status": "PENDING",
+          "frontendQuestionId": "1440"
+        },
+        {
+          "questionId": "1552",
+          "title": "Build an Array With Stack Operations",
+          "titleSlug": "build-an-array-with-stack-operations",
+          "difficulty": "Medium",
+          "acRate": 80.12945658131349,
+          "status": "PENDING",
+          "frontendQuestionId": "1441"
+        },
+        {
+          "questionId": "1553",
+          "title": "Count Triplets That Can Form Two Arrays of Equal XOR",
+          "titleSlug": "count-triplets-that-can-form-two-arrays-of-equal-xor",
+          "difficulty": "Medium",
+          "acRate": 84.86947706344513,
+          "status": "PENDING",
+          "frontendQuestionId": "1442"
+        },
+        {
+          "questionId": "1554",
+          "title": "Minimum Time to Collect All Apples in a Tree",
+          "titleSlug": "minimum-time-to-collect-all-apples-in-a-tree",
+          "difficulty": "Medium",
+          "acRate": 62.76966161026838,
+          "status": "PENDING",
+          "frontendQuestionId": "1443"
+        },
+        {
+          "questionId": "1578",
+          "title": "Apples & Oranges",
+          "titleSlug": "apples-oranges",
+          "difficulty": "Medium",
+          "acRate": 86.02996420205949,
+          "status": "PENDING",
+          "frontendQuestionId": "1445"
+        },
+        {
+          "questionId": "1543",
+          "title": "Simplified Fractions",
+          "titleSlug": "simplified-fractions",
+          "difficulty": "Medium",
+          "acRate": 67.7701515782611,
+          "status": "PENDING",
+          "frontendQuestionId": "1447"
+        },
+        {
+          "questionId": "1544",
+          "title": "Count Good Nodes in Binary Tree",
+          "titleSlug": "count-good-nodes-in-binary-tree",
+          "difficulty": "Medium",
+          "acRate": 73.25119502949423,
+          "status": "PENDING",
+          "frontendQuestionId": "1448"
+        },
+        {
+          "questionId": "1561",
+          "title": "Rearrange Words in a Sentence",
+          "titleSlug": "rearrange-words-in-a-sentence",
+          "difficulty": "Medium",
+          "acRate": 65.37834368386358,
+          "status": "PENDING",
+          "frontendQuestionId": "1451"
+        },
+        {
+          "questionId": "1562",
+          "title": "People Whose List of Favorite Companies Is Not a Subset of Another List",
+          "titleSlug": "people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list",
+          "difficulty": "Medium",
+          "acRate": 59.04414960776603,
+          "status": "PENDING",
+          "frontendQuestionId": "1452"
+        },
+        {
+          "questionId": "1579",
+          "title": "Active Users",
+          "titleSlug": "active-users",
+          "difficulty": "Medium",
+          "acRate": 36.64360730395934,
+          "status": "PENDING",
+          "frontendQuestionId": "1454"
+        },
+        {
+          "questionId": "1567",
+          "title": "Maximum Number of Vowels in a Substring of Given Length",
+          "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+          "difficulty": "Medium",
+          "acRate": 59.662381126034205,
+          "status": "PENDING",
+          "frontendQuestionId": "1456"
+        },
+        {
+          "questionId": "1568",
+          "title": "Pseudo-Palindromic Paths in a Binary Tree",
+          "titleSlug": "pseudo-palindromic-paths-in-a-binary-tree",
+          "difficulty": "Medium",
+          "acRate": 68.34238471609369,
+          "status": "PENDING",
+          "frontendQuestionId": "1457"
+        },
+        {
+          "questionId": "1607",
+          "title": "Rectangles Area",
+          "titleSlug": "rectangles-area",
+          "difficulty": "Medium",
+          "acRate": 68.5771632471008,
+          "status": "PENDING",
+          "frontendQuestionId": "1459"
+        },
+        {
+          "questionId": "1557",
+          "title": "Check If a String Contains All Binary Codes of Size K",
+          "titleSlug": "check-if-a-string-contains-all-binary-codes-of-size-k",
+          "difficulty": "Medium",
+          "acRate": 56.653153586062885,
+          "status": "PENDING",
+          "frontendQuestionId": "1461"
+        },
+        {
+          "questionId": "1558",
+          "title": "Course Schedule IV",
+          "titleSlug": "course-schedule-iv",
+          "difficulty": "Medium",
+          "acRate": 59.6757982079083,
+          "status": "PENDING",
+          "frontendQuestionId": "1462"
+        }
+      ]
+    }
+  }
+}

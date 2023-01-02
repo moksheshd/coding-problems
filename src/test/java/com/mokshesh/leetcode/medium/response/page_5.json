@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "351",
+          "title": "Android Unlock Patterns",
+          "titleSlug": "android-unlock-patterns",
+          "difficulty": "Medium",
+          "acRate": 53.12873708396598,
+          "status": "PENDING",
+          "frontendQuestionId": "351"
+        },
+        {
+          "questionId": "353",
+          "title": "Design Snake Game",
+          "titleSlug": "design-snake-game",
+          "difficulty": "Medium",
+          "acRate": 38.97685539567727,
+          "status": "PENDING",
+          "frontendQuestionId": "353"
+        },
+        {
+          "questionId": "355",
+          "title": "Design Twitter",
+          "titleSlug": "design-twitter",
+          "difficulty": "Medium",
+          "acRate": 41.427140674724846,
+          "status": "PENDING",
+          "frontendQuestionId": "355"
+        },
+        {
+          "questionId": "356",
+          "title": "Line Reflection",
+          "titleSlug": "line-reflection",
+          "difficulty": "Medium",
+          "acRate": 35.848443437104194,
+          "status": "PENDING",
+          "frontendQuestionId": "356"
+        },
+        {
+          "questionId": "357",
+          "title": "Count Numbers with Unique Digits",
+          "titleSlug": "count-numbers-with-unique-digits",
+          "difficulty": "Medium",
+          "acRate": 53.74336018267765,
+          "status": "PENDING",
+          "frontendQuestionId": "357"
+        },
+        {
+          "questionId": "360",
+          "title": "Sort Transformed Array",
+          "titleSlug": "sort-transformed-array",
+          "difficulty": "Medium",
+          "acRate": 56.60415900641419,
+          "status": "PENDING",
+          "frontendQuestionId": "360"
+        },
+        {
+          "questionId": "361",
+          "title": "Bomb Enemy",
+          "titleSlug": "bomb-enemy",
+          "difficulty": "Medium",
+          "acRate": 51.993909559539865,
+          "status": "PENDING",
+          "frontendQuestionId": "361"
+        },
+        {
+          "questionId": "362",
+          "title": "Design Hit Counter",
+          "titleSlug": "design-hit-counter",
+          "difficulty": "Medium",
+          "acRate": 68.97325453786665,
+          "status": "PENDING",
+          "frontendQuestionId": "362"
+        },
+        {
+          "questionId": "364",
+          "title": "Nested List Weight Sum II",
+          "titleSlug": "nested-list-weight-sum-ii",
+          "difficulty": "Medium",
+          "acRate": 64.71672285399121,
+          "status": "PENDING",
+          "frontendQuestionId": "364"
+        },
+        {
+          "questionId": "365",
+          "title": "Water and Jug Problem",
+          "titleSlug": "water-and-jug-problem",
+          "difficulty": "Medium",
+          "acRate": 42.31933586694219,
+          "status": "PENDING",
+          "frontendQuestionId": "365"
+        },
+        {
+          "questionId": "366",
+          "title": "Find Leaves of Binary Tree",
+          "titleSlug": "find-leaves-of-binary-tree",
+          "difficulty": "Medium",
+          "acRate": 80.89768881762468,
+          "status": "PENDING",
+          "frontendQuestionId": "366"
+        },
+        {
+          "questionId": "368",
+          "title": "Largest Divisible Subset",
+          "titleSlug": "largest-divisible-subset",
+          "difficulty": "Medium",
+          "acRate": 45.84081264058327,
+          "status": "PENDING",
+          "frontendQuestionId": "368"
+        },
+        {
+          "questionId": "369",
+          "title": "Plus One Linked List",
+          "titleSlug": "plus-one-linked-list",
+          "difficulty": "Medium",
+          "acRate": 61.163751660562646,
+          "status": "PENDING",
+          "frontendQuestionId": "369"
+        },
+        {
+          "questionId": "370",
+          "title": "Range Addition",
+          "titleSlug": "range-addition",
+          "difficulty": "Medium",
+          "acRate": 72.04418101863426,
+          "status": "PENDING",
+          "frontendQuestionId": "370"
+        },
+        {
+          "questionId": "371",
+          "title": "Sum of Two Integers",
+          "titleSlug": "sum-of-two-integers",
+          "difficulty": "Medium",
+          "acRate": 53.019611818154864,
+          "status": "PENDING",
+          "frontendQuestionId": "371"
+        },
+        {
+          "questionId": "372",
+          "title": "Super Pow",
+          "titleSlug": "super-pow",
+          "difficulty": "Medium",
+          "acRate": 35.12636508170942,
+          "status": "PENDING",
+          "frontendQuestionId": "372"
+        },
+        {
+          "questionId": "373",
+          "title": "Find K Pairs with Smallest Sums",
+          "titleSlug": "find-k-pairs-with-smallest-sums",
+          "difficulty": "Medium",
+          "acRate": 40.35142180887833,
+          "status": "PENDING",
+          "frontendQuestionId": "373"
+        },
+        {
+          "questionId": "375",
+          "title": "Guess Number Higher or Lower II",
+          "titleSlug": "guess-number-higher-or-lower-ii",
+          "difficulty": "Medium",
+          "acRate": 50.50714183452089,
+          "status": "PENDING",
+          "frontendQuestionId": "375"
+        },
+        {
+          "questionId": "376",
+          "title": "Wiggle Subsequence",
+          "titleSlug": "wiggle-subsequence",
+          "difficulty": "Medium",
+          "acRate": 48.71967604964665,
+          "status": "PENDING",
+          "frontendQuestionId": "376"
+        },
+        {
+          "questionId": "377",
+          "title": "Combination Sum IV",
+          "titleSlug": "combination-sum-iv",
+          "difficulty": "Medium",
+          "acRate": 54.489480622144434,
+          "status": "PENDING",
+          "frontendQuestionId": "377"
+        },
+        {
+          "questionId": "378",
+          "title": "Kth Smallest Element in a Sorted Matrix",
+          "titleSlug": "kth-smallest-element-in-a-sorted-matrix",
+          "difficulty": "Medium",
+          "acRate": 63.11228759987273,
+          "status": "PENDING",
+          "frontendQuestionId": "378"
+        },
+        {
+          "questionId": "379",
+          "title": "Design Phone Directory",
+          "titleSlug": "design-phone-directory",
+          "difficulty": "Medium",
+          "acRate": 52.15744053883393,
+          "status": "PENDING",
+          "frontendQuestionId": "379"
+        },
+        {
+          "questionId": "380",
+          "title": "Insert Delete GetRandom O(1)",
+          "titleSlug": "insert-delete-getrandom-o1",
+          "difficulty": "Medium",
+          "acRate": 54.84816500164232,
+          "status": "PENDING",
+          "frontendQuestionId": "380"
+        },
+        {
+          "questionId": "382",
+          "title": "Linked List Random Node",
+          "titleSlug": "linked-list-random-node",
+          "difficulty": "Medium",
+          "acRate": 63.70569961482754,
+          "status": "PENDING",
+          "frontendQuestionId": "382"
+        },
+        {
+          "questionId": "384",
+          "title": "Shuffle an Array",
+          "titleSlug": "shuffle-an-array",
+          "difficulty": "Medium",
+          "acRate": 58.77626168471435,
+          "status": "PENDING",
+          "frontendQuestionId": "384"
+        },
+        {
+          "questionId": "385",
+          "title": "Mini Parser",
+          "titleSlug": "mini-parser",
+          "difficulty": "Medium",
+          "acRate": 39.442528259303415,
+          "status": "PENDING",
+          "frontendQuestionId": "385"
+        },
+        {
+          "questionId": "386",
+          "title": "Lexicographical Numbers",
+          "titleSlug": "lexicographical-numbers",
+          "difficulty": "Medium",
+          "acRate": 72.89954145216193,
+          "status": "PENDING",
+          "frontendQuestionId": "386"
+        },
+        {
+          "questionId": "388",
+          "title": "Longest Absolute File Path",
+          "titleSlug": "longest-absolute-file-path",
+          "difficulty": "Medium",
+          "acRate": 48.03399308151764,
+          "status": "PENDING",
+          "frontendQuestionId": "388"
+        },
+        {
+          "questionId": "390",
+          "title": "Elimination Game",
+          "titleSlug": "elimination-game",
+          "difficulty": "Medium",
+          "acRate": 45.363570992765624,
+          "status": "PENDING",
+          "frontendQuestionId": "390"
+        },
+        {
+          "questionId": "393",
+          "title": "UTF-8 Validation",
+          "titleSlug": "utf-8-validation",
+          "difficulty": "Medium",
+          "acRate": 45.34276463963964,
+          "status": "PENDING",
+          "frontendQuestionId": "393"
+        },
+        {
+          "questionId": "394",
+          "title": "Decode String",
+          "titleSlug": "decode-string",
+          "difficulty": "Medium",
+          "acRate": 60.51630193419927,
+          "status": "PENDING",
+          "frontendQuestionId": "394"
+        },
+        {
+          "questionId": "395",
+          "title": "Longest Substring with At Least K Repeating Characters",
+          "titleSlug": "longest-substring-with-at-least-k-repeating-characters",
+          "difficulty": "Medium",
+          "acRate": 45.30589858047419,
+          "status": "PENDING",
+          "frontendQuestionId": "395"
+        },
+        {
+          "questionId": "396",
+          "title": "Rotate Function",
+          "titleSlug": "rotate-function",
+          "difficulty": "Medium",
+          "acRate": 43.46099996315537,
+          "status": "PENDING",
+          "frontendQuestionId": "396"
+        },
+        {
+          "questionId": "397",
+          "title": "Integer Replacement",
+          "titleSlug": "integer-replacement",
+          "difficulty": "Medium",
+          "acRate": 36.27290598036379,
+          "status": "PENDING",
+          "frontendQuestionId": "397"
+        },
+        {
+          "questionId": "398",
+          "title": "Random Pick Index",
+          "titleSlug": "random-pick-index",
+          "difficulty": "Medium",
+          "acRate": 64.21856452303739,
+          "status": "PENDING",
+          "frontendQuestionId": "398"
+        },
+        {
+          "questionId": "399",
+          "title": "Evaluate Division",
+          "titleSlug": "evaluate-division",
+          "difficulty": "Medium",
+          "acRate": 62.63180915319735,
+          "status": "PENDING",
+          "frontendQuestionId": "399"
+        },
+        {
+          "questionId": "400",
+          "title": "Nth Digit",
+          "titleSlug": "nth-digit",
+          "difficulty": "Medium",
+          "acRate": 35.32873959230549,
+          "status": "PENDING",
+          "frontendQuestionId": "400"
+        },
+        {
+          "questionId": "402",
+          "title": "Remove K Digits",
+          "titleSlug": "remove-k-digits",
+          "difficulty": "Medium",
+          "acRate": 34.31655348557135,
+          "status": "PENDING",
+          "frontendQuestionId": "402"
+        },
+        {
+          "questionId": "406",
+          "title": "Queue Reconstruction by Height",
+          "titleSlug": "queue-reconstruction-by-height",
+          "difficulty": "Medium",
+          "acRate": 73.94854291853987,
+          "status": "PENDING",
+          "frontendQuestionId": "406"
+        },
+        {
+          "questionId": "413",
+          "title": "Arithmetic Slices",
+          "titleSlug": "arithmetic-slices",
+          "difficulty": "Medium",
+          "acRate": 64.87449894541129,
+          "status": "PENDING",
+          "frontendQuestionId": "413"
+        },
+        {
+          "questionId": "416",
+          "title": "Partition Equal Subset Sum",
+          "titleSlug": "partition-equal-subset-sum",
+          "difficulty": "Medium",
+          "acRate": 47.10382261763451,
+          "status": "PENDING",
+          "frontendQuestionId": "416"
+        },
+        {
+          "questionId": "417",
+          "title": "Pacific Atlantic Water Flow",
+          "titleSlug": "pacific-atlantic-water-flow",
+          "difficulty": "Medium",
+          "acRate": 56.72404587205604,
+          "status": "PENDING",
+          "frontendQuestionId": "417"
+        },
+        {
+          "questionId": "418",
+          "title": "Sentence Screen Fitting",
+          "titleSlug": "sentence-screen-fitting",
+          "difficulty": "Medium",
+          "acRate": 36.29052219111797,
+          "status": "PENDING",
+          "frontendQuestionId": "418"
+        },
+        {
+          "questionId": "419",
+          "title": "Battleships in a Board",
+          "titleSlug": "battleships-in-a-board",
+          "difficulty": "Medium",
+          "acRate": 76.12056606999592,
+          "status": "PENDING",
+          "frontendQuestionId": "419"
+        },
+        {
+          "questionId": "421",
+          "title": "Maximum XOR of Two Numbers in an Array",
+          "titleSlug": "maximum-xor-of-two-numbers-in-an-array",
+          "difficulty": "Medium",
+          "acRate": 53.20332061872558,
+          "status": "PENDING",
+          "frontendQuestionId": "421"
+        },
+        {
+          "questionId": "423",
+          "title": "Reconstruct Original Digits from English",
+          "titleSlug": "reconstruct-original-digits-from-english",
+          "difficulty": "Medium",
+          "acRate": 51.43157844380127,
+          "status": "PENDING",
+          "frontendQuestionId": "423"
+        },
+        {
+          "questionId": "424",
+          "title": "Longest Repeating Character Replacement",
+          "titleSlug": "longest-repeating-character-replacement",
+          "difficulty": "Medium",
+          "acRate": 56.20304401387462,
+          "status": "PENDING",
+          "frontendQuestionId": "424"
+        },
+        {
+          "questionId": "758",
+          "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+          "titleSlug": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+          "difficulty": "Medium",
+          "acRate": 65.32008109808673,
+          "status": "PENDING",
+          "frontendQuestionId": "426"
+        },
+        {
+          "questionId": "772",
+          "title": "Construct Quad Tree",
+          "titleSlug": "construct-quad-tree",
+          "difficulty": "Medium",
+          "acRate": 76.54682872025329,
+          "status": "PENDING",
+          "frontendQuestionId": "427"
+        },
+        {
+          "questionId": "764",
+          "title": "N-ary Tree Level Order Traversal",
+          "titleSlug": "n-ary-tree-level-order-traversal",
+          "difficulty": "Medium",
+          "acRate": 71.135396643701,
+          "status": "PENDING",
+          "frontendQuestionId": "429"
+        }
+      ]
+    }
+  }
+}

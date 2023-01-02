@@ -1,0 +1,423 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 796,
+      "questions": [
+        {
+          "questionId": "3497",
+          "title": "Find the Last Marked Nodes in Tree",
+          "titleSlug": "find-the-last-marked-nodes-in-tree",
+          "difficulty": "Hard",
+          "acRate": 68.30188679245282,
+          "status": "PENDING",
+          "frontendQuestionId": "3313"
+        },
+        {
+          "questionId": "3604",
+          "title": "Find the Number of Possible Ways for an Event",
+          "titleSlug": "find-the-number-of-possible-ways-for-an-event",
+          "difficulty": "Hard",
+          "acRate": 37.269469451970984,
+          "status": "PENDING",
+          "frontendQuestionId": "3317"
+        },
+        {
+          "questionId": "3588",
+          "title": "Count The Number of Winning Sequences",
+          "titleSlug": "count-the-number-of-winning-sequences",
+          "difficulty": "Hard",
+          "acRate": 32.09885285370344,
+          "status": "PENDING",
+          "frontendQuestionId": "3320"
+        },
+        {
+          "questionId": "3592",
+          "title": "Find X-Sum of All K-Long Subarrays II",
+          "titleSlug": "find-x-sum-of-all-k-long-subarrays-ii",
+          "difficulty": "Hard",
+          "acRate": 15.848046188603465,
+          "status": "PENDING",
+          "frontendQuestionId": "3321"
+        },
+        {
+          "questionId": "3603",
+          "title": "Check if DFS Strings Are Palindromes",
+          "titleSlug": "check-if-dfs-strings-are-palindromes",
+          "difficulty": "Hard",
+          "acRate": 19.953022104777485,
+          "status": "PENDING",
+          "frontendQuestionId": "3327"
+        },
+        {
+          "questionId": "3499",
+          "title": "Count Substrings With K-Frequency Characters II",
+          "titleSlug": "count-substrings-with-k-frequency-characters-ii",
+          "difficulty": "Hard",
+          "acRate": 72.06946454413892,
+          "status": "PENDING",
+          "frontendQuestionId": "3329"
+        },
+        {
+          "questionId": "3618",
+          "title": "Find the Original Typed String II",
+          "titleSlug": "find-the-original-typed-string-ii",
+          "difficulty": "Hard",
+          "acRate": 15.415601023017903,
+          "status": "PENDING",
+          "frontendQuestionId": "3333"
+        },
+        {
+          "questionId": "3608",
+          "title": "Find the Number of Subsequences With Equal GCD",
+          "titleSlug": "find-the-number-of-subsequences-with-equal-gcd",
+          "difficulty": "Hard",
+          "acRate": 38.61031518624642,
+          "status": "PENDING",
+          "frontendQuestionId": "3336"
+        },
+        {
+          "questionId": "3630",
+          "title": "Total Characters in String After Transformations II",
+          "titleSlug": "total-characters-in-string-after-transformations-ii",
+          "difficulty": "Hard",
+          "acRate": 32.44771564491518,
+          "status": "PENDING",
+          "frontendQuestionId": "3337"
+        },
+        {
+          "questionId": "3637",
+          "title": "Count Number of Balanced Permutations",
+          "titleSlug": "count-number-of-balanced-permutations",
+          "difficulty": "Hard",
+          "acRate": 15.797223390828776,
+          "status": "PENDING",
+          "frontendQuestionId": "3343"
+        },
+        {
+          "questionId": "3640",
+          "title": "Maximum Frequency of an Element After Performing Operations II",
+          "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-ii",
+          "difficulty": "Hard",
+          "acRate": 38.76955972397707,
+          "status": "PENDING",
+          "frontendQuestionId": "3347"
+        },
+        {
+          "questionId": "3635",
+          "title": "Smallest Divisible Digit Product II",
+          "titleSlug": "smallest-divisible-digit-product-ii",
+          "difficulty": "Hard",
+          "acRate": 9.222396548342813,
+          "status": "PENDING",
+          "frontendQuestionId": "3348"
+        },
+        {
+          "questionId": "3646",
+          "title": "Sum of Good Subsequences",
+          "titleSlug": "sum-of-good-subsequences",
+          "difficulty": "Hard",
+          "acRate": 29.812221120475957,
+          "status": "PENDING",
+          "frontendQuestionId": "3351"
+        },
+        {
+          "questionId": "3631",
+          "title": "Count K-Reducible Numbers Less Than N",
+          "titleSlug": "count-k-reducible-numbers-less-than-n",
+          "difficulty": "Hard",
+          "acRate": 28.172978505629477,
+          "status": "PENDING",
+          "frontendQuestionId": "3352"
+        },
+        {
+          "questionId": "3658",
+          "title": "Minimize the Maximum Adjacent Element Difference",
+          "titleSlug": "minimize-the-maximum-adjacent-element-difference",
+          "difficulty": "Hard",
+          "acRate": 15.2317880794702,
+          "status": "PENDING",
+          "frontendQuestionId": "3357"
+        },
+        {
+          "questionId": "3652",
+          "title": "Find Sorted Submatrices With Maximum Element at Most K",
+          "titleSlug": "find-sorted-submatrices-with-maximum-element-at-most-k",
+          "difficulty": "Hard",
+          "acRate": 53.383458646616546,
+          "status": "PENDING",
+          "frontendQuestionId": "3359"
+        },
+        {
+          "questionId": "3648",
+          "title": "Find the Maximum Number of Fruits Collected",
+          "titleSlug": "find-the-maximum-number-of-fruits-collected",
+          "difficulty": "Hard",
+          "acRate": 40.17094017094017,
+          "status": "PENDING",
+          "frontendQuestionId": "3363"
+        },
+        {
+          "questionId": "3675",
+          "title": "Maximize Sum of Weights after Edge Removals",
+          "titleSlug": "maximize-sum-of-weights-after-edge-removals",
+          "difficulty": "Hard",
+          "acRate": 29.456371873153437,
+          "status": "PENDING",
+          "frontendQuestionId": "3367"
+        },
+        {
+          "questionId": "3703",
+          "title": "First Letter Capitalization",
+          "titleSlug": "first-letter-capitalization",
+          "difficulty": "Hard",
+          "acRate": 89.1566265060241,
+          "status": "PENDING",
+          "frontendQuestionId": "3368"
+        },
+        {
+          "questionId": "3710",
+          "title": "Design an Array Statistics Tracker ",
+          "titleSlug": "design-an-array-statistics-tracker",
+          "difficulty": "Hard",
+          "acRate": 31.776859504132233,
+          "status": "PENDING",
+          "frontendQuestionId": "3369"
+        },
+        {
+          "questionId": "3645",
+          "title": "Maximize the Number of Target Nodes After Connecting Trees II",
+          "titleSlug": "maximize-the-number-of-target-nodes-after-connecting-trees-ii",
+          "difficulty": "Hard",
+          "acRate": 57.78342653787494,
+          "status": "PENDING",
+          "frontendQuestionId": "3373"
+        },
+        {
+          "questionId": "3711",
+          "title": "First Letter Capitalization II",
+          "titleSlug": "first-letter-capitalization-ii",
+          "difficulty": "Hard",
+          "acRate": 78.18391689111198,
+          "status": "PENDING",
+          "frontendQuestionId": "3374"
+        },
+        {
+          "questionId": "3680",
+          "title": "Count Connected Components in LCM Graph",
+          "titleSlug": "count-connected-components-in-lcm-graph",
+          "difficulty": "Hard",
+          "acRate": 28.355321020228676,
+          "status": "PENDING",
+          "frontendQuestionId": "3378"
+        },
+        {
+          "questionId": "3689",
+          "title": "Maximum Area Rectangle With Point Constraints II",
+          "titleSlug": "maximum-area-rectangle-with-point-constraints-ii",
+          "difficulty": "Hard",
+          "acRate": 20.556839440959614,
+          "status": "PENDING",
+          "frontendQuestionId": "3382"
+        },
+        {
+          "questionId": "3718",
+          "title": "Minimum Runes to Add to Cast Spell",
+          "titleSlug": "minimum-runes-to-add-to-cast-spell",
+          "difficulty": "Hard",
+          "acRate": 48.2468443197756,
+          "status": "PENDING",
+          "frontendQuestionId": "3383"
+        },
+        {
+          "questionId": "3719",
+          "title": "Team Dominance by Pass Success",
+          "titleSlug": "team-dominance-by-pass-success",
+          "difficulty": "Hard",
+          "acRate": 82.83333333333334,
+          "status": "PENDING",
+          "frontendQuestionId": "3384"
+        },
+        {
+          "questionId": "3693",
+          "title": "Minimum Time to Break Locks II",
+          "titleSlug": "minimum-time-to-break-locks-ii",
+          "difficulty": "Hard",
+          "acRate": 52.23880597014925,
+          "status": "PENDING",
+          "frontendQuestionId": "3385"
+        },
+        {
+          "questionId": "3638",
+          "title": "Minimum Operations to Make Character Frequencies Equal",
+          "titleSlug": "minimum-operations-to-make-character-frequencies-equal",
+          "difficulty": "Hard",
+          "acRate": 23.109915061811453,
+          "status": "PENDING",
+          "frontendQuestionId": "3389"
+        },
+        {
+          "questionId": "3726",
+          "title": "Longest Team Pass Streak",
+          "titleSlug": "longest-team-pass-streak",
+          "difficulty": "Hard",
+          "acRate": 49.16512059369202,
+          "status": "PENDING",
+          "frontendQuestionId": "3390"
+        },
+        {
+          "questionId": "3700",
+          "title": "Subsequences with a Unique Middle Mode I",
+          "titleSlug": "subsequences-with-a-unique-middle-mode-i",
+          "difficulty": "Hard",
+          "acRate": 16.384875499538886,
+          "status": "PENDING",
+          "frontendQuestionId": "3395"
+        },
+        {
+          "questionId": "3690",
+          "title": "Smallest Substring With Identical Characters I",
+          "titleSlug": "smallest-substring-with-identical-characters-i",
+          "difficulty": "Hard",
+          "acRate": 18.79458038974779,
+          "status": "PENDING",
+          "frontendQuestionId": "3398"
+        },
+        {
+          "questionId": "3706",
+          "title": "Smallest Substring With Identical Characters II",
+          "titleSlug": "smallest-substring-with-identical-characters-ii",
+          "difficulty": "Hard",
+          "acRate": 44.34326947856713,
+          "status": "PENDING",
+          "frontendQuestionId": "3399"
+        },
+        {
+          "questionId": "3746",
+          "title": "Find Circular Gift Exchange Chains",
+          "titleSlug": "find-circular-gift-exchange-chains",
+          "difficulty": "Hard",
+          "acRate": 63.49614395886889,
+          "status": "PENDING",
+          "frontendQuestionId": "3401"
+        },
+        {
+          "questionId": "3682",
+          "title": "Count the Number of Arrays with K Matching Adjacent Elements",
+          "titleSlug": "count-the-number-of-arrays-with-k-matching-adjacent-elements",
+          "difficulty": "Hard",
+          "acRate": 36.513653878371585,
+          "status": "PENDING",
+          "frontendQuestionId": "3405"
+        },
+        {
+          "questionId": "3749",
+          "title": "Find the Lexicographically Largest String From the Box II",
+          "titleSlug": "find-the-lexicographically-largest-string-from-the-box-ii",
+          "difficulty": "Hard",
+          "acRate": 54.15224913494809,
+          "status": "PENDING",
+          "frontendQuestionId": "3406"
+        },
+        {
+          "questionId": "3688",
+          "title": "Maximize Subarray Sum After Removing All Occurrences of One Element",
+          "titleSlug": "maximize-subarray-sum-after-removing-all-occurrences-of-one-element",
+          "difficulty": "Hard",
+          "acRate": 17.617689015691866,
+          "status": "PENDING",
+          "frontendQuestionId": "3410"
+        },
+        {
+          "questionId": "3562",
+          "title": "Maximum Score of Non-overlapping Intervals",
+          "titleSlug": "maximum-score-of-non-overlapping-intervals",
+          "difficulty": "Hard",
+          "acRate": 32.004125128910275,
+          "status": "PENDING",
+          "frontendQuestionId": "3414"
+        },
+        {
+          "questionId": "3756",
+          "title": "Subsequences with a Unique Middle Mode II",
+          "titleSlug": "subsequences-with-a-unique-middle-mode-ii",
+          "difficulty": "Hard",
+          "acRate": 47.549019607843135,
+          "status": "PENDING",
+          "frontendQuestionId": "3416"
+        },
+        {
+          "questionId": "3674",
+          "title": "Count Non-Decreasing Subarrays After K Operations",
+          "titleSlug": "count-non-decreasing-subarrays-after-k-operations",
+          "difficulty": "Hard",
+          "acRate": 19.737905035454627,
+          "status": "PENDING",
+          "frontendQuestionId": "3420"
+        },
+        {
+          "questionId": "3687",
+          "title": "Longest Special Path",
+          "titleSlug": "longest-special-path",
+          "difficulty": "Hard",
+          "acRate": 18.292304509722797,
+          "status": "PENDING",
+          "frontendQuestionId": "3425"
+        },
+        {
+          "questionId": "3739",
+          "title": "Manhattan Distances of All Arrangements of Pieces",
+          "titleSlug": "manhattan-distances-of-all-arrangements-of-pieces",
+          "difficulty": "Hard",
+          "acRate": 34.59264970444616,
+          "status": "PENDING",
+          "frontendQuestionId": "3426"
+        },
+        {
+          "questionId": "3725",
+          "title": "Maximum and Minimum Sums of at Most Size K Subarrays",
+          "titleSlug": "maximum-and-minimum-sums-of-at-most-size-k-subarrays",
+          "difficulty": "Hard",
+          "acRate": 22.90399365247289,
+          "status": "PENDING",
+          "frontendQuestionId": "3430"
+        },
+        {
+          "questionId": "3713",
+          "title": "Frequencies of Shortest Supersequences",
+          "titleSlug": "frequencies-of-shortest-supersequences",
+          "difficulty": "Hard",
+          "acRate": 21.616270698344135,
+          "status": "PENDING",
+          "frontendQuestionId": "3435"
+        },
+        {
+          "questionId": "3701",
+          "title": "Minimum Cost Good Caption",
+          "titleSlug": "minimum-cost-good-caption",
+          "difficulty": "Hard",
+          "acRate": 13.555078683834049,
+          "status": "PENDING",
+          "frontendQuestionId": "3441"
+        },
+        {
+          "questionId": "3697",
+          "title": "Minimum Increments for Target Multiples in an Array",
+          "titleSlug": "minimum-increments-for-target-multiples-in-an-array",
+          "difficulty": "Hard",
+          "acRate": 21.82623644538482,
+          "status": "PENDING",
+          "frontendQuestionId": "3444"
+        },
+        {
+          "questionId": "3761",
+          "title": "Maximum Difference Between Even and Odd Frequency II",
+          "titleSlug": "maximum-difference-between-even-and-odd-frequency-ii",
+          "difficulty": "Hard",
+          "acRate": 15.451067505862026,
+          "status": "PENDING",
+          "frontendQuestionId": "3445"
+        }
+      ]
+    }
+  }
+}

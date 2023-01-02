@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "261",
+          "title": "Graph Valid Tree",
+          "titleSlug": "graph-valid-tree",
+          "difficulty": "Medium",
+          "acRate": 48.99622053530612,
+          "status": "PENDING",
+          "frontendQuestionId": "261"
+        },
+        {
+          "questionId": "264",
+          "title": "Ugly Number II",
+          "titleSlug": "ugly-number-ii",
+          "difficulty": "Medium",
+          "acRate": 49.16494681038248,
+          "status": "PENDING",
+          "frontendQuestionId": "264"
+        },
+        {
+          "questionId": "267",
+          "title": "Palindrome Permutation II",
+          "titleSlug": "palindrome-permutation-ii",
+          "difficulty": "Medium",
+          "acRate": 41.993366635217036,
+          "status": "PENDING",
+          "frontendQuestionId": "267"
+        },
+        {
+          "questionId": "271",
+          "title": "Encode and Decode Strings",
+          "titleSlug": "encode-and-decode-strings",
+          "difficulty": "Medium",
+          "acRate": 48.72245546282571,
+          "status": "PENDING",
+          "frontendQuestionId": "271"
+        },
+        {
+          "questionId": "274",
+          "title": "H-Index",
+          "titleSlug": "h-index",
+          "difficulty": "Medium",
+          "acRate": 39.80166048253465,
+          "status": "PENDING",
+          "frontendQuestionId": "274"
+        },
+        {
+          "questionId": "275",
+          "title": "H-Index II",
+          "titleSlug": "h-index-ii",
+          "difficulty": "Medium",
+          "acRate": 38.6218233592188,
+          "status": "PENDING",
+          "frontendQuestionId": "275"
+        },
+        {
+          "questionId": "276",
+          "title": "Paint Fence",
+          "titleSlug": "paint-fence",
+          "difficulty": "Medium",
+          "acRate": 47.41251459404878,
+          "status": "PENDING",
+          "frontendQuestionId": "276"
+        },
+        {
+          "questionId": "277",
+          "title": "Find the Celebrity",
+          "titleSlug": "find-the-celebrity",
+          "difficulty": "Medium",
+          "acRate": 48.097248459958934,
+          "status": "PENDING",
+          "frontendQuestionId": "277"
+        },
+        {
+          "questionId": "279",
+          "title": "Perfect Squares",
+          "titleSlug": "perfect-squares",
+          "difficulty": "Medium",
+          "acRate": 55.3598055735968,
+          "status": "PENDING",
+          "frontendQuestionId": "279"
+        },
+        {
+          "questionId": "280",
+          "title": "Wiggle Sort",
+          "titleSlug": "wiggle-sort",
+          "difficulty": "Medium",
+          "acRate": 68.05123337926756,
+          "status": "PENDING",
+          "frontendQuestionId": "280"
+        },
+        {
+          "questionId": "281",
+          "title": "Zigzag Iterator",
+          "titleSlug": "zigzag-iterator",
+          "difficulty": "Medium",
+          "acRate": 65.0236217410746,
+          "status": "PENDING",
+          "frontendQuestionId": "281"
+        },
+        {
+          "questionId": "284",
+          "title": "Peeking Iterator",
+          "titleSlug": "peeking-iterator",
+          "difficulty": "Medium",
+          "acRate": 60.282776015055006,
+          "status": "PENDING",
+          "frontendQuestionId": "284"
+        },
+        {
+          "questionId": "285",
+          "title": "Inorder Successor in BST",
+          "titleSlug": "inorder-successor-in-bst",
+          "difficulty": "Medium",
+          "acRate": 50.431659874562854,
+          "status": "PENDING",
+          "frontendQuestionId": "285"
+        },
+        {
+          "questionId": "286",
+          "title": "Walls and Gates",
+          "titleSlug": "walls-and-gates",
+          "difficulty": "Medium",
+          "acRate": 62.416035363369346,
+          "status": "PENDING",
+          "frontendQuestionId": "286"
+        },
+        {
+          "questionId": "287",
+          "title": "Find the Duplicate Number",
+          "titleSlug": "find-the-duplicate-number",
+          "difficulty": "Medium",
+          "acRate": 62.18703300414178,
+          "status": "PENDING",
+          "frontendQuestionId": "287"
+        },
+        {
+          "questionId": "288",
+          "title": "Unique Word Abbreviation",
+          "titleSlug": "unique-word-abbreviation",
+          "difficulty": "Medium",
+          "acRate": 26.82040113808002,
+          "status": "PENDING",
+          "frontendQuestionId": "288"
+        },
+        {
+          "questionId": "289",
+          "title": "Game of Life",
+          "titleSlug": "game-of-life",
+          "difficulty": "Medium",
+          "acRate": 70.73781712171241,
+          "status": "PENDING",
+          "frontendQuestionId": "289"
+        },
+        {
+          "questionId": "291",
+          "title": "Word Pattern II",
+          "titleSlug": "word-pattern-ii",
+          "difficulty": "Medium",
+          "acRate": 48.511015032350784,
+          "status": "PENDING",
+          "frontendQuestionId": "291"
+        },
+        {
+          "questionId": "294",
+          "title": "Flip Game II",
+          "titleSlug": "flip-game-ii",
+          "difficulty": "Medium",
+          "acRate": 52.18195979791772,
+          "status": "PENDING",
+          "frontendQuestionId": "294"
+        },
+        {
+          "questionId": "298",
+          "title": "Binary Tree Longest Consecutive Sequence",
+          "titleSlug": "binary-tree-longest-consecutive-sequence",
+          "difficulty": "Medium",
+          "acRate": 53.94616364204049,
+          "status": "PENDING",
+          "frontendQuestionId": "298"
+        },
+        {
+          "questionId": "299",
+          "title": "Bulls and Cows",
+          "titleSlug": "bulls-and-cows",
+          "difficulty": "Medium",
+          "acRate": 50.99769909241979,
+          "status": "PENDING",
+          "frontendQuestionId": "299"
+        },
+        {
+          "questionId": "300",
+          "title": "Longest Increasing Subsequence",
+          "titleSlug": "longest-increasing-subsequence",
+          "difficulty": "Medium",
+          "acRate": 57.00904333214866,
+          "status": "PENDING",
+          "frontendQuestionId": "300"
+        },
+        {
+          "questionId": "304",
+          "title": "Range Sum Query 2D - Immutable",
+          "titleSlug": "range-sum-query-2d-immutable",
+          "difficulty": "Medium",
+          "acRate": 55.79714798692106,
+          "status": "PENDING",
+          "frontendQuestionId": "304"
+        },
+        {
+          "questionId": "306",
+          "title": "Additive Number",
+          "titleSlug": "additive-number",
+          "difficulty": "Medium",
+          "acRate": 32.17209281323176,
+          "status": "PENDING",
+          "frontendQuestionId": "306"
+        },
+        {
+          "questionId": "307",
+          "title": "Range Sum Query - Mutable",
+          "titleSlug": "range-sum-query-mutable",
+          "difficulty": "Medium",
+          "acRate": 41.49884501715489,
+          "status": "PENDING",
+          "frontendQuestionId": "307"
+        },
+        {
+          "questionId": "308",
+          "title": "Range Sum Query 2D - Mutable",
+          "titleSlug": "range-sum-query-2d-mutable",
+          "difficulty": "Medium",
+          "acRate": 44.61710577837445,
+          "status": "PENDING",
+          "frontendQuestionId": "308"
+        },
+        {
+          "questionId": "309",
+          "title": "Best Time to Buy and Sell Stock with Cooldown",
+          "titleSlug": "best-time-to-buy-and-sell-stock-with-cooldown",
+          "difficulty": "Medium",
+          "acRate": 59.68720251593642,
+          "status": "PENDING",
+          "frontendQuestionId": "309"
+        },
+        {
+          "questionId": "310",
+          "title": "Minimum Height Trees",
+          "titleSlug": "minimum-height-trees",
+          "difficulty": "Medium",
+          "acRate": 41.92632657859621,
+          "status": "PENDING",
+          "frontendQuestionId": "310"
+        },
+        {
+          "questionId": "311",
+          "title": "Sparse Matrix Multiplication",
+          "titleSlug": "sparse-matrix-multiplication",
+          "difficulty": "Medium",
+          "acRate": 68.48115253959809,
+          "status": "PENDING",
+          "frontendQuestionId": "311"
+        },
+        {
+          "questionId": "313",
+          "title": "Super Ugly Number",
+          "titleSlug": "super-ugly-number",
+          "difficulty": "Medium",
+          "acRate": 45.38446210584427,
+          "status": "PENDING",
+          "frontendQuestionId": "313"
+        },
+        {
+          "questionId": "314",
+          "title": "Binary Tree Vertical Order Traversal",
+          "titleSlug": "binary-tree-vertical-order-traversal",
+          "difficulty": "Medium",
+          "acRate": 56.329046944625205,
+          "status": "PENDING",
+          "frontendQuestionId": "314"
+        },
+        {
+          "questionId": "316",
+          "title": "Remove Duplicate Letters",
+          "titleSlug": "remove-duplicate-letters",
+          "difficulty": "Medium",
+          "acRate": 50.68225498699046,
+          "status": "PENDING",
+          "frontendQuestionId": "316"
+        },
+        {
+          "questionId": "318",
+          "title": "Maximum Product of Word Lengths",
+          "titleSlug": "maximum-product-of-word-lengths",
+          "difficulty": "Medium",
+          "acRate": 60.366033366664915,
+          "status": "PENDING",
+          "frontendQuestionId": "318"
+        },
+        {
+          "questionId": "319",
+          "title": "Bulb Switcher",
+          "titleSlug": "bulb-switcher",
+          "difficulty": "Medium",
+          "acRate": 53.59597377250499,
+          "status": "PENDING",
+          "frontendQuestionId": "319"
+        },
+        {
+          "questionId": "320",
+          "title": "Generalized Abbreviation",
+          "titleSlug": "generalized-abbreviation",
+          "difficulty": "Medium",
+          "acRate": 59.85095899336238,
+          "status": "PENDING",
+          "frontendQuestionId": "320"
+        },
+        {
+          "questionId": "322",
+          "title": "Coin Change",
+          "titleSlug": "coin-change",
+          "difficulty": "Medium",
+          "acRate": 45.60857094587219,
+          "status": "PENDING",
+          "frontendQuestionId": "322"
+        },
+        {
+          "questionId": "323",
+          "title": "Number of Connected Components in an Undirected Graph",
+          "titleSlug": "number-of-connected-components-in-an-undirected-graph",
+          "difficulty": "Medium",
+          "acRate": 63.67204890784557,
+          "status": "PENDING",
+          "frontendQuestionId": "323"
+        },
+        {
+          "questionId": "324",
+          "title": "Wiggle Sort II",
+          "titleSlug": "wiggle-sort-ii",
+          "difficulty": "Medium",
+          "acRate": 35.19902670073485,
+          "status": "PENDING",
+          "frontendQuestionId": "324"
+        },
+        {
+          "questionId": "325",
+          "title": "Maximum Size Subarray Sum Equals k",
+          "titleSlug": "maximum-size-subarray-sum-equals-k",
+          "difficulty": "Medium",
+          "acRate": 50.16447000380408,
+          "status": "PENDING",
+          "frontendQuestionId": "325"
+        },
+        {
+          "questionId": "328",
+          "title": "Odd Even Linked List",
+          "titleSlug": "odd-even-linked-list",
+          "difficulty": "Medium",
+          "acRate": 61.77527175683615,
+          "status": "PENDING",
+          "frontendQuestionId": "328"
+        },
+        {
+          "questionId": "331",
+          "title": "Verify Preorder Serialization of a Binary Tree",
+          "titleSlug": "verify-preorder-serialization-of-a-binary-tree",
+          "difficulty": "Medium",
+          "acRate": 45.81870299574307,
+          "status": "PENDING",
+          "frontendQuestionId": "331"
+        },
+        {
+          "questionId": "333",
+          "title": "Largest BST Subtree",
+          "titleSlug": "largest-bst-subtree",
+          "difficulty": "Medium",
+          "acRate": 45.00917347727859,
+          "status": "PENDING",
+          "frontendQuestionId": "333"
+        },
+        {
+          "questionId": "334",
+          "title": "Increasing Triplet Subsequence",
+          "titleSlug": "increasing-triplet-subsequence",
+          "difficulty": "Medium",
+          "acRate": 39.20443805485137,
+          "status": "PENDING",
+          "frontendQuestionId": "334"
+        },
+        {
+          "questionId": "337",
+          "title": "House Robber III",
+          "titleSlug": "house-robber-iii",
+          "difficulty": "Medium",
+          "acRate": 54.65123126793704,
+          "status": "PENDING",
+          "frontendQuestionId": "337"
+        },
+        {
+          "questionId": "339",
+          "title": "Nested List Weight Sum",
+          "titleSlug": "nested-list-weight-sum",
+          "difficulty": "Medium",
+          "acRate": 85.01495650804897,
+          "status": "PENDING",
+          "frontendQuestionId": "339"
+        },
+        {
+          "questionId": "340",
+          "title": "Longest Substring with At Most K Distinct Characters",
+          "titleSlug": "longest-substring-with-at-most-k-distinct-characters",
+          "difficulty": "Medium",
+          "acRate": 49.26255982144773,
+          "status": "PENDING",
+          "frontendQuestionId": "340"
+        },
+        {
+          "questionId": "341",
+          "title": "Flatten Nested List Iterator",
+          "titleSlug": "flatten-nested-list-iterator",
+          "difficulty": "Medium",
+          "acRate": 65.05936601144833,
+          "status": "PENDING",
+          "frontendQuestionId": "341"
+        },
+        {
+          "questionId": "343",
+          "title": "Integer Break",
+          "titleSlug": "integer-break",
+          "difficulty": "Medium",
+          "acRate": 60.85452195767825,
+          "status": "PENDING",
+          "frontendQuestionId": "343"
+        },
+        {
+          "questionId": "347",
+          "title": "Top K Frequent Elements",
+          "titleSlug": "top-k-frequent-elements",
+          "difficulty": "Medium",
+          "acRate": 63.9227625477553,
+          "status": "PENDING",
+          "frontendQuestionId": "347"
+        },
+        {
+          "questionId": "348",
+          "title": "Design Tic-Tac-Toe",
+          "titleSlug": "design-tic-tac-toe",
+          "difficulty": "Medium",
+          "acRate": 58.40054964817778,
+          "status": "PENDING",
+          "frontendQuestionId": "348"
+        }
+      ]
+    }
+  }
+}

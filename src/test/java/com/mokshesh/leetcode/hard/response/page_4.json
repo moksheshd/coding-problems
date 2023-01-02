@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 796,
+      "questions": [
+        {
+          "questionId": "785",
+          "title": "Basic Calculator III",
+          "titleSlug": "basic-calculator-iii",
+          "difficulty": "Hard",
+          "acRate": 51.736386342222154,
+          "status": "PENDING",
+          "frontendQuestionId": "772"
+        },
+        {
+          "questionId": "787",
+          "title": "Sliding Puzzle",
+          "titleSlug": "sliding-puzzle",
+          "difficulty": "Hard",
+          "acRate": 72.92709439304312,
+          "status": "PENDING",
+          "frontendQuestionId": "773"
+        },
+        {
+          "questionId": "788",
+          "title": "Minimize Max Distance to Gas Station",
+          "titleSlug": "minimize-max-distance-to-gas-station",
+          "difficulty": "Hard",
+          "acRate": 52.71367207277835,
+          "status": "PENDING",
+          "frontendQuestionId": "774"
+        },
+        {
+          "questionId": "794",
+          "title": "Swim in Rising Water",
+          "titleSlug": "swim-in-rising-water",
+          "difficulty": "Hard",
+          "acRate": 62.09324441112787,
+          "status": "PENDING",
+          "frontendQuestionId": "778"
+        },
+        {
+          "questionId": "796",
+          "title": "Reaching Points",
+          "titleSlug": "reaching-points",
+          "difficulty": "Hard",
+          "acRate": 33.51268325883414,
+          "status": "PENDING",
+          "frontendQuestionId": "780"
+        },
+        {
+          "questionId": "798",
+          "title": "Transform to Chessboard",
+          "titleSlug": "transform-to-chessboard",
+          "difficulty": "Hard",
+          "acRate": 50.53965896735527,
+          "status": "PENDING",
+          "frontendQuestionId": "782"
+        },
+        {
+          "questionId": "809",
+          "title": "Preimage Size of Factorial Zeroes Function",
+          "titleSlug": "preimage-size-of-factorial-zeroes-function",
+          "difficulty": "Hard",
+          "acRate": 45.4071118516245,
+          "status": "PENDING",
+          "frontendQuestionId": "793"
+        },
+        {
+          "questionId": "814",
+          "title": "Smallest Rotation with Highest Score",
+          "titleSlug": "smallest-rotation-with-highest-score",
+          "difficulty": "Hard",
+          "acRate": 51.67864493707191,
+          "status": "PENDING",
+          "frontendQuestionId": "798"
+        },
+        {
+          "questionId": "819",
+          "title": "Minimum Swaps To Make Sequences Increasing",
+          "titleSlug": "minimum-swaps-to-make-sequences-increasing",
+          "difficulty": "Hard",
+          "acRate": 40.49994363656859,
+          "status": "PENDING",
+          "frontendQuestionId": "801"
+        },
+        {
+          "questionId": "821",
+          "title": "Bricks Falling When Hit",
+          "titleSlug": "bricks-falling-when-hit",
+          "difficulty": "Hard",
+          "acRate": 35.202114529746495,
+          "status": "PENDING",
+          "frontendQuestionId": "803"
+        },
+        {
+          "questionId": "823",
+          "title": "Split Array With Same Average",
+          "titleSlug": "split-array-with-same-average",
+          "difficulty": "Hard",
+          "acRate": 25.624991874780616,
+          "status": "PENDING",
+          "frontendQuestionId": "805"
+        },
+        {
+          "questionId": "828",
+          "title": "Chalkboard XOR Game",
+          "titleSlug": "chalkboard-xor-game",
+          "difficulty": "Hard",
+          "acRate": 61.86669103202522,
+          "status": "PENDING",
+          "frontendQuestionId": "810"
+        },
+        {
+          "questionId": "833",
+          "title": "Bus Routes",
+          "titleSlug": "bus-routes",
+          "difficulty": "Hard",
+          "acRate": 47.09871534542339,
+          "status": "PENDING",
+          "frontendQuestionId": "815"
+        },
+        {
+          "questionId": "836",
+          "title": "Race Car",
+          "titleSlug": "race-car",
+          "difficulty": "Hard",
+          "acRate": 43.95642287333184,
+          "status": "PENDING",
+          "frontendQuestionId": "818"
+        },
+        {
+          "questionId": "854",
+          "title": "Making A Large Island",
+          "titleSlug": "making-a-large-island",
+          "difficulty": "Hard",
+          "acRate": 54.00113114843084,
+          "status": "PENDING",
+          "frontendQuestionId": "827"
+        },
+        {
+          "questionId": "855",
+          "title": "Count Unique Characters of All Substrings of a Given String",
+          "titleSlug": "count-unique-characters-of-all-substrings-of-a-given-string",
+          "difficulty": "Hard",
+          "acRate": 52.76164296518334,
+          "status": "PENDING",
+          "frontendQuestionId": "828"
+        },
+        {
+          "questionId": "856",
+          "title": "Consecutive Numbers Sum",
+          "titleSlug": "consecutive-numbers-sum",
+          "difficulty": "Hard",
+          "acRate": 41.96866600037422,
+          "status": "PENDING",
+          "frontendQuestionId": "829"
+        },
+        {
+          "questionId": "863",
+          "title": "Sum of Distances in Tree",
+          "titleSlug": "sum-of-distances-in-tree",
+          "difficulty": "Hard",
+          "acRate": 65.28367967301634,
+          "status": "PENDING",
+          "frontendQuestionId": "834"
+        },
+        {
+          "questionId": "869",
+          "title": "Similar String Groups",
+          "titleSlug": "similar-string-groups",
+          "difficulty": "Hard",
+          "acRate": 55.35773305269017,
+          "status": "PENDING",
+          "frontendQuestionId": "839"
+        },
+        {
+          "questionId": "873",
+          "title": "Guess the Word",
+          "titleSlug": "guess-the-word",
+          "difficulty": "Hard",
+          "acRate": 38.14254923746576,
+          "status": "PENDING",
+          "frontendQuestionId": "843"
+        },
+        {
+          "questionId": "877",
+          "title": "Shortest Path Visiting All Nodes",
+          "titleSlug": "shortest-path-visiting-all-nodes",
+          "difficulty": "Hard",
+          "acRate": 65.37870548676452,
+          "status": "PENDING",
+          "frontendQuestionId": "847"
+        },
+        {
+          "questionId": "880",
+          "title": "Rectangle Area II",
+          "titleSlug": "rectangle-area-ii",
+          "difficulty": "Hard",
+          "acRate": 54.34649122807017,
+          "status": "PENDING",
+          "frontendQuestionId": "850"
+        },
+        {
+          "questionId": "884",
+          "title": "K-Similar Strings",
+          "titleSlug": "k-similar-strings",
+          "difficulty": "Hard",
+          "acRate": 40.030409050779845,
+          "status": "PENDING",
+          "frontendQuestionId": "854"
+        },
+        {
+          "questionId": "887",
+          "title": "Minimum Cost to Hire K Workers",
+          "titleSlug": "minimum-cost-to-hire-k-workers",
+          "difficulty": "Hard",
+          "acRate": 63.43574790613968,
+          "status": "PENDING",
+          "frontendQuestionId": "857"
+        },
+        {
+          "questionId": "892",
+          "title": "Shortest Subarray with Sum at Least K",
+          "titleSlug": "shortest-subarray-with-sum-at-least-k",
+          "difficulty": "Hard",
+          "acRate": 32.174647063281014,
+          "status": "PENDING",
+          "frontendQuestionId": "862"
+        },
+        {
+          "questionId": "895",
+          "title": "Shortest Path to Get All Keys",
+          "titleSlug": "shortest-path-to-get-all-keys",
+          "difficulty": "Hard",
+          "acRate": 53.62030225413192,
+          "status": "PENDING",
+          "frontendQuestionId": "864"
+        },
+        {
+          "questionId": "902",
+          "title": "Minimum Number of Refueling Stops",
+          "titleSlug": "minimum-number-of-refueling-stops",
+          "difficulty": "Hard",
+          "acRate": 40.34117980792799,
+          "status": "PENDING",
+          "frontendQuestionId": "871"
+        },
+        {
+          "questionId": "910",
+          "title": "Nth Magical Number",
+          "titleSlug": "nth-magical-number",
+          "difficulty": "Hard",
+          "acRate": 35.67730123356558,
+          "status": "PENDING",
+          "frontendQuestionId": "878"
+        },
+        {
+          "questionId": "911",
+          "title": "Profitable Schemes",
+          "titleSlug": "profitable-schemes",
+          "difficulty": "Hard",
+          "acRate": 48.0390012628846,
+          "status": "PENDING",
+          "frontendQuestionId": "879"
+        },
+        {
+          "questionId": "918",
+          "title": "Reachable Nodes In Subdivided Graph",
+          "titleSlug": "reachable-nodes-in-subdivided-graph",
+          "difficulty": "Hard",
+          "acRate": 50.68693840343794,
+          "status": "PENDING",
+          "frontendQuestionId": "882"
+        },
+        {
+          "questionId": "923",
+          "title": "Super Egg Drop",
+          "titleSlug": "super-egg-drop",
+          "difficulty": "Hard",
+          "acRate": 28.36480865079337,
+          "status": "PENDING",
+          "frontendQuestionId": "887"
+        },
+        {
+          "questionId": "927",
+          "title": "Sum of Subsequence Widths",
+          "titleSlug": "sum-of-subsequence-widths",
+          "difficulty": "Hard",
+          "acRate": 38.467170288528735,
+          "status": "PENDING",
+          "frontendQuestionId": "891"
+        },
+        {
+          "questionId": "931",
+          "title": "Maximum Frequency Stack",
+          "titleSlug": "maximum-frequency-stack",
+          "difficulty": "Hard",
+          "acRate": 66.64529447822503,
+          "status": "PENDING",
+          "frontendQuestionId": "895"
+        },
+        {
+          "questionId": "935",
+          "title": "Orderly Queue",
+          "titleSlug": "orderly-queue",
+          "difficulty": "Hard",
+          "acRate": 66.11521182423152,
+          "status": "PENDING",
+          "frontendQuestionId": "899"
+        },
+        {
+          "questionId": "938",
+          "title": "Numbers At Most N Given Digit Set",
+          "titleSlug": "numbers-at-most-n-given-digit-set",
+          "difficulty": "Hard",
+          "acRate": 42.95928392096933,
+          "status": "PENDING",
+          "frontendQuestionId": "902"
+        },
+        {
+          "questionId": "939",
+          "title": "Valid Permutations for DI Sequence",
+          "titleSlug": "valid-permutations-for-di-sequence",
+          "difficulty": "Hard",
+          "acRate": 57.02140040085343,
+          "status": "PENDING",
+          "frontendQuestionId": "903"
+        },
+        {
+          "questionId": "942",
+          "title": "Super Palindromes",
+          "titleSlug": "super-palindromes",
+          "difficulty": "Hard",
+          "acRate": 39.14666342973326,
+          "status": "PENDING",
+          "frontendQuestionId": "906"
+        },
+        {
+          "questionId": "949",
+          "title": "Cat and Mouse",
+          "titleSlug": "cat-and-mouse",
+          "difficulty": "Hard",
+          "acRate": 33.92633192438107,
+          "status": "PENDING",
+          "frontendQuestionId": "913"
+        },
+        {
+          "questionId": "956",
+          "title": "Number of Music Playlists",
+          "titleSlug": "number-of-music-playlists",
+          "difficulty": "Hard",
+          "acRate": 60.23878973649083,
+          "status": "PENDING",
+          "frontendQuestionId": "920"
+        },
+        {
+          "questionId": "960",
+          "title": "Minimize Malware Spread",
+          "titleSlug": "minimize-malware-spread",
+          "difficulty": "Hard",
+          "acRate": 42.14297757545102,
+          "status": "PENDING",
+          "frontendQuestionId": "924"
+        },
+        {
+          "questionId": "963",
+          "title": "Three Equal Parts",
+          "titleSlug": "three-equal-parts",
+          "difficulty": "Hard",
+          "acRate": 40.09559889145966,
+          "status": "PENDING",
+          "frontendQuestionId": "927"
+        },
+        {
+          "questionId": "964",
+          "title": "Minimize Malware Spread II",
+          "titleSlug": "minimize-malware-spread-ii",
+          "difficulty": "Hard",
+          "acRate": 44.38034336553833,
+          "status": "PENDING",
+          "frontendQuestionId": "928"
+        },
+        {
+          "questionId": "973",
+          "title": "Stamping The Sequence",
+          "titleSlug": "stamping-the-sequence",
+          "difficulty": "Hard",
+          "acRate": 62.284445084268214,
+          "status": "PENDING",
+          "frontendQuestionId": "936"
+        },
+        {
+          "questionId": "977",
+          "title": "Distinct Subsequences II",
+          "titleSlug": "distinct-subsequences-ii",
+          "difficulty": "Hard",
+          "acRate": 43.37178209517795,
+          "status": "PENDING",
+          "frontendQuestionId": "940"
+        },
+        {
+          "questionId": "980",
+          "title": "Find the Shortest Superstring",
+          "titleSlug": "find-the-shortest-superstring",
+          "difficulty": "Hard",
+          "acRate": 44.33430377050344,
+          "status": "PENDING",
+          "frontendQuestionId": "943"
+        },
+        {
+          "questionId": "989",
+          "title": "Largest Component Size by Common Factor",
+          "titleSlug": "largest-component-size-by-common-factor",
+          "difficulty": "Hard",
+          "acRate": 41.20249216716735,
+          "status": "PENDING",
+          "frontendQuestionId": "952"
+        },
+        {
+          "questionId": "993",
+          "title": "Tallest Billboard",
+          "titleSlug": "tallest-billboard",
+          "difficulty": "Hard",
+          "acRate": 52.00805375800611,
+          "status": "PENDING",
+          "frontendQuestionId": "956"
+        },
+        {
+          "questionId": "1000",
+          "title": "Delete Columns to Make Sorted III",
+          "titleSlug": "delete-columns-to-make-sorted-iii",
+          "difficulty": "Hard",
+          "acRate": 58.441934549666954,
+          "status": "PENDING",
+          "frontendQuestionId": "960"
+        },
+        {
+          "questionId": "1004",
+          "title": "Least Operators to Express Number",
+          "titleSlug": "least-operators-to-express-number",
+          "difficulty": "Hard",
+          "acRate": 48.59595070422535,
+          "status": "PENDING",
+          "frontendQuestionId": "964"
+        },
+        {
+          "questionId": "1008",
+          "title": "Binary Tree Cameras",
+          "titleSlug": "binary-tree-cameras",
+          "difficulty": "Hard",
+          "acRate": 46.94278878058581,
+          "status": "PENDING",
+          "frontendQuestionId": "968"
+        }
+      ]
+    }
+  }
+}

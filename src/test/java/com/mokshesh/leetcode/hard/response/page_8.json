@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 796,
+      "questions": [
+        {
+          "questionId": "1799",
+          "title": "Minimum Incompatibility",
+          "titleSlug": "minimum-incompatibility",
+          "difficulty": "Hard",
+          "acRate": 39.6769456681351,
+          "status": "PENDING",
+          "frontendQuestionId": "1681"
+        },
+        {
+          "questionId": "1789",
+          "title": "Delivering Boxes from Storage to Ports",
+          "titleSlug": "delivering-boxes-from-storage-to-ports",
+          "difficulty": "Hard",
+          "acRate": 39.040520680243546,
+          "status": "PENDING",
+          "frontendQuestionId": "1687"
+        },
+        {
+          "questionId": "1367",
+          "title": "Maximum Height by Stacking Cuboids ",
+          "titleSlug": "maximum-height-by-stacking-cuboids",
+          "difficulty": "Hard",
+          "acRate": 59.252502173950106,
+          "status": "PENDING",
+          "frontendQuestionId": "1691"
+        },
+        {
+          "questionId": "1828",
+          "title": "Count Ways to Distribute Candies",
+          "titleSlug": "count-ways-to-distribute-candies",
+          "difficulty": "Hard",
+          "acRate": 62.85971223021583,
+          "status": "PENDING",
+          "frontendQuestionId": "1692"
+        },
+        {
+          "questionId": "1815",
+          "title": "Checking Existence of Edge Length Limited Paths",
+          "titleSlug": "checking-existence-of-edge-length-limited-paths",
+          "difficulty": "Hard",
+          "acRate": 62.66597028783658,
+          "status": "PENDING",
+          "frontendQuestionId": "1697"
+        },
+        {
+          "questionId": "1805",
+          "title": "Minimum Adjacent Swaps for K Consecutive Ones",
+          "titleSlug": "minimum-adjacent-swaps-for-k-consecutive-ones",
+          "difficulty": "Hard",
+          "acRate": 42.28316548768164,
+          "status": "PENDING",
+          "frontendQuestionId": "1703"
+        },
+        {
+          "questionId": "1826",
+          "title": "Maximum XOR With an Element From Array",
+          "titleSlug": "maximum-xor-with-an-element-from-array",
+          "difficulty": "Hard",
+          "acRate": 53.25702393340271,
+          "status": "PENDING",
+          "frontendQuestionId": "1707"
+        },
+        {
+          "questionId": "1832",
+          "title": "Minimum Operations to Make a Subsequence",
+          "titleSlug": "minimum-operations-to-make-a-subsequence",
+          "difficulty": "Hard",
+          "acRate": 47.97990518644308,
+          "status": "PENDING",
+          "frontendQuestionId": "1713"
+        },
+        {
+          "questionId": "1809",
+          "title": "Sum Of Special Evenly-Spaced Elements In Array",
+          "titleSlug": "sum-of-special-evenly-spaced-elements-in-array",
+          "difficulty": "Hard",
+          "acRate": 49.20076726342711,
+          "status": "PENDING",
+          "frontendQuestionId": "1714"
+        },
+        {
+          "questionId": "1820",
+          "title": "Number Of Ways To Reconstruct A Tree",
+          "titleSlug": "number-of-ways-to-reconstruct-a-tree",
+          "difficulty": "Hard",
+          "acRate": 44.068953746373104,
+          "status": "PENDING",
+          "frontendQuestionId": "1719"
+        },
+        {
+          "questionId": "1825",
+          "title": "Find Minimum Time to Finish All Jobs",
+          "titleSlug": "find-minimum-time-to-finish-all-jobs",
+          "difficulty": "Hard",
+          "acRate": 42.91956006629138,
+          "status": "PENDING",
+          "frontendQuestionId": "1723"
+        },
+        {
+          "questionId": "1865",
+          "title": "Checking Existence of Edge Length Limited Paths II",
+          "titleSlug": "checking-existence-of-edge-length-limited-paths-ii",
+          "difficulty": "Hard",
+          "acRate": 51.202069385270846,
+          "status": "PENDING",
+          "frontendQuestionId": "1724"
+        },
+        {
+          "questionId": "1727",
+          "title": "Cat and Mouse II",
+          "titleSlug": "cat-and-mouse-ii",
+          "difficulty": "Hard",
+          "acRate": 39.554373463140465,
+          "status": "PENDING",
+          "frontendQuestionId": "1728"
+        },
+        {
+          "questionId": "1836",
+          "title": "Count Ways to Make Array With Product",
+          "titleSlug": "count-ways-to-make-array-with-product",
+          "difficulty": "Hard",
+          "acRate": 52.25845049356865,
+          "status": "PENDING",
+          "frontendQuestionId": "1735"
+        },
+        {
+          "questionId": "1861",
+          "title": "Building Boxes",
+          "titleSlug": "building-boxes",
+          "difficulty": "Hard",
+          "acRate": 51.796407185628745,
+          "status": "PENDING",
+          "frontendQuestionId": "1739"
+        },
+        {
+          "questionId": "1871",
+          "title": "Palindrome Partitioning IV",
+          "titleSlug": "palindrome-partitioning-iv",
+          "difficulty": "Hard",
+          "acRate": 44.52216322012417,
+          "status": "PENDING",
+          "frontendQuestionId": "1745"
+        },
+        {
+          "questionId": "1851",
+          "title": "Maximum Number of Events That Can Be Attended II",
+          "titleSlug": "maximum-number-of-events-that-can-be-attended-ii",
+          "difficulty": "Hard",
+          "acRate": 61.07258938244854,
+          "status": "PENDING",
+          "frontendQuestionId": "1751"
+        },
+        {
+          "questionId": "1881",
+          "title": "Closest Subsequence Sum",
+          "titleSlug": "closest-subsequence-sum",
+          "difficulty": "Hard",
+          "acRate": 40.859408074510256,
+          "status": "PENDING",
+          "frontendQuestionId": "1755"
+        },
+        {
+          "questionId": "1887",
+          "title": "Minimum Degree of a Connected Trio in a Graph",
+          "titleSlug": "minimum-degree-of-a-connected-trio-in-a-graph",
+          "difficulty": "Hard",
+          "acRate": 43.21719166751072,
+          "status": "PENDING",
+          "frontendQuestionId": "1761"
+        },
+        {
+          "questionId": "1875",
+          "title": "Tree of Coprimes",
+          "titleSlug": "tree-of-coprimes",
+          "difficulty": "Hard",
+          "acRate": 41.503855078972975,
+          "status": "PENDING",
+          "frontendQuestionId": "1766"
+        },
+        {
+          "questionId": "1914",
+          "title": "Find the Subtasks That Did Not Execute",
+          "titleSlug": "find-the-subtasks-that-did-not-execute",
+          "difficulty": "Hard",
+          "acRate": 78.02517426407903,
+          "status": "PENDING",
+          "frontendQuestionId": "1767"
+        },
+        {
+          "questionId": "1896",
+          "title": "Maximum Score from Performing Multiplication Operations",
+          "titleSlug": "maximum-score-from-performing-multiplication-operations",
+          "difficulty": "Hard",
+          "acRate": 41.640923662420924,
+          "status": "PENDING",
+          "frontendQuestionId": "1770"
+        },
+        {
+          "questionId": "1897",
+          "title": "Maximize Palindrome Length From Subsequences",
+          "titleSlug": "maximize-palindrome-length-from-subsequences",
+          "difficulty": "Hard",
+          "acRate": 36.97158081705151,
+          "status": "PENDING",
+          "frontendQuestionId": "1771"
+        },
+        {
+          "questionId": "1902",
+          "title": "Car Fleet II",
+          "titleSlug": "car-fleet-ii",
+          "difficulty": "Hard",
+          "acRate": 55.877480178296715,
+          "status": "PENDING",
+          "frontendQuestionId": "1776"
+        },
+        {
+          "questionId": "1891",
+          "title": "Count Pairs Of Nodes",
+          "titleSlug": "count-pairs-of-nodes",
+          "difficulty": "Hard",
+          "acRate": 40.28546310182551,
+          "status": "PENDING",
+          "frontendQuestionId": "1782"
+        },
+        {
+          "questionId": "1913",
+          "title": "Make the XOR of All Segments Equal to Zero",
+          "titleSlug": "make-the-xor-of-all-segments-equal-to-zero",
+          "difficulty": "Hard",
+          "acRate": 39.799580201773985,
+          "status": "PENDING",
+          "frontendQuestionId": "1787"
+        },
+        {
+          "questionId": "1937",
+          "title": "Maximize the Beauty of the Garden",
+          "titleSlug": "maximize-the-beauty-of-the-garden",
+          "difficulty": "Hard",
+          "acRate": 64.0339593516851,
+          "status": "PENDING",
+          "frontendQuestionId": "1788"
+        },
+        {
+          "questionId": "1918",
+          "title": "Maximum Score of a Good Subarray",
+          "titleSlug": "maximum-score-of-a-good-subarray",
+          "difficulty": "Hard",
+          "acRate": 64.24790312054337,
+          "status": "PENDING",
+          "frontendQuestionId": "1793"
+        },
+        {
+          "questionId": "1906",
+          "title": "Maximize Score After N Operations",
+          "titleSlug": "maximize-score-after-n-operations",
+          "difficulty": "Hard",
+          "acRate": 57.82308646190896,
+          "status": "PENDING",
+          "frontendQuestionId": "1799"
+        },
+        {
+          "questionId": "1907",
+          "title": "Count Pairs With XOR in a Range",
+          "titleSlug": "count-pairs-with-xor-in-a-range",
+          "difficulty": "Hard",
+          "acRate": 48.265396647523,
+          "status": "PENDING",
+          "frontendQuestionId": "1803"
+        },
+        {
+          "questionId": "1936",
+          "title": "Maximize Number of Nice Divisors",
+          "titleSlug": "maximize-number-of-nice-divisors",
+          "difficulty": "Hard",
+          "acRate": 34.06971246830275,
+          "status": "PENDING",
+          "frontendQuestionId": "1808"
+        },
+        {
+          "questionId": "1924",
+          "title": "Maximum Number of Groups Getting Fresh Donuts",
+          "titleSlug": "maximum-number-of-groups-getting-fresh-donuts",
+          "difficulty": "Hard",
+          "acRate": 40.108341164114755,
+          "status": "PENDING",
+          "frontendQuestionId": "1815"
+        },
+        {
+          "questionId": "1947",
+          "title": "Number of Different Subsequences GCDs",
+          "titleSlug": "number-of-different-subsequences-gcds",
+          "difficulty": "Hard",
+          "acRate": 41.36347005975853,
+          "status": "PENDING",
+          "frontendQuestionId": "1819"
+        },
+        {
+          "questionId": "1953",
+          "title": "Finding MK Average",
+          "titleSlug": "finding-mk-average",
+          "difficulty": "Hard",
+          "acRate": 37.795479567385534,
+          "status": "PENDING",
+          "frontendQuestionId": "1825"
+        },
+        {
+          "questionId": "1941",
+          "title": "Minimum Number of Operations to Make String Sorted",
+          "titleSlug": "minimum-number-of-operations-to-make-string-sorted",
+          "difficulty": "Hard",
+          "acRate": 50.13662695376544,
+          "status": "PENDING",
+          "frontendQuestionId": "1830"
+        },
+        {
+          "questionId": "1963",
+          "title": "Find XOR Sum of All Pairs Bitwise AND",
+          "titleSlug": "find-xor-sum-of-all-pairs-bitwise-and",
+          "difficulty": "Hard",
+          "acRate": 61.28898359022609,
+          "status": "PENDING",
+          "frontendQuestionId": "1835"
+        },
+        {
+          "questionId": "1968",
+          "title": "Maximum Building Height",
+          "titleSlug": "maximum-building-height",
+          "difficulty": "Hard",
+          "acRate": 36.85652948431005,
+          "status": "PENDING",
+          "frontendQuestionId": "1840"
+        },
+        {
+          "questionId": "1997",
+          "title": "Next Palindrome Using Same Digits",
+          "titleSlug": "next-palindrome-using-same-digits",
+          "difficulty": "Hard",
+          "acRate": 53.49101064758247,
+          "status": "PENDING",
+          "frontendQuestionId": "1842"
+        },
+        {
+          "questionId": "1957",
+          "title": "Closest Room",
+          "titleSlug": "closest-room",
+          "difficulty": "Hard",
+          "acRate": 39.090841510556054,
+          "status": "PENDING",
+          "frontendQuestionId": "1847"
+        },
+        {
+          "questionId": "1977",
+          "title": "Minimum Interval to Include Each Query",
+          "titleSlug": "minimum-interval-to-include-each-query",
+          "difficulty": "Hard",
+          "acRate": 51.41626635746231,
+          "status": "PENDING",
+          "frontendQuestionId": "1851"
+        },
+        {
+          "questionId": "1986",
+          "title": "Largest Color Value in a Directed Graph",
+          "titleSlug": "largest-color-value-in-a-directed-graph",
+          "difficulty": "Hard",
+          "acRate": 49.54249276978292,
+          "status": "PENDING",
+          "frontendQuestionId": "1857"
+        },
+        {
+          "questionId": "1326",
+          "title": "Sum of Floored Pairs",
+          "titleSlug": "sum-of-floored-pairs",
+          "difficulty": "Hard",
+          "acRate": 29.25941719971571,
+          "status": "PENDING",
+          "frontendQuestionId": "1862"
+        },
+        {
+          "questionId": "1996",
+          "title": "Number of Ways to Rearrange Sticks With K Sticks Visible",
+          "titleSlug": "number-of-ways-to-rearrange-sticks-with-k-sticks-visible",
+          "difficulty": "Hard",
+          "acRate": 58.403719213570874,
+          "status": "PENDING",
+          "frontendQuestionId": "1866"
+        },
+        {
+          "questionId": "2002",
+          "title": "Stone Game VIII",
+          "titleSlug": "stone-game-viii",
+          "difficulty": "Hard",
+          "acRate": 52.89154853583165,
+          "status": "PENDING",
+          "frontendQuestionId": "1872"
+        },
+        {
+          "questionId": "1989",
+          "title": "Minimum XOR Sum of Two Arrays",
+          "titleSlug": "minimum-xor-sum-of-two-arrays",
+          "difficulty": "Hard",
+          "acRate": 48.64133666309906,
+          "status": "PENDING",
+          "frontendQuestionId": "1879"
+        },
+        {
+          "questionId": "2013",
+          "title": "Minimum Skips to Arrive at Meeting On Time",
+          "titleSlug": "minimum-skips-to-arrive-at-meeting-on-time",
+          "difficulty": "Hard",
+          "acRate": 38.08139534883721,
+          "status": "PENDING",
+          "frontendQuestionId": "1883"
+        },
+        {
+          "questionId": "2018",
+          "title": "Minimum Space Wasted From Packaging",
+          "titleSlug": "minimum-space-wasted-from-packaging",
+          "difficulty": "Hard",
+          "acRate": 32.16878200846136,
+          "status": "PENDING",
+          "frontendQuestionId": "1889"
+        },
+        {
+          "questionId": "2046",
+          "title": "Page Recommendations II",
+          "titleSlug": "page-recommendations-ii",
+          "difficulty": "Hard",
+          "acRate": 44.31446938560438,
+          "status": "PENDING",
+          "frontendQuestionId": "1892"
+        },
+        {
+          "questionId": "2008",
+          "title": "Minimum Cost to Change the Final Value of Expression",
+          "titleSlug": "minimum-cost-to-change-the-final-value-of-expression",
+          "difficulty": "Hard",
+          "acRate": 53.48093772199858,
+          "status": "PENDING",
+          "frontendQuestionId": "1896"
+        },
+        {
+          "questionId": "2028",
+          "title": "The Earliest and Latest Rounds Where Players Compete",
+          "titleSlug": "the-earliest-and-latest-rounds-where-players-compete",
+          "difficulty": "Hard",
+          "acRate": 49.881995954147,
+          "status": "PENDING",
+          "frontendQuestionId": "1900"
+        }
+      ]
+    }
+  }
+}

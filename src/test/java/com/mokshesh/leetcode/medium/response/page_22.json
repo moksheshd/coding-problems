@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "2080",
+          "title": "Check if Move is Legal",
+          "titleSlug": "check-if-move-is-legal",
+          "difficulty": "Medium",
+          "acRate": 49.200213695358414,
+          "status": "PENDING",
+          "frontendQuestionId": "1958"
+        },
+        {
+          "questionId": "2081",
+          "title": "Minimum Total Space Wasted With K Resizing Operations",
+          "titleSlug": "minimum-total-space-wasted-with-k-resizing-operations",
+          "difficulty": "Medium",
+          "acRate": 43.2851817334576,
+          "status": "PENDING",
+          "frontendQuestionId": "1959"
+        },
+        {
+          "questionId": "2094",
+          "title": "Remove Stones to Minimize the Total",
+          "titleSlug": "remove-stones-to-minimize-the-total",
+          "difficulty": "Medium",
+          "acRate": 63.82279282033131,
+          "status": "PENDING",
+          "frontendQuestionId": "1962"
+        },
+        {
+          "questionId": "2095",
+          "title": "Minimum Number of Swaps to Make the String Balanced",
+          "titleSlug": "minimum-number-of-swaps-to-make-the-string-balanced",
+          "difficulty": "Medium",
+          "acRate": 78.02529241905604,
+          "status": "PENDING",
+          "frontendQuestionId": "1963"
+        },
+        {
+          "questionId": "2111",
+          "title": "Binary Searchable Numbers in an Unsorted Array",
+          "titleSlug": "binary-searchable-numbers-in-an-unsorted-array",
+          "difficulty": "Medium",
+          "acRate": 62.76551436901291,
+          "status": "PENDING",
+          "frontendQuestionId": "1966"
+        },
+        {
+          "questionId": "2085",
+          "title": "Array With Elements Not Equal to Average of Neighbors",
+          "titleSlug": "array-with-elements-not-equal-to-average-of-neighbors",
+          "difficulty": "Medium",
+          "acRate": 50.24437695738825,
+          "status": "PENDING",
+          "frontendQuestionId": "1968"
+        },
+        {
+          "questionId": "2100",
+          "title": "Minimum Non-Zero Product of the Array Elements",
+          "titleSlug": "minimum-non-zero-product-of-the-array-elements",
+          "difficulty": "Medium",
+          "acRate": 36.113642011099145,
+          "status": "PENDING",
+          "frontendQuestionId": "1969"
+        },
+        {
+          "questionId": "2126",
+          "title": "Count Nodes Equal to Sum of Descendants",
+          "titleSlug": "count-nodes-equal-to-sum-of-descendants",
+          "difficulty": "Medium",
+          "acRate": 76.888328605946,
+          "status": "PENDING",
+          "frontendQuestionId": "1973"
+        },
+        {
+          "questionId": "2089",
+          "title": "Maximum Matrix Sum",
+          "titleSlug": "maximum-matrix-sum",
+          "difficulty": "Medium",
+          "acRate": 65.97973035339581,
+          "status": "PENDING",
+          "frontendQuestionId": "1975"
+        },
+        {
+          "questionId": "2090",
+          "title": "Number of Ways to Arrive at Destination",
+          "titleSlug": "number-of-ways-to-arrive-at-destination",
+          "difficulty": "Medium",
+          "acRate": 28.037729036916687,
+          "status": "PENDING",
+          "frontendQuestionId": "1976"
+        },
+        {
+          "questionId": "2107",
+          "title": "Find Unique Binary String",
+          "titleSlug": "find-unique-binary-string",
+          "difficulty": "Medium",
+          "acRate": 74.81433822612583,
+          "status": "PENDING",
+          "frontendQuestionId": "1980"
+        },
+        {
+          "questionId": "2108",
+          "title": "Minimize the Difference Between Target and Chosen Elements",
+          "titleSlug": "minimize-the-difference-between-target-and-chosen-elements",
+          "difficulty": "Medium",
+          "acRate": 35.55129263233031,
+          "status": "PENDING",
+          "frontendQuestionId": "1981"
+        },
+        {
+          "questionId": "519",
+          "title": "Widest Pair of Indices With Equal Range Sum",
+          "titleSlug": "widest-pair-of-indices-with-equal-range-sum",
+          "difficulty": "Medium",
+          "acRate": 53.14673452078033,
+          "status": "PENDING",
+          "frontendQuestionId": "1983"
+        },
+        {
+          "questionId": "2113",
+          "title": "Find the Kth Largest Integer in the Array",
+          "titleSlug": "find-the-kth-largest-integer-in-the-array",
+          "difficulty": "Medium",
+          "acRate": 46.34228525150299,
+          "status": "PENDING",
+          "frontendQuestionId": "1985"
+        },
+        {
+          "questionId": "2114",
+          "title": "Minimum Number of Work Sessions to Finish the Tasks",
+          "titleSlug": "minimum-number-of-work-sessions-to-finish-the-tasks",
+          "difficulty": "Medium",
+          "acRate": 33.46321047033251,
+          "status": "PENDING",
+          "frontendQuestionId": "1986"
+        },
+        {
+          "questionId": "2136",
+          "title": "Find Cutoff Score for Each School",
+          "titleSlug": "find-cutoff-score-for-each-school",
+          "difficulty": "Medium",
+          "acRate": 66.90729483282675,
+          "status": "PENDING",
+          "frontendQuestionId": "1988"
+        },
+        {
+          "questionId": "1979",
+          "title": "Maximum Number of People That Can Be Caught in Tag",
+          "titleSlug": "maximum-number-of-people-that-can-be-caught-in-tag",
+          "difficulty": "Medium",
+          "acRate": 50.020868113522546,
+          "status": "PENDING",
+          "frontendQuestionId": "1989"
+        },
+        {
+          "questionId": "2143",
+          "title": "Count the Number of Experiments",
+          "titleSlug": "count-the-number-of-experiments",
+          "difficulty": "Medium",
+          "acRate": 49.160425223483934,
+          "status": "PENDING",
+          "frontendQuestionId": "1990"
+        },
+        {
+          "questionId": "2103",
+          "title": "Find All Groups of Farmland",
+          "titleSlug": "find-all-groups-of-farmland",
+          "difficulty": "Medium",
+          "acRate": 75.59315923480769,
+          "status": "PENDING",
+          "frontendQuestionId": "1992"
+        },
+        {
+          "questionId": "2104",
+          "title": "Operations on Tree",
+          "titleSlug": "operations-on-tree",
+          "difficulty": "Medium",
+          "acRate": 46.76198693454949,
+          "status": "PENDING",
+          "frontendQuestionId": "1993"
+        },
+        {
+          "questionId": "2123",
+          "title": "The Number of Weak Characters in the Game",
+          "titleSlug": "the-number-of-weak-characters-in-the-game",
+          "difficulty": "Medium",
+          "acRate": 44.126266126776834,
+          "status": "PENDING",
+          "frontendQuestionId": "1996"
+        },
+        {
+          "questionId": "2124",
+          "title": "First Day Where You Have Been in All the Rooms",
+          "titleSlug": "first-day-where-you-have-been-in-all-the-rooms",
+          "difficulty": "Medium",
+          "acRate": 37.594384770817825,
+          "status": "PENDING",
+          "frontendQuestionId": "1997"
+        },
+        {
+          "questionId": "2141",
+          "title": "Smallest Greater Multiple Made of Two Digits",
+          "titleSlug": "smallest-greater-multiple-made-of-two-digits",
+          "difficulty": "Medium",
+          "acRate": 48.49534531283828,
+          "status": "PENDING",
+          "frontendQuestionId": "1999"
+        },
+        {
+          "questionId": "2129",
+          "title": "Number of Pairs of Interchangeable Rectangles",
+          "titleSlug": "number-of-pairs-of-interchangeable-rectangles",
+          "difficulty": "Medium",
+          "acRate": 50.958781655056626,
+          "status": "PENDING",
+          "frontendQuestionId": "2001"
+        },
+        {
+          "questionId": "2130",
+          "title": "Maximum Product of the Length of Two Palindromic Subsequences",
+          "titleSlug": "maximum-product-of-the-length-of-two-palindromic-subsequences",
+          "difficulty": "Medium",
+          "acRate": 61.486596410043205,
+          "status": "PENDING",
+          "frontendQuestionId": "2002"
+        },
+        {
+          "questionId": "2117",
+          "title": "Find Original Array From Doubled Array",
+          "titleSlug": "find-original-array-from-doubled-array",
+          "difficulty": "Medium",
+          "acRate": 40.48566867571742,
+          "status": "PENDING",
+          "frontendQuestionId": "2007"
+        },
+        {
+          "questionId": "2118",
+          "title": "Maximum Earnings From Taxi",
+          "titleSlug": "maximum-earnings-from-taxi",
+          "difficulty": "Medium",
+          "acRate": 44.49241365542024,
+          "status": "PENDING",
+          "frontendQuestionId": "2008"
+        },
+        {
+          "questionId": "2138",
+          "title": "Sum of Beauty in the Array",
+          "titleSlug": "sum-of-beauty-in-the-array",
+          "difficulty": "Medium",
+          "acRate": 48.77980312160797,
+          "status": "PENDING",
+          "frontendQuestionId": "2012"
+        },
+        {
+          "questionId": "2139",
+          "title": "Detect Squares",
+          "titleSlug": "detect-squares",
+          "difficulty": "Medium",
+          "acRate": 51.71555011828152,
+          "status": "PENDING",
+          "frontendQuestionId": "2013"
+        },
+        {
+          "questionId": "2142",
+          "title": "Average Height of Buildings in Each Segment",
+          "titleSlug": "average-height-of-buildings-in-each-segment",
+          "difficulty": "Medium",
+          "acRate": 57.75756085566756,
+          "status": "PENDING",
+          "frontendQuestionId": "2015"
+        },
+        {
+          "questionId": "2145",
+          "title": "Grid Game",
+          "titleSlug": "grid-game",
+          "difficulty": "Medium",
+          "acRate": 61.078352312719375,
+          "status": "PENDING",
+          "frontendQuestionId": "2017"
+        },
+        {
+          "questionId": "2146",
+          "title": "Check if Word Can Be Placed In Crossword",
+          "titleSlug": "check-if-word-can-be-placed-in-crossword",
+          "difficulty": "Medium",
+          "acRate": 49.8757365615104,
+          "status": "PENDING",
+          "frontendQuestionId": "2018"
+        },
+        {
+          "questionId": "2167",
+          "title": "Number of Accounts That Did Not Stream",
+          "titleSlug": "number-of-accounts-that-did-not-stream",
+          "difficulty": "Medium",
+          "acRate": 72.28878836043526,
+          "status": "PENDING",
+          "frontendQuestionId": "2020"
+        },
+        {
+          "questionId": "2075",
+          "title": "Brightest Position on Street",
+          "titleSlug": "brightest-position-on-street",
+          "difficulty": "Medium",
+          "acRate": 61.04302048202681,
+          "status": "PENDING",
+          "frontendQuestionId": "2021"
+        },
+        {
+          "questionId": "2133",
+          "title": "Number of Pairs of Strings With Concatenation Equal to Target",
+          "titleSlug": "number-of-pairs-of-strings-with-concatenation-equal-to-target",
+          "difficulty": "Medium",
+          "acRate": 75.22170353448642,
+          "status": "PENDING",
+          "frontendQuestionId": "2023"
+        },
+        {
+          "questionId": "2134",
+          "title": "Maximize the Confusion of an Exam",
+          "titleSlug": "maximize-the-confusion-of-an-exam",
+          "difficulty": "Medium",
+          "acRate": 67.99654874892148,
+          "status": "PENDING",
+          "frontendQuestionId": "2024"
+        },
+        {
+          "questionId": "2155",
+          "title": "Find Missing Observations",
+          "titleSlug": "find-missing-observations",
+          "difficulty": "Medium",
+          "acRate": 57.41360051450428,
+          "status": "PENDING",
+          "frontendQuestionId": "2028"
+        },
+        {
+          "questionId": "2156",
+          "title": "Stone Game IX",
+          "titleSlug": "stone-game-ix",
+          "difficulty": "Medium",
+          "acRate": 29.00675141414756,
+          "status": "PENDING",
+          "frontendQuestionId": "2029"
+        },
+        {
+          "questionId": "510",
+          "title": "Count Subarrays With More Ones Than Zeros",
+          "titleSlug": "count-subarrays-with-more-ones-than-zeros",
+          "difficulty": "Medium",
+          "acRate": 51.306786315199105,
+          "status": "PENDING",
+          "frontendQuestionId": "2031"
+        },
+        {
+          "questionId": "2160",
+          "title": "Minimum Operations to Make a Uni-Value Grid",
+          "titleSlug": "minimum-operations-to-make-a-uni-value-grid",
+          "difficulty": "Medium",
+          "acRate": 53.585092206508186,
+          "status": "PENDING",
+          "frontendQuestionId": "2033"
+        },
+        {
+          "questionId": "2161",
+          "title": "Stock Price Fluctuation ",
+          "titleSlug": "stock-price-fluctuation",
+          "difficulty": "Medium",
+          "acRate": 48.61869516834451,
+          "status": "PENDING",
+          "frontendQuestionId": "2034"
+        },
+        {
+          "questionId": "512",
+          "title": "Maximum Alternating Subarray Sum",
+          "titleSlug": "maximum-alternating-subarray-sum",
+          "difficulty": "Medium",
+          "acRate": 39.71095052807115,
+          "status": "PENDING",
+          "frontendQuestionId": "2036"
+        },
+        {
+          "questionId": "2149",
+          "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+          "titleSlug": "remove-colored-pieces-if-both-neighbors-are-the-same-color",
+          "difficulty": "Medium",
+          "acRate": 62.845319503083715,
+          "status": "PENDING",
+          "frontendQuestionId": "2038"
+        },
+        {
+          "questionId": "2151",
+          "title": "The Time When the Network Becomes Idle",
+          "titleSlug": "the-time-when-the-network-becomes-idle",
+          "difficulty": "Medium",
+          "acRate": 52.790277650228056,
+          "status": "PENDING",
+          "frontendQuestionId": "2039"
+        },
+        {
+          "questionId": "2185",
+          "title": "Accepted Candidates From the Interviews",
+          "titleSlug": "accepted-candidates-from-the-interviews",
+          "difficulty": "Medium",
+          "acRate": 78.63061491495857,
+          "status": "PENDING",
+          "frontendQuestionId": "2041"
+        },
+        {
+          "questionId": "2169",
+          "title": "Simple Bank System",
+          "titleSlug": "simple-bank-system",
+          "difficulty": "Medium",
+          "acRate": 63.493279698624015,
+          "status": "PENDING",
+          "frontendQuestionId": "2043"
+        },
+        {
+          "questionId": "2170",
+          "title": "Count Number of Maximum Bitwise-OR Subsets",
+          "titleSlug": "count-number-of-maximum-bitwise-or-subsets",
+          "difficulty": "Medium",
+          "acRate": 88.10394573663031,
+          "status": "PENDING",
+          "frontendQuestionId": "2044"
+        },
+        {
+          "questionId": "1992",
+          "title": "Sort Linked List Already Sorted Using Absolute Values",
+          "titleSlug": "sort-linked-list-already-sorted-using-absolute-values",
+          "difficulty": "Medium",
+          "acRate": 66.68507143350128,
+          "status": "PENDING",
+          "frontendQuestionId": "2046"
+        },
+        {
+          "questionId": "2174",
+          "title": "Next Greater Numerically Balanced Number",
+          "titleSlug": "next-greater-numerically-balanced-number",
+          "difficulty": "Medium",
+          "acRate": 48.98097826086957,
+          "status": "PENDING",
+          "frontendQuestionId": "2048"
+        },
+        {
+          "questionId": "2175",
+          "title": "Count Nodes With the Highest Score",
+          "titleSlug": "count-nodes-with-the-highest-score",
+          "difficulty": "Medium",
+          "acRate": 50.71596393192787,
+          "status": "PENDING",
+          "frontendQuestionId": "2049"
+        }
+      ]
+    }
+  }
+}

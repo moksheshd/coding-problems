@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 796,
+      "questions": [
+        {
+          "questionId": "1012",
+          "title": "Equal Rational Numbers",
+          "titleSlug": "equal-rational-numbers",
+          "difficulty": "Hard",
+          "acRate": 44.415034409740606,
+          "status": "PENDING",
+          "frontendQuestionId": "972"
+        },
+        {
+          "questionId": "1017",
+          "title": "Odd Even Jump",
+          "titleSlug": "odd-even-jump",
+          "difficulty": "Hard",
+          "acRate": 40.479476651364834,
+          "status": "PENDING",
+          "frontendQuestionId": "975"
+        },
+        {
+          "questionId": "1022",
+          "title": "Unique Paths III",
+          "titleSlug": "unique-paths-iii",
+          "difficulty": "Hard",
+          "acRate": 82.12643849724614,
+          "status": "PENDING",
+          "frontendQuestionId": "980"
+        },
+        {
+          "questionId": "1024",
+          "title": "Triples with Bitwise AND Equal To Zero",
+          "titleSlug": "triples-with-bitwise-and-equal-to-zero",
+          "difficulty": "Hard",
+          "acRate": 59.00232941310153,
+          "status": "PENDING",
+          "frontendQuestionId": "982"
+        },
+        {
+          "questionId": "1029",
+          "title": "Vertical Order Traversal of a Binary Tree",
+          "titleSlug": "vertical-order-traversal-of-a-binary-tree",
+          "difficulty": "Hard",
+          "acRate": 50.05256051511186,
+          "status": "PENDING",
+          "frontendQuestionId": "987"
+        },
+        {
+          "questionId": "1034",
+          "title": "Subarrays with K Different Integers",
+          "titleSlug": "subarrays-with-k-different-integers",
+          "difficulty": "Hard",
+          "acRate": 64.90842418868768,
+          "status": "PENDING",
+          "frontendQuestionId": "992"
+        },
+        {
+          "questionId": "1037",
+          "title": "Minimum Number of K Consecutive Bit Flips",
+          "titleSlug": "minimum-number-of-k-consecutive-bit-flips",
+          "difficulty": "Hard",
+          "acRate": 62.671620093684375,
+          "status": "PENDING",
+          "frontendQuestionId": "995"
+        },
+        {
+          "questionId": "1038",
+          "title": "Number of Squareful Arrays",
+          "titleSlug": "number-of-squareful-arrays",
+          "difficulty": "Hard",
+          "acRate": 50.371251063631384,
+          "status": "PENDING",
+          "frontendQuestionId": "996"
+        },
+        {
+          "questionId": "1042",
+          "title": "Minimum Cost to Merge Stones",
+          "titleSlug": "minimum-cost-to-merge-stones",
+          "difficulty": "Hard",
+          "acRate": 43.9132801161103,
+          "status": "PENDING",
+          "frontendQuestionId": "1000"
+        },
+        {
+          "questionId": "1043",
+          "title": "Grid Illumination",
+          "titleSlug": "grid-illumination",
+          "difficulty": "Hard",
+          "acRate": 37.54014859033838,
+          "status": "PENDING",
+          "frontendQuestionId": "1001"
+        },
+        {
+          "questionId": "1057",
+          "title": "Numbers With Repeated Digits",
+          "titleSlug": "numbers-with-repeated-digits",
+          "difficulty": "Hard",
+          "acRate": 42.83971700414735,
+          "status": "PENDING",
+          "frontendQuestionId": "1012"
+        },
+        {
+          "questionId": "1093",
+          "title": "Recover a Tree From Preorder Traversal",
+          "titleSlug": "recover-a-tree-from-preorder-traversal",
+          "difficulty": "Hard",
+          "acRate": 75.3074790038609,
+          "status": "PENDING",
+          "frontendQuestionId": "1028"
+        },
+        {
+          "questionId": "1097",
+          "title": "Stream of Characters",
+          "titleSlug": "stream-of-characters",
+          "difficulty": "Hard",
+          "acRate": 52.283472404240136,
+          "status": "PENDING",
+          "frontendQuestionId": "1032"
+        },
+        {
+          "questionId": "1106",
+          "title": "Escape a Large Maze",
+          "titleSlug": "escape-a-large-maze",
+          "difficulty": "Hard",
+          "acRate": 35.189566538146984,
+          "status": "PENDING",
+          "frontendQuestionId": "1036"
+        },
+        {
+          "questionId": "1122",
+          "title": "Longest Duplicate Substring",
+          "titleSlug": "longest-duplicate-substring",
+          "difficulty": "Hard",
+          "acRate": 30.603356302795248,
+          "status": "PENDING",
+          "frontendQuestionId": "1044"
+        },
+        {
+          "questionId": "1061",
+          "title": "Number of Valid Subarrays",
+          "titleSlug": "number-of-valid-subarrays",
+          "difficulty": "Hard",
+          "acRate": 79.1146821040024,
+          "status": "PENDING",
+          "frontendQuestionId": "1063"
+        },
+        {
+          "questionId": "1068",
+          "title": "Digit Count in Range",
+          "titleSlug": "digit-count-in-range",
+          "difficulty": "Hard",
+          "acRate": 46.371226718047524,
+          "status": "PENDING",
+          "frontendQuestionId": "1067"
+        },
+        {
+          "questionId": "1145",
+          "title": "Number of Submatrices That Sum to Target",
+          "titleSlug": "number-of-submatrices-that-sum-to-target",
+          "difficulty": "Hard",
+          "acRate": 74.3819191618991,
+          "status": "PENDING",
+          "frontendQuestionId": "1074"
+        },
+        {
+          "questionId": "1077",
+          "title": "Confusing Number II",
+          "titleSlug": "confusing-number-ii",
+          "difficulty": "Hard",
+          "acRate": 47.064791102203415,
+          "status": "PENDING",
+          "frontendQuestionId": "1088"
+        },
+        {
+          "questionId": "1170",
+          "title": "Shortest Common Supersequence ",
+          "titleSlug": "shortest-common-supersequence",
+          "difficulty": "Hard",
+          "acRate": 59.70868093290904,
+          "status": "PENDING",
+          "frontendQuestionId": "1092"
+        },
+        {
+          "questionId": "1185",
+          "title": "Find in Mountain Array",
+          "titleSlug": "find-in-mountain-array",
+          "difficulty": "Hard",
+          "acRate": 40.2293834995701,
+          "status": "PENDING",
+          "frontendQuestionId": "1095"
+        },
+        {
+          "questionId": "1188",
+          "title": "Brace Expansion II",
+          "titleSlug": "brace-expansion-ii",
+          "difficulty": "Hard",
+          "acRate": 63.411050628643,
+          "status": "PENDING",
+          "frontendQuestionId": "1096"
+        },
+        {
+          "questionId": "1193",
+          "title": "Game Play Analysis V",
+          "titleSlug": "game-play-analysis-v",
+          "difficulty": "Hard",
+          "acRate": 50.72216828799556,
+          "status": "PENDING",
+          "frontendQuestionId": "1097"
+        },
+        {
+          "questionId": "1197",
+          "title": "Parsing A Boolean Expression",
+          "titleSlug": "parsing-a-boolean-expression",
+          "difficulty": "Hard",
+          "acRate": 70.37163276525563,
+          "status": "PENDING",
+          "frontendQuestionId": "1106"
+        },
+        {
+          "questionId": "1118",
+          "title": "Divide Array Into Increasing Sequences",
+          "titleSlug": "divide-array-into-increasing-sequences",
+          "difficulty": "Hard",
+          "acRate": 60.36205477841777,
+          "status": "PENDING",
+          "frontendQuestionId": "1121"
+        },
+        {
+          "questionId": "1220",
+          "title": "Smallest Sufficient Team",
+          "titleSlug": "smallest-sufficient-team",
+          "difficulty": "Hard",
+          "acRate": 55.40215336703,
+          "status": "PENDING",
+          "frontendQuestionId": "1125"
+        },
+        {
+          "questionId": "1226",
+          "title": "User Purchase Platform",
+          "titleSlug": "user-purchase-platform",
+          "difficulty": "Hard",
+          "acRate": 47.08937994722955,
+          "status": "PENDING",
+          "frontendQuestionId": "1127"
+        },
+        {
+          "questionId": "1251",
+          "title": "Longest Chunked Palindrome Decomposition",
+          "titleSlug": "longest-chunked-palindrome-decomposition",
+          "difficulty": "Hard",
+          "acRate": 58.82327285415213,
+          "status": "PENDING",
+          "frontendQuestionId": "1147"
+        },
+        {
+          "questionId": "1124",
+          "title": "String Transforms Into Another String",
+          "titleSlug": "string-transforms-into-another-string",
+          "difficulty": "Hard",
+          "acRate": 34.823377784791816,
+          "status": "PENDING",
+          "frontendQuestionId": "1153"
+        },
+        {
+          "questionId": "1262",
+          "title": "Online Majority Element In Subarray",
+          "titleSlug": "online-majority-element-in-subarray",
+          "difficulty": "Hard",
+          "acRate": 42.12815174647236,
+          "status": "PENDING",
+          "frontendQuestionId": "1157"
+        },
+        {
+          "questionId": "1269",
+          "title": "Market Analysis II",
+          "titleSlug": "market-analysis-ii",
+          "difficulty": "Hard",
+          "acRate": 57.58273461122361,
+          "status": "PENDING",
+          "frontendQuestionId": "1159"
+        },
+        {
+          "questionId": "1133",
+          "title": "Last Substring in Lexicographical Order",
+          "titleSlug": "last-substring-in-lexicographical-order",
+          "difficulty": "Hard",
+          "acRate": 34.49396038310027,
+          "status": "PENDING",
+          "frontendQuestionId": "1163"
+        },
+        {
+          "questionId": "1144",
+          "title": "Optimize Water Distribution in a Village",
+          "titleSlug": "optimize-water-distribution-in-a-village",
+          "difficulty": "Hard",
+          "acRate": 64.94039115227352,
+          "status": "PENDING",
+          "frontendQuestionId": "1168"
+        },
+        {
+          "questionId": "1270",
+          "title": "Dinner Plate Stacks",
+          "titleSlug": "dinner-plate-stacks",
+          "difficulty": "Hard",
+          "acRate": 32.69527631985181,
+          "status": "PENDING",
+          "frontendQuestionId": "1172"
+        },
+        {
+          "questionId": "1282",
+          "title": "Number of Valid Words for Each Puzzle",
+          "titleSlug": "number-of-valid-words-for-each-puzzle",
+          "difficulty": "Hard",
+          "acRate": 46.868435159294734,
+          "status": "PENDING",
+          "frontendQuestionId": "1178"
+        },
+        {
+          "questionId": "1152",
+          "title": "Maximum Number of Ones",
+          "titleSlug": "maximum-number-of-ones",
+          "difficulty": "Hard",
+          "acRate": 68.41109709962168,
+          "status": "PENDING",
+          "frontendQuestionId": "1183"
+        },
+        {
+          "questionId": "1290",
+          "title": "Make Array Strictly Increasing",
+          "titleSlug": "make-array-strictly-increasing",
+          "difficulty": "Hard",
+          "acRate": 57.94644045875573,
+          "status": "PENDING",
+          "frontendQuestionId": "1187"
+        },
+        {
+          "questionId": "1300",
+          "title": "Critical Connections in a Network",
+          "titleSlug": "critical-connections-in-a-network",
+          "difficulty": "Hard",
+          "acRate": 57.0979479798544,
+          "status": "PENDING",
+          "frontendQuestionId": "1192"
+        },
+        {
+          "questionId": "1318",
+          "title": "Tournament Winners",
+          "titleSlug": "tournament-winners",
+          "difficulty": "Hard",
+          "acRate": 49.53789687804015,
+          "status": "PENDING",
+          "frontendQuestionId": "1194"
+        },
+        {
+          "questionId": "1167",
+          "title": "Minimum Time to Build Blocks",
+          "titleSlug": "minimum-time-to-build-blocks",
+          "difficulty": "Hard",
+          "acRate": 45.96014004847832,
+          "status": "PENDING",
+          "frontendQuestionId": "1199"
+        },
+        {
+          "questionId": "1309",
+          "title": "Sort Items by Groups Respecting Dependencies",
+          "titleSlug": "sort-items-by-groups-respecting-dependencies",
+          "difficulty": "Hard",
+          "acRate": 65.78282685272231,
+          "status": "PENDING",
+          "frontendQuestionId": "1203"
+        },
+        {
+          "questionId": "1337",
+          "title": "Design Skiplist",
+          "titleSlug": "design-skiplist",
+          "difficulty": "Hard",
+          "acRate": 61.84298762862759,
+          "status": "PENDING",
+          "frontendQuestionId": "1206"
+        },
+        {
+          "questionId": "1322",
+          "title": "Minimum Moves to Reach Target with Rotations",
+          "titleSlug": "minimum-moves-to-reach-target-with-rotations",
+          "difficulty": "Hard",
+          "acRate": 50.46237619114679,
+          "status": "PENDING",
+          "frontendQuestionId": "1210"
+        },
+        {
+          "questionId": "1178",
+          "title": "Valid Palindrome III",
+          "titleSlug": "valid-palindrome-iii",
+          "difficulty": "Hard",
+          "acRate": 49.14927628265487,
+          "status": "PENDING",
+          "frontendQuestionId": "1216"
+        },
+        {
+          "questionId": "1332",
+          "title": "Count Vowels Permutation",
+          "titleSlug": "count-vowels-permutation",
+          "difficulty": "Hard",
+          "acRate": 61.60539975552288,
+          "status": "PENDING",
+          "frontendQuestionId": "1220"
+        },
+        {
+          "questionId": "1343",
+          "title": "Dice Roll Simulation",
+          "titleSlug": "dice-roll-simulation",
+          "difficulty": "Hard",
+          "acRate": 49.756119797602224,
+          "status": "PENDING",
+          "frontendQuestionId": "1223"
+        },
+        {
+          "questionId": "1344",
+          "title": "Maximum Equal Frequency",
+          "titleSlug": "maximum-equal-frequency",
+          "difficulty": "Hard",
+          "acRate": 37.281527292282874,
+          "status": "PENDING",
+          "frontendQuestionId": "1224"
+        },
+        {
+          "questionId": "1357",
+          "title": "Report Contiguous Dates",
+          "titleSlug": "report-contiguous-dates",
+          "difficulty": "Hard",
+          "acRate": 57.27299628001352,
+          "status": "PENDING",
+          "frontendQuestionId": "1225"
+        },
+        {
+          "questionId": "1192",
+          "title": "Divide Chocolate",
+          "titleSlug": "divide-chocolate",
+          "difficulty": "Hard",
+          "acRate": 59.4901404315702,
+          "status": "PENDING",
+          "frontendQuestionId": "1231"
+        },
+        {
+          "questionId": "1352",
+          "title": "Maximum Profit in Job Scheduling",
+          "titleSlug": "maximum-profit-in-job-scheduling",
+          "difficulty": "Hard",
+          "acRate": 54.337178394578686,
+          "status": "PENDING",
+          "frontendQuestionId": "1235"
+        }
+      ]
+    }
+  }
+}

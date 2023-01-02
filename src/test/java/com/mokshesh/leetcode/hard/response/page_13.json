@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 796,
+      "questions": [
+        {
+          "questionId": "2826",
+          "title": "Find a Good Subset of the Matrix",
+          "titleSlug": "find-a-good-subset-of-the-matrix",
+          "difficulty": "Hard",
+          "acRate": 45.33837851249922,
+          "status": "PENDING",
+          "frontendQuestionId": "2732"
+        },
+        {
+          "questionId": "2839",
+          "title": "Maximum Sum Queries",
+          "titleSlug": "maximum-sum-queries",
+          "difficulty": "Hard",
+          "acRate": 29.55057730346382,
+          "status": "PENDING",
+          "frontendQuestionId": "2736"
+        },
+        {
+          "questionId": "2808",
+          "title": "Painting the Walls",
+          "titleSlug": "painting-the-walls",
+          "difficulty": "Hard",
+          "acRate": 50.32670993064383,
+          "status": "PENDING",
+          "frontendQuestionId": "2742"
+        },
+        {
+          "questionId": "2846",
+          "title": "Robot Collisions",
+          "titleSlug": "robot-collisions",
+          "difficulty": "Hard",
+          "acRate": 56.76096495662548,
+          "status": "PENDING",
+          "frontendQuestionId": "2751"
+        },
+        {
+          "questionId": "2852",
+          "title": "Customers with Maximum Number of Transactions on Consecutive Days",
+          "titleSlug": "customers-with-maximum-number-of-transactions-on-consecutive-days",
+          "difficulty": "Hard",
+          "acRate": 40.214067278287466,
+          "status": "PENDING",
+          "frontendQuestionId": "2752"
+        },
+        {
+          "questionId": "2897",
+          "title": "Count Houses in a Circular Street II",
+          "titleSlug": "count-houses-in-a-circular-street-ii",
+          "difficulty": "Hard",
+          "acRate": 60.856031128404666,
+          "status": "PENDING",
+          "frontendQuestionId": "2753"
+        },
+        {
+          "questionId": "2806",
+          "title": "Query Batching",
+          "titleSlug": "query-batching",
+          "difficulty": "Hard",
+          "acRate": 64.55284552845528,
+          "status": "PENDING",
+          "frontendQuestionId": "2756"
+        },
+        {
+          "questionId": "2851",
+          "title": "Convert JSON String to Object",
+          "titleSlug": "convert-json-string-to-object",
+          "difficulty": "Hard",
+          "acRate": 62.058526740666,
+          "status": "PENDING",
+          "frontendQuestionId": "2759"
+        },
+        {
+          "questionId": "2849",
+          "title": "Sum of Imbalance Numbers of All Subarrays",
+          "titleSlug": "sum-of-imbalance-numbers-of-all-subarrays",
+          "difficulty": "Hard",
+          "acRate": 45.15083917569577,
+          "status": "PENDING",
+          "frontendQuestionId": "2763"
+        },
+        {
+          "questionId": "2884",
+          "title": "Length of the Longest Valid Substring",
+          "titleSlug": "length-of-the-longest-valid-substring",
+          "difficulty": "Hard",
+          "acRate": 37.843270074289585,
+          "status": "PENDING",
+          "frontendQuestionId": "2781"
+        },
+        {
+          "questionId": "2919",
+          "title": "Maximum Number of Groups With Increasing Length",
+          "titleSlug": "maximum-number-of-groups-with-increasing-length",
+          "difficulty": "Hard",
+          "acRate": 20.167365720568473,
+          "status": "PENDING",
+          "frontendQuestionId": "2790"
+        },
+        {
+          "questionId": "2905",
+          "title": "Count Paths That Can Form a Palindrome in a Tree",
+          "titleSlug": "count-paths-that-can-form-a-palindrome-in-a-tree",
+          "difficulty": "Hard",
+          "acRate": 47.277452106121956,
+          "status": "PENDING",
+          "frontendQuestionId": "2791"
+        },
+        {
+          "questionId": "3016",
+          "title": "Count Nodes That Are Great Enough",
+          "titleSlug": "count-nodes-that-are-great-enough",
+          "difficulty": "Hard",
+          "acRate": 57.48337028824834,
+          "status": "PENDING",
+          "frontendQuestionId": "2792"
+        },
+        {
+          "questionId": "3003",
+          "title": "Status of Flight Tickets",
+          "titleSlug": "status-of-flight-tickets",
+          "difficulty": "Hard",
+          "acRate": 77.47216764898494,
+          "status": "PENDING",
+          "frontendQuestionId": "2793"
+        },
+        {
+          "questionId": "2921",
+          "title": "Count Stepping Numbers in Range",
+          "titleSlug": "count-stepping-numbers-in-range",
+          "difficulty": "Hard",
+          "acRate": 27.87793397162893,
+          "status": "PENDING",
+          "frontendQuestionId": "2801"
+        },
+        {
+          "questionId": "2952",
+          "title": "Minimum Time to Make Array Sum At Most x",
+          "titleSlug": "minimum-time-to-make-array-sum-at-most-x",
+          "difficulty": "Hard",
+          "acRate": 27.405463982204985,
+          "status": "PENDING",
+          "frontendQuestionId": "2809"
+        },
+        {
+          "questionId": "2894",
+          "title": "Maximum Elegance of a K-Length Subsequence",
+          "titleSlug": "maximum-elegance-of-a-k-length-subsequence",
+          "difficulty": "Hard",
+          "acRate": 32.20308575529243,
+          "status": "PENDING",
+          "frontendQuestionId": "2813"
+        },
+        {
+          "questionId": "3043",
+          "title": "Minimum Time Takes to Reach Destination Without Drowning",
+          "titleSlug": "minimum-time-takes-to-reach-destination-without-drowning",
+          "difficulty": "Hard",
+          "acRate": 55.659494855004674,
+          "status": "PENDING",
+          "frontendQuestionId": "2814"
+        },
+        {
+          "questionId": "3001",
+          "title": "Apply Operations to Maximize Score",
+          "titleSlug": "apply-operations-to-maximize-score",
+          "difficulty": "Hard",
+          "acRate": 32.14882763941875,
+          "status": "PENDING",
+          "frontendQuestionId": "2818"
+        },
+        {
+          "questionId": "3077",
+          "title": "Minimum Relative Loss After Buying Chocolates",
+          "titleSlug": "minimum-relative-loss-after-buying-chocolates",
+          "difficulty": "Hard",
+          "acRate": 41.55374887082204,
+          "status": "PENDING",
+          "frontendQuestionId": "2819"
+        },
+        {
+          "questionId": "3017",
+          "title": "Number of Beautiful Integers in the Range",
+          "titleSlug": "number-of-beautiful-integers-in-the-range",
+          "difficulty": "Hard",
+          "acRate": 18.954426515481902,
+          "status": "PENDING",
+          "frontendQuestionId": "2827"
+        },
+        {
+          "questionId": "3025",
+          "title": "Minimum Operations to Form Subsequence With Target Sum",
+          "titleSlug": "minimum-operations-to-form-subsequence-with-target-sum",
+          "difficulty": "Hard",
+          "acRate": 32.12020883738699,
+          "status": "PENDING",
+          "frontendQuestionId": "2835"
+        },
+        {
+          "questionId": "3032",
+          "title": "Maximize Value of Function in a Ball Passing Game",
+          "titleSlug": "maximize-value-of-function-in-a-ball-passing-game",
+          "difficulty": "Hard",
+          "acRate": 30.98426121681936,
+          "status": "PENDING",
+          "frontendQuestionId": "2836"
+        },
+        {
+          "questionId": "3057",
+          "title": "Count K-Subsequences of a String With Maximum Beauty",
+          "titleSlug": "count-k-subsequences-of-a-string-with-maximum-beauty",
+          "difficulty": "Hard",
+          "acRate": 29.59730651663492,
+          "status": "PENDING",
+          "frontendQuestionId": "2842"
+        },
+        {
+          "questionId": "3079",
+          "title": "Minimum Edge Weight Equilibrium Queries in a Tree",
+          "titleSlug": "minimum-edge-weight-equilibrium-queries-in-a-tree",
+          "difficulty": "Hard",
+          "acRate": 43.651195143543696,
+          "status": "PENDING",
+          "frontendQuestionId": "2846"
+        },
+        {
+          "questionId": "3024",
+          "title": "String Transformation",
+          "titleSlug": "string-transformation",
+          "difficulty": "Hard",
+          "acRate": 30.297184881548013,
+          "status": "PENDING",
+          "frontendQuestionId": "2851"
+        },
+        {
+          "questionId": "3105",
+          "title": "Minimum Edge Reversals So Every Node Is Reachable",
+          "titleSlug": "minimum-edge-reversals-so-every-node-is-reachable",
+          "difficulty": "Hard",
+          "acRate": 57.401742944537425,
+          "status": "PENDING",
+          "frontendQuestionId": "2858"
+        },
+        {
+          "questionId": "3047",
+          "title": "Maximum Element-Sum of a Complete Subset of Indices",
+          "titleSlug": "maximum-element-sum-of-a-complete-subset-of-indices",
+          "difficulty": "Hard",
+          "acRate": 43.21149509675389,
+          "status": "PENDING",
+          "frontendQuestionId": "2862"
+        },
+        {
+          "questionId": "3112",
+          "title": "Count Valid Paths in a Tree",
+          "titleSlug": "count-valid-paths-in-a-tree",
+          "difficulty": "Hard",
+          "acRate": 35.390739385065885,
+          "status": "PENDING",
+          "frontendQuestionId": "2867"
+        },
+        {
+          "questionId": "3173",
+          "title": "The Wording Game",
+          "titleSlug": "the-wording-game",
+          "difficulty": "Hard",
+          "acRate": 53.54330708661418,
+          "status": "PENDING",
+          "frontendQuestionId": "2868"
+        },
+        {
+          "questionId": "3058",
+          "title": "Maximum Number of K-Divisible Components",
+          "titleSlug": "maximum-number-of-k-divisible-components",
+          "difficulty": "Hard",
+          "acRate": 70.24391514635778,
+          "status": "PENDING",
+          "frontendQuestionId": "2872"
+        },
+        {
+          "questionId": "3140",
+          "title": "Count Visited Nodes in a Directed Graph",
+          "titleSlug": "count-visited-nodes-in-a-directed-graph",
+          "difficulty": "Hard",
+          "acRate": 32.677143019231856,
+          "status": "PENDING",
+          "frontendQuestionId": "2876"
+        },
+        {
+          "questionId": "3153",
+          "title": "Apply Operations on Array to Maximize Sum of Squares",
+          "titleSlug": "apply-operations-on-array-to-maximize-sum-of-squares",
+          "difficulty": "Hard",
+          "acRate": 45.17972350230415,
+          "status": "PENDING",
+          "frontendQuestionId": "2897"
+        },
+        {
+          "questionId": "3091",
+          "title": "Count of Sub-Multisets With Bounded Sum",
+          "titleSlug": "count-of-sub-multisets-with-bounded-sum",
+          "difficulty": "Hard",
+          "acRate": 21.428246738488113,
+          "status": "PENDING",
+          "frontendQuestionId": "2902"
+        },
+        {
+          "questionId": "2879",
+          "title": "Minimum Changes to Make K Semi-palindromes",
+          "titleSlug": "minimum-changes-to-make-k-semi-palindromes",
+          "difficulty": "Hard",
+          "acRate": 35.55555555555556,
+          "status": "PENDING",
+          "frontendQuestionId": "2911"
+        },
+        {
+          "questionId": "3198",
+          "title": "Number of Ways to Reach Destination in the Grid",
+          "titleSlug": "number-of-ways-to-reach-destination-in-the-grid",
+          "difficulty": "Hard",
+          "acRate": 59.18840579710145,
+          "status": "PENDING",
+          "frontendQuestionId": "2912"
+        },
+        {
+          "questionId": "3139",
+          "title": "Subarrays Distinct Element Sum of Squares II",
+          "titleSlug": "subarrays-distinct-element-sum-of-squares-ii",
+          "difficulty": "Hard",
+          "acRate": 21.601008887821283,
+          "status": "PENDING",
+          "frontendQuestionId": "2916"
+        },
+        {
+          "questionId": "3179",
+          "title": "Maximum Points After Collecting Coins From All Nodes",
+          "titleSlug": "maximum-points-after-collecting-coins-from-all-nodes",
+          "difficulty": "Hard",
+          "acRate": 36.145031783205084,
+          "status": "PENDING",
+          "frontendQuestionId": "2920"
+        },
+        {
+          "questionId": "3204",
+          "title": "Maximum Profitable Triplets With Increasing Prices II",
+          "titleSlug": "maximum-profitable-triplets-with-increasing-prices-ii",
+          "difficulty": "Hard",
+          "acRate": 45.45454545454545,
+          "status": "PENDING",
+          "frontendQuestionId": "2921"
+        },
+        {
+          "questionId": "3184",
+          "title": "Maximum Balanced Subsequence Sum",
+          "titleSlug": "maximum-balanced-subsequence-sum",
+          "difficulty": "Hard",
+          "acRate": 24.26887821911829,
+          "status": "PENDING",
+          "frontendQuestionId": "2926"
+        },
+        {
+          "questionId": "3216",
+          "title": "Distribute Candies Among Children III",
+          "titleSlug": "distribute-candies-among-children-iii",
+          "difficulty": "Hard",
+          "acRate": 44.21265141318977,
+          "status": "PENDING",
+          "frontendQuestionId": "2927"
+        },
+        {
+          "questionId": "3107",
+          "title": "Maximum Spending After Buying Items",
+          "titleSlug": "maximum-spending-after-buying-items",
+          "difficulty": "Hard",
+          "acRate": 61.259710886026156,
+          "status": "PENDING",
+          "frontendQuestionId": "2931"
+        },
+        {
+          "questionId": "3197",
+          "title": "Maximum Strong Pair XOR II",
+          "titleSlug": "maximum-strong-pair-xor-ii",
+          "difficulty": "Hard",
+          "acRate": 30.11470190588338,
+          "status": "PENDING",
+          "frontendQuestionId": "2935"
+        },
+        {
+          "questionId": "3181",
+          "title": "Find Building Where Alice and Bob Can Meet",
+          "titleSlug": "find-building-where-alice-and-bob-can-meet",
+          "difficulty": "Hard",
+          "acRate": 52.93364843326764,
+          "status": "PENDING",
+          "frontendQuestionId": "2940"
+        },
+        {
+          "questionId": "3232",
+          "title": "Maximum GCD-Sum of a Subarray",
+          "titleSlug": "maximum-gcd-sum-of-a-subarray",
+          "difficulty": "Hard",
+          "acRate": 37.7160030052592,
+          "status": "PENDING",
+          "frontendQuestionId": "2941"
+        },
+        {
+          "questionId": "3211",
+          "title": "Find Maximum Non-decreasing Array Length",
+          "titleSlug": "find-maximum-non-decreasing-array-length",
+          "difficulty": "Hard",
+          "acRate": 16.746875324585396,
+          "status": "PENDING",
+          "frontendQuestionId": "2945"
+        },
+        {
+          "questionId": "3208",
+          "title": "Count Beautiful Substrings II",
+          "titleSlug": "count-beautiful-substrings-ii",
+          "difficulty": "Hard",
+          "acRate": 25.956391173782478,
+          "status": "PENDING",
+          "frontendQuestionId": "2949"
+        },
+        {
+          "questionId": "3223",
+          "title": "Count Complete Substrings",
+          "titleSlug": "count-complete-substrings",
+          "difficulty": "Hard",
+          "acRate": 27.561666551509706,
+          "status": "PENDING",
+          "frontendQuestionId": "2953"
+        },
+        {
+          "questionId": "3224",
+          "title": "Count the Number of Infection Sequences",
+          "titleSlug": "count-the-number-of-infection-sequences",
+          "difficulty": "Hard",
+          "acRate": 34.94924580210606,
+          "status": "PENDING",
+          "frontendQuestionId": "2954"
+        },
+        {
+          "questionId": "3217",
+          "title": "Number of Possible Sets of Closing Branches",
+          "titleSlug": "number-of-possible-sets-of-closing-branches",
+          "difficulty": "Hard",
+          "acRate": 50.78830260648443,
+          "status": "PENDING",
+          "frontendQuestionId": "2959"
+        }
+      ]
+    }
+  }
+}

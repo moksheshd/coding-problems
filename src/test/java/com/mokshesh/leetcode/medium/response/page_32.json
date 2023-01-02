@@ -1,0 +1,459 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "total": 1793,
+      "questions": [
+        {
+          "questionId": "3214",
+          "title": "Maximize Area of Square Hole in Grid",
+          "titleSlug": "maximize-area-of-square-hole-in-grid",
+          "difficulty": "Medium",
+          "acRate": 37.3021897810219,
+          "status": "PENDING",
+          "frontendQuestionId": "2943"
+        },
+        {
+          "questionId": "3209",
+          "title": "Minimum Number of Coins for Fruits",
+          "titleSlug": "minimum-number-of-coins-for-fruits",
+          "difficulty": "Medium",
+          "acRate": 46.75122895494256,
+          "status": "PENDING",
+          "frontendQuestionId": "2944"
+        },
+        {
+          "questionId": "3210",
+          "title": "Count Beautiful Substrings I",
+          "titleSlug": "count-beautiful-substrings-i",
+          "difficulty": "Medium",
+          "acRate": 61.2885198786524,
+          "status": "PENDING",
+          "frontendQuestionId": "2947"
+        },
+        {
+          "questionId": "3219",
+          "title": "Make Lexicographically Smallest Array by Swapping Elements",
+          "titleSlug": "make-lexicographically-smallest-array-by-swapping-elements",
+          "difficulty": "Medium",
+          "acRate": 60.40828793972407,
+          "status": "PENDING",
+          "frontendQuestionId": "2948"
+        },
+        {
+          "questionId": "3237",
+          "title": "Number of Divisible Substrings",
+          "titleSlug": "number-of-divisible-substrings",
+          "difficulty": "Medium",
+          "acRate": 73.06556408741879,
+          "status": "PENDING",
+          "frontendQuestionId": "2950"
+        },
+        {
+          "questionId": "3231",
+          "title": "Minimum Number of Coins to be Added",
+          "titleSlug": "minimum-number-of-coins-to-be-added",
+          "difficulty": "Medium",
+          "acRate": 56.897610397584806,
+          "status": "PENDING",
+          "frontendQuestionId": "2952"
+        },
+        {
+          "questionId": "3247",
+          "title": "Number of Same-End Substrings",
+          "titleSlug": "number-of-same-end-substrings",
+          "difficulty": "Medium",
+          "acRate": 61.8006993006993,
+          "status": "PENDING",
+          "frontendQuestionId": "2955"
+        },
+        {
+          "questionId": "3230",
+          "title": "Remove Adjacent Almost-Equal Characters",
+          "titleSlug": "remove-adjacent-almost-equal-characters",
+          "difficulty": "Medium",
+          "acRate": 52.168381100256624,
+          "status": "PENDING",
+          "frontendQuestionId": "2957"
+        },
+        {
+          "questionId": "3225",
+          "title": "Length of Longest Subarray With at Most K Frequency",
+          "titleSlug": "length-of-longest-subarray-with-at-most-k-frequency",
+          "difficulty": "Medium",
+          "acRate": 55.90563144881694,
+          "status": "PENDING",
+          "frontendQuestionId": "2958"
+        },
+        {
+          "questionId": "3234",
+          "title": "Double Modular Exponentiation",
+          "titleSlug": "double-modular-exponentiation",
+          "difficulty": "Medium",
+          "acRate": 48.10199632368658,
+          "status": "PENDING",
+          "frontendQuestionId": "2961"
+        },
+        {
+          "questionId": "3213",
+          "title": "Count Subarrays Where Max Element Appears at Least K Times",
+          "titleSlug": "count-subarrays-where-max-element-appears-at-least-k-times",
+          "difficulty": "Medium",
+          "acRate": 58.6604759434738,
+          "status": "PENDING",
+          "frontendQuestionId": "2962"
+        },
+        {
+          "questionId": "3254",
+          "title": "Number of Divisible Triplet Sums",
+          "titleSlug": "number-of-divisible-triplet-sums",
+          "difficulty": "Medium",
+          "acRate": 64.2998678996037,
+          "status": "PENDING",
+          "frontendQuestionId": "2964"
+        },
+        {
+          "questionId": "3241",
+          "title": "Divide Array Into Arrays With Max Difference",
+          "titleSlug": "divide-array-into-arrays-with-max-difference",
+          "difficulty": "Medium",
+          "acRate": 71.90794637242797,
+          "status": "PENDING",
+          "frontendQuestionId": "2966"
+        },
+        {
+          "questionId": "3229",
+          "title": "Minimum Cost to Make Array Equalindromic",
+          "titleSlug": "minimum-cost-to-make-array-equalindromic",
+          "difficulty": "Medium",
+          "acRate": 22.31165589195417,
+          "status": "PENDING",
+          "frontendQuestionId": "2967"
+        },
+        {
+          "questionId": "3262",
+          "title": "Find Polygon With the Largest Perimeter",
+          "titleSlug": "find-polygon-with-the-largest-perimeter",
+          "difficulty": "Medium",
+          "acRate": 65.69769653624485,
+          "status": "PENDING",
+          "frontendQuestionId": "2971"
+        },
+        {
+          "questionId": "3250",
+          "title": "Maximum Square Area by Removing Fences From a Field",
+          "titleSlug": "maximum-square-area-by-removing-fences-from-a-field",
+          "difficulty": "Medium",
+          "acRate": 23.822001563002804,
+          "status": "PENDING",
+          "frontendQuestionId": "2975"
+        },
+        {
+          "questionId": "3235",
+          "title": "Minimum Cost to Convert String I",
+          "titleSlug": "minimum-cost-to-convert-string-i",
+          "difficulty": "Medium",
+          "acRate": 58.044557873861336,
+          "status": "PENDING",
+          "frontendQuestionId": "2976"
+        },
+        {
+          "questionId": "3253",
+          "title": "Symmetric Coordinates",
+          "titleSlug": "symmetric-coordinates",
+          "difficulty": "Medium",
+          "acRate": 41.088491898629,
+          "status": "PENDING",
+          "frontendQuestionId": "2978"
+        },
+        {
+          "questionId": "3273",
+          "title": "Most Expensive Item That Can Not Be Bought",
+          "titleSlug": "most-expensive-item-that-can-not-be-bought",
+          "difficulty": "Medium",
+          "acRate": 80.48286829550383,
+          "status": "PENDING",
+          "frontendQuestionId": "2979"
+        },
+        {
+          "questionId": "3267",
+          "title": "Find Longest Special Substring That Occurs Thrice I",
+          "titleSlug": "find-longest-special-substring-that-occurs-thrice-i",
+          "difficulty": "Medium",
+          "acRate": 62.3459559175609,
+          "status": "PENDING",
+          "frontendQuestionId": "2981"
+        },
+        {
+          "questionId": "3266",
+          "title": "Find Longest Special Substring That Occurs Thrice II",
+          "titleSlug": "find-longest-special-substring-that-occurs-thrice-ii",
+          "difficulty": "Medium",
+          "acRate": 38.705324104305426,
+          "status": "PENDING",
+          "frontendQuestionId": "2982"
+        },
+        {
+          "questionId": "3281",
+          "title": "Find Peak Calling Hours for Each City",
+          "titleSlug": "find-peak-calling-hours-for-each-city",
+          "difficulty": "Medium",
+          "acRate": 61.98595787362087,
+          "status": "PENDING",
+          "frontendQuestionId": "2984"
+        },
+        {
+          "questionId": "3283",
+          "title": "Find Third Transaction",
+          "titleSlug": "find-third-transaction",
+          "difficulty": "Medium",
+          "acRate": 53.60333531864205,
+          "status": "PENDING",
+          "frontendQuestionId": "2986"
+        },
+        {
+          "questionId": "3285",
+          "title": "Manager of the Largest Department",
+          "titleSlug": "manager-of-the-largest-department",
+          "difficulty": "Medium",
+          "acRate": 79.89041095890411,
+          "status": "PENDING",
+          "frontendQuestionId": "2988"
+        },
+        {
+          "questionId": "3286",
+          "title": "Class Performance",
+          "titleSlug": "class-performance",
+          "difficulty": "Medium",
+          "acRate": 89.34010152284264,
+          "status": "PENDING",
+          "frontendQuestionId": "2989"
+        },
+        {
+          "questionId": "3294",
+          "title": "Number of Self-Divisible Permutations",
+          "titleSlug": "number-of-self-divisible-permutations",
+          "difficulty": "Medium",
+          "acRate": 72.15686274509804,
+          "status": "PENDING",
+          "frontendQuestionId": "2992"
+        },
+        {
+          "questionId": "3300",
+          "title": "Friday Purchases I",
+          "titleSlug": "friday-purchases-i",
+          "difficulty": "Medium",
+          "acRate": 80.18575851393189,
+          "status": "PENDING",
+          "frontendQuestionId": "2993"
+        },
+        {
+          "questionId": "3249",
+          "title": "Minimum Number of Operations to Make Array XOR Equal to K",
+          "titleSlug": "minimum-number-of-operations-to-make-array-xor-equal-to-k",
+          "difficulty": "Medium",
+          "acRate": 85.85824605470707,
+          "status": "PENDING",
+          "frontendQuestionId": "2997"
+        },
+        {
+          "questionId": "3239",
+          "title": "Minimum Number of Operations to Make X and Y Equal",
+          "titleSlug": "minimum-number-of-operations-to-make-x-and-y-equal",
+          "difficulty": "Medium",
+          "acRate": 47.52347369715855,
+          "status": "PENDING",
+          "frontendQuestionId": "2998"
+        },
+        {
+          "questionId": "3270",
+          "title": "Minimum Moves to Capture The Queen",
+          "titleSlug": "minimum-moves-to-capture-the-queen",
+          "difficulty": "Medium",
+          "acRate": 21.26579770135189,
+          "status": "PENDING",
+          "frontendQuestionId": "3001"
+        },
+        {
+          "questionId": "3228",
+          "title": "Maximum Size of a Set After Removals",
+          "titleSlug": "maximum-size-of-a-set-after-removals",
+          "difficulty": "Medium",
+          "acRate": 45.396992877868634,
+          "status": "PENDING",
+          "frontendQuestionId": "3002"
+        },
+        {
+          "questionId": "3304",
+          "title": "Maximum Subtree of the Same Color",
+          "titleSlug": "maximum-subtree-of-the-same-color",
+          "difficulty": "Medium",
+          "acRate": 58.815331010452965,
+          "status": "PENDING",
+          "frontendQuestionId": "3004"
+        },
+        {
+          "questionId": "3245",
+          "title": "Find Beautiful Indices in the Given Array I",
+          "titleSlug": "find-beautiful-indices-in-the-given-array-i",
+          "difficulty": "Medium",
+          "acRate": 37.61266397033232,
+          "status": "PENDING",
+          "frontendQuestionId": "3006"
+        },
+        {
+          "questionId": "3240",
+          "title": "Maximum Number That Sum of the Prices Is Less Than or Equal to K",
+          "titleSlug": "maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k",
+          "difficulty": "Medium",
+          "acRate": 36.75700701591937,
+          "status": "PENDING",
+          "frontendQuestionId": "3007"
+        },
+        {
+          "questionId": "3291",
+          "title": "Find if Array Can Be Sorted",
+          "titleSlug": "find-if-array-can-be-sorted",
+          "difficulty": "Medium",
+          "acRate": 67.02984123413748,
+          "status": "PENDING",
+          "frontendQuestionId": "3011"
+        },
+        {
+          "questionId": "3244",
+          "title": "Minimize Length of Array Using Operations",
+          "titleSlug": "minimize-length-of-array-using-operations",
+          "difficulty": "Medium",
+          "acRate": 34.76324533874838,
+          "status": "PENDING",
+          "frontendQuestionId": "3012"
+        },
+        {
+          "questionId": "3271",
+          "title": "Count the Number of Houses at a Certain Distance I",
+          "titleSlug": "count-the-number-of-houses-at-a-certain-distance-i",
+          "difficulty": "Medium",
+          "acRate": 56.73745880629806,
+          "status": "PENDING",
+          "frontendQuestionId": "3015"
+        },
+        {
+          "questionId": "3276",
+          "title": "Minimum Number of Pushes to Type Word II",
+          "titleSlug": "minimum-number-of-pushes-to-type-word-ii",
+          "difficulty": "Medium",
+          "acRate": 80.30840143601957,
+          "status": "PENDING",
+          "frontendQuestionId": "3016"
+        },
+        {
+          "questionId": "3299",
+          "title": "Find the Maximum Number of Elements in Subset",
+          "titleSlug": "find-the-maximum-number-of-elements-in-subset",
+          "difficulty": "Medium",
+          "acRate": 26.247513349387496,
+          "status": "PENDING",
+          "frontendQuestionId": "3020"
+        },
+        {
+          "questionId": "3279",
+          "title": "Alice and Bob Playing Flower Game",
+          "titleSlug": "alice-and-bob-playing-flower-game",
+          "difficulty": "Medium",
+          "acRate": 47.98352025635157,
+          "status": "PENDING",
+          "frontendQuestionId": "3021"
+        },
+        {
+          "questionId": "3333",
+          "title": "Find Pattern in Infinite Stream I",
+          "titleSlug": "find-pattern-in-infinite-stream-i",
+          "difficulty": "Medium",
+          "acRate": 57.5599128540305,
+          "status": "PENDING",
+          "frontendQuestionId": "3023"
+        },
+        {
+          "questionId": "3278",
+          "title": "Find the Number of Ways to Place People I",
+          "titleSlug": "find-the-number-of-ways-to-place-people-i",
+          "difficulty": "Medium",
+          "acRate": 41.1185559961712,
+          "status": "PENDING",
+          "frontendQuestionId": "3025"
+        },
+        {
+          "questionId": "3265",
+          "title": "Maximum Good Subarray Sum",
+          "titleSlug": "maximum-good-subarray-sum",
+          "difficulty": "Medium",
+          "acRate": 19.826991324921135,
+          "status": "PENDING",
+          "frontendQuestionId": "3026"
+        },
+        {
+          "questionId": "3297",
+          "title": "Minimum Time to Revert Word to Initial State I",
+          "titleSlug": "minimum-time-to-revert-word-to-initial-state-i",
+          "difficulty": "Medium",
+          "acRate": 41.311411615915944,
+          "status": "PENDING",
+          "frontendQuestionId": "3029"
+        },
+        {
+          "questionId": "3272",
+          "title": "Find the Grid of Region Average",
+          "titleSlug": "find-the-grid-of-region-average",
+          "difficulty": "Medium",
+          "acRate": 43.208769713517256,
+          "status": "PENDING",
+          "frontendQuestionId": "3030"
+        },
+        {
+          "questionId": "3269",
+          "title": "Number of Subarrays That Match a Pattern I",
+          "titleSlug": "number-of-subarrays-that-match-a-pattern-i",
+          "difficulty": "Medium",
+          "acRate": 66.84500879821182,
+          "status": "PENDING",
+          "frontendQuestionId": "3034"
+        },
+        {
+          "questionId": "3317",
+          "title": "Maximum Palindromes After Operations",
+          "titleSlug": "maximum-palindromes-after-operations",
+          "difficulty": "Medium",
+          "acRate": 42.96209227152513,
+          "status": "PENDING",
+          "frontendQuestionId": "3035"
+        },
+        {
+          "questionId": "3308",
+          "title": "Apply Operations to Make String Empty",
+          "titleSlug": "apply-operations-to-make-string-empty",
+          "difficulty": "Medium",
+          "acRate": 56.222347357412914,
+          "status": "PENDING",
+          "frontendQuestionId": "3039"
+        },
+        {
+          "questionId": "3318",
+          "title": "Maximum Number of Operations With the Same Score II",
+          "titleSlug": "maximum-number-of-operations-with-the-same-score-ii",
+          "difficulty": "Medium",
+          "acRate": 33.48300093798533,
+          "status": "PENDING",
+          "frontendQuestionId": "3040"
+        },
+        {
+          "questionId": "3329",
+          "title": "Find the Length of the Longest Common Prefix",
+          "titleSlug": "find-the-length-of-the-longest-common-prefix",
+          "difficulty": "Medium",
+          "acRate": 56.22828708251004,
+          "status": "PENDING",
+          "frontendQuestionId": "3043"
+        }
+      ]
+    }
+  }
+}
