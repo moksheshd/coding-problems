@@ -12,11 +12,11 @@ repositories {
 sourceCompatibility = '11'
 
 dependencies {
-  implementation group: 'org.junit.jupiter', name: 'junit-jupiter-api', version: '5.9.0'
-  testImplementation group: 'org.junit.jupiter', name: 'junit-jupiter-api', version: '5.9.0'
-  testImplementation group: 'org.junit.jupiter', name: 'junit-jupiter-params', version: '5.9.0'
-  testImplementation group: 'org.junit.jupiter', name: 'junit-jupiter-engine', version: '5.9.0'
-  testImplementation group: 'org.assertj', name: 'assertj-core', version: '3.23.1'
+  implementation group: 'org.junit.jupiter', name: 'junit-jupiter-api', version: '5.9.2'
+  testImplementation group: 'org.junit.jupiter', name: 'junit-jupiter-api', version: '5.9.2'
+  testImplementation group: 'org.junit.jupiter', name: 'junit-jupiter-params', version: '5.9.2'
+  testImplementation group: 'org.junit.jupiter', name: 'junit-jupiter-engine', version: '5.9.2'
+  testImplementation group: 'org.assertj', name: 'assertj-core', version: '3.24.1'
 }
 
 tasks.named('test') {
